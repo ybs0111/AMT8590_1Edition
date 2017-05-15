@@ -1,0 +1,6140 @@
+
+///////////////////////////////////////////////////////
+//  00 : Density Feeder#1 Robot AXIS
+///////////////////////////////////////////////////////
+[000001]
+COUNT = 5
+1 = Density_Feeder1_Axis_Motor_Home_Check_Error.
+2 = Confirm motor power and the Home check speed.
+3 = Confirm whether Home check sensor and obstacle are.
+4 = Confirm whether motor state is normally.
+5 = Confirm whether motor driver is normally.
+
+[000002]
+COUNT = 4
+1 = Density_Feeder1_Axis_Motor_Alarm_Error.
+2 = Confirm whether is part that give overload to motor.
+3 = Confirm whether motor state is normally.
+4 = Confirm whether motor driver is normally.
+
+[000003]
+COUNT = 2
+1 = Density_Feeder1_Axis_Motor_Parameter_Setting_Error.
+2 = Confirm parameter in motor speed screen.
+
+[000004]
+COUNT = 2
+1 = Density_Feeder1_Axis_Motor_Move_Setting_Error.
+2 = Confirm whether location measure is normal in Unloader department motor display.
+
+[000005]
+COUNT = 3
+1 = Density_Feeder1_Axis_Motor_Power_Off_Error.
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[000006]
+COUNT = 3
+1 = Density_Feeder1_Axis_Motor_Move_Error.
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[000007]
+COUNT = 2
+1 = Density_Feeder1_Axis_Motor_Do_Not_Home_Check.
+2 = Motor Home checking.
+
+[000008]
+COUNT = 3
+1 = Density_Feeder1_Axis_Motor_is_Non_Safety_Pos.
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[000015]
+COUNT = 3
+1 = Interpolation_IxMapAxis_setting_Error_Density_XY_motor.
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[010001]
+COUNT = 5
+1 = Density_Feeder2_Axis_Motor_Home_Check_Error.
+2 = Confirm motor power and the Home check speed.
+3 = Confirm whether Home check sensor and obstacle are.
+4 = Confirm whether motor state is normally.
+5 = Confirm whether motor driver is normally.
+
+[010002]
+COUNT = 4
+1 = Density_Feeder2_Axis_Motor_Alarm_Error.
+2 = Confirm whether is part that give overload to motor.
+3 = Confirm whether motor state is normally.
+4 = Confirm whether motor driver is normally.
+
+[010003]
+COUNT = 2
+1 = Density_Feeder2_Axis_Motor_Parameter_Setting_Error.
+2 = Confirm parameter in motor speed screen.
+
+[010004]
+COUNT = 2
+1 = Density_Feeder2_Axis_Motor_Move_Setting_Error.
+2 = Confirm whether location measure is normal in Unloader department motor display.
+
+[010005]
+COUNT = 3
+1 = Density_Feeder2_Axis_Motor_Power_Off_Error.
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[010006]
+COUNT = 3
+1 = Density_Feeder2_Axis_Motor_Move_Error.
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[010007]
+COUNT = 2
+1 = Density_Feeder2_Axis_Motor_Do_Not_Home_Check.
+2 = Motor Home checking.
+
+[010008]
+COUNT = 3
+1 = Density_Feeder2_Axis_Motor_is_Non_Safety_Pos.
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[020001]
+COUNT = 5
+1 = Density_Feeder3_Axis_Motor_Home_Check_Error.
+2 = Confirm motor power and the Home check speed.
+3 = Confirm whether Home check sensor and obstacle are.
+4 = Confirm whether motor state is normally.
+5 = Confirm whether motor driver is normally.
+
+[020002]
+COUNT = 4
+1 = Density_Feeder3_Axis_Motor_Alarm_Error.
+2 = Confirm whether is part that give overload to motor.
+3 = Confirm whether motor state is normally.
+4 = Confirm whether motor driver is normally.
+
+[020003]
+COUNT = 2
+1 = Density_Feeder3_Axis_Motor_Parameter_Setting_Error.
+2 = Confirm parameter in motor speed screen.
+
+[020004]
+COUNT = 2
+1 = Density_Feeder3_Axis_Motor_Move_Setting_Error.
+2 = Confirm whether location measure is normal in Unloader department motor display.
+
+[020005]
+COUNT = 3
+1 = Density_Feeder3_Axis_Motor_Power_Off_Error.
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[020006]
+COUNT = 3
+1 = Density_Feeder3_Axis_Motor_Move_Error.
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[020007]
+COUNT = 2
+1 = Density_Feeder3_Axis_Motor_Do_Not_Home_Check.
+2 = Motor Home checking.
+
+[020008]
+COUNT = 3
+1 = Density_Feeder3_Axis_Motor_is_Non_Safety_Pos.
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[030001]
+COUNT = 5
+1 = Density_Feeder4_Axis_Motor_Home_Check_Error.
+2 = Confirm motor power and the Home check speed.
+3 = Confirm whether Home check sensor and obstacle are.
+4 = Confirm whether motor state is normally.
+5 = Confirm whether motor driver is normally.
+
+[030002]
+COUNT = 4
+1 = Density_Feeder4_Axis_Motor_Alarm_Error.
+2 = Confirm whether is part that give overload to motor.
+3 = Confirm whether motor state is normally.
+4 = Confirm whether motor driver is normally.
+
+[030003]
+COUNT = 2
+1 = Density_Feeder4_Axis_Motor_Parameter_Setting_Error.
+2 = Confirm parameter in motor speed screen.
+
+[030004]
+COUNT = 2
+1 = Density_Feeder4_Axis_Motor_Move_Setting_Error.
+2 = Confirm whether location measure is normal in Unloader department motor display.
+
+[030005]
+COUNT = 3
+1 = Density_Feeder4_Axis_Motor_Power_Off_Error.
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[030006]
+COUNT = 3
+1 = Density_Feeder4_Axis_Motor_Move_Error.
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[030007]
+COUNT = 2
+1 = Density_Feeder4_Axis_Motor_Do_Not_Home_Check.
+2 = Motor Home checking.
+
+[030008]
+COUNT = 3
+1 = Density_Feeder4_Axis_Motor_is_Non_Safety_Pos.
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[040001]
+COUNT = 5
+1 = Density_Feeder5_Axis_Motor_Home_Check_Error.
+2 = Confirm motor power and the Home check speed.
+3 = Confirm whether Home check sensor and obstacle are.
+4 = Confirm whether motor state is normally.
+5 = Confirm whether motor driver is normally.
+
+[040002]
+COUNT = 4
+1 = Density_Feeder5_Axis_Motor_Alarm_Error.
+2 = Confirm whether is part that give overload to motor.
+3 = Confirm whether motor state is normally.
+4 = Confirm whether motor driver is normally.
+
+[040003]
+COUNT = 2
+1 = Density_Feeder5_Axis_Motor_Parameter_Setting_Error.
+2 = Confirm parameter in motor speed screen.
+
+[040004]
+COUNT = 2
+1 = Density_Feeder5_Axis_Motor_Move_Setting_Error.
+2 = Confirm whether location measure is normal in Unloader department motor display.
+
+[040005]
+COUNT = 3
+1 = Density_Feeder5_Axis_Motor_Power_Off_Error.
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[040006]
+COUNT = 3
+1 = Density_Feeder5_Axis_Motor_Move_Error.
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[040007]
+COUNT = 2
+1 = Density_Feeder5_Axis_Motor_Do_Not_Home_Check.
+2 = Motor Home checking.
+
+[040008]
+COUNT = 3
+1 = Density_Feeder5_Axis_Motor_is_Non_Safety_Pos.
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[050001]
+COUNT = 5
+1 = Density_Feeder6_Axis_Motor_Home_Check_Error.
+2 = Confirm motor power and the Home check speed.
+3 = Confirm whether Home check sensor and obstacle are.
+4 = Confirm whether motor state is normally.
+5 = Confirm whether motor driver is normally.
+
+[050002]
+COUNT = 4
+1 = Density_Feeder6_Axis_Motor_Alarm_Error.
+2 = Confirm whether is part that give overload to motor.
+3 = Confirm whether motor state is normally.
+4 = Confirm whether motor driver is normally.
+
+[050003]
+COUNT = 2
+1 = Density_Feeder6_Axis_Motor_Parameter_Setting_Error.
+2 = Confirm parameter in motor speed screen.
+
+[050004]
+COUNT = 2
+1 = Density_Feeder6_Axis_Motor_Move_Setting_Error.
+2 = Confirm whether location measure is normal in Unloader department motor display.
+
+[050005]
+COUNT = 3
+1 = Density_Feeder6_Axis_Motor_Power_Off_Error.
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[050006]
+COUNT = 3
+1 = Density_Feeder6_Axis_Motor_Move_Error.
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[050007]
+COUNT = 2
+1 = Density_Feeder6_Axis_Motor_Do_Not_Home_Check.
+2 = Motor Home checking.
+
+[050008]
+COUNT = 3
+1 = Density_Feeder6_Axis_Motor_is_Non_Safety_Pos.
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[060001]
+COUNT = 5
+1 = Distribute_Feeder1_Axis_Motor_Home_Check_Error.
+2 = Confirm motor power and the Home check speed.
+3 = Confirm whether Home check sensor and obstacle are.
+4 = Confirm whether motor state is normally.
+5 = Confirm whether motor driver is normally.
+
+[060002]
+COUNT = 4
+1 = Distribute_Feeder1_Axis_Motor_Alarm_Error.
+2 = Confirm whether is part that give overload to motor.
+3 = Confirm whether motor state is normally.
+4 = Confirm whether motor driver is normally.
+
+[060003]
+COUNT = 2
+1 = Distribute_Feeder1_Axis_Motor_Parameter_Setting_Error.
+2 = Confirm parameter in motor speed screen.
+
+[060004]
+COUNT = 2
+1 = Distribute_Feeder1_Axis_Motor_Move_Setting_Error.
+2 = Confirm whether location measure is normal in Unloader department motor display.
+
+[060005]
+COUNT = 3
+1 = Distribute_Feeder1_Axis_Motor_Power_Off_Error.
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[060006]
+COUNT = 3
+1 = Distribute_Feeder1_Axis_Motor_Move_Error.
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[060007]
+COUNT = 2
+1 = Distribute_Feeder1_Axis_Motor_Do_Not_Home_Check.
+2 = Motor Home checking.
+
+[060008]
+COUNT = 3
+1 = Distribute_Feeder1_Axis_Motor_is_Non_Safety_Pos.
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[070001]
+COUNT = 5
+1 = Distribute_Feeder2_Axis_Motor_Home_Check_Error.
+2 = Confirm motor power and the Home check speed.
+3 = Confirm whether Home check sensor and obstacle are.
+4 = Confirm whether motor state is normally.
+5 = Confirm whether motor driver is normally.
+
+[070002]
+COUNT = 4
+1 = Distribute_Feeder2_Axis_Motor_Alarm_Error.
+2 = Confirm whether is part that give overload to motor.
+3 = Confirm whether motor state is normally.
+4 = Confirm whether motor driver is normally.
+
+[070003]
+COUNT = 2
+1 = Distribute_Feeder2_Axis_Motor_Parameter_Setting_Error.
+2 = Confirm parameter in motor speed screen.
+
+[070004]
+COUNT = 2
+1 = Distribute_Feeder2_Axis_Motor_Move_Setting_Error.
+2 = Confirm whether location measure is normal in Unloader department motor display.
+
+[070005]
+COUNT = 3
+1 = Distribute_Feeder2_Axis_Motor_Power_Off_Error.
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[070006]
+COUNT = 3
+1 = Distribute_Feeder2_Axis_Motor_Move_Error.
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[070007]
+COUNT = 2
+1 = Distribute_Feeder2_Axis_Motor_Do_Not_Home_Check.
+2 = Motor Home checking.
+
+[070008]
+COUNT = 3
+1 = Distribute_Feeder2_Axis_Motor_is_Non_Safety_Pos.
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[080001]
+COUNT = 5
+1 = Distribute_Feeder3_Axis_Motor_Home_Check_Error.
+2 = Confirm motor power and the Home check speed.
+3 = Confirm whether Home check sensor and obstacle are.
+4 = Confirm whether motor state is normally.
+5 = Confirm whether motor driver is normally.
+
+[080002]
+COUNT = 4
+1 = Distribute_Feeder3_Axis_Motor_Alarm_Error.
+2 = Confirm whether is part that give overload to motor.
+3 = Confirm whether motor state is normally.
+4 = Confirm whether motor driver is normally.
+
+[080003]
+COUNT = 2
+1 = Distribute_Feeder3_Axis_Motor_Parameter_Setting_Error.
+2 = Confirm parameter in motor speed screen.
+
+[080004]
+COUNT = 2
+1 = Distribute_Feeder3_Axis_Motor_Move_Setting_Error.
+2 = Confirm whether location measure is normal in Unloader department motor display.
+
+[080005]
+COUNT = 3
+1 = Distribute_Feeder3_Axis_Motor_Power_Off_Error.
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[080006]
+COUNT = 3
+1 = Distribute_Feeder3_Axis_Motor_Move_Error.
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[080007]
+COUNT = 2
+1 = Distribute_Feeder3_Axis_Motor_Do_Not_Home_Check.
+2 = Motor Home checking.
+
+[080008]
+COUNT = 3
+1 = Distribute_Feeder3_Axis_Motor_is_Non_Safety_Pos.
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[090001]
+COUNT = 5
+1 = Distribute_Feeder4_Axis_Motor_Home_Check_Error.
+2 = Confirm motor power and the Home check speed.
+3 = Confirm whether Home check sensor and obstacle are.
+4 = Confirm whether motor state is normally.
+5 = Confirm whether motor driver is normally.
+
+[090002]
+COUNT = 4
+1 = Distribute_Feeder4_Axis_Motor_Alarm_Error.
+2 = Confirm whether is part that give overload to motor.
+3 = Confirm whether motor state is normally.
+4 = Confirm whether motor driver is normally.
+
+[090003]
+COUNT = 2
+1 = Distribute_Feeder4_Axis_Motor_Parameter_Setting_Error.
+2 = Confirm parameter in motor speed screen.
+
+[090004]
+COUNT = 2
+1 = Distribute_Feeder4_Axis_Motor_Move_Setting_Error.
+2 = Confirm whether location measure is normal in Unloader department motor display.
+
+[090005]
+COUNT = 3
+1 = Distribute_Feeder4_Axis_Motor_Power_Off_Error.
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[090006]
+COUNT = 3
+1 = Distribute_Feeder4_Axis_Motor_Move_Error.
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[090007]
+COUNT = 2
+1 = Distribute_Feeder4_Axis_Motor_Do_Not_Home_Check.
+2 = Motor Home checking.
+
+[090008]
+COUNT = 3
+1 = Distribute_Feeder4_Axis_Motor_is_Non_Safety_Pos.
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[100001]
+COUNT = 5
+1 = Density_Vision_X_Axis_Motor_Home_Check_Error.
+2 = Confirm motor power and the Home check speed.
+3 = Confirm whether Home check sensor and obstacle are.
+4 = Confirm whether motor state is normally.
+5 = Confirm whether motor driver is normally.
+
+[100002]
+COUNT = 4
+1 = Density_Vision_X_Axis_Motor_Alarm_Error.
+2 = Confirm whether is part that give overload to motor.
+3 = Confirm whether motor state is normally.
+4 = Confirm whether motor driver is normally.
+
+[100003]
+COUNT = 2
+1 = Density_Vision_X_Axis_Motor_Parameter_Setting_Error.
+2 = Confirm parameter in motor speed screen.
+
+[100004]
+COUNT = 2
+1 = Density_Vision_X_Axis_Motor_Move_Setting_Error.
+2 = Confirm whether location measure is normal in Unloader department motor display.
+
+[100005]
+COUNT = 3
+1 = Density_Vision_X_Axis_Motor_Power_Off_Error.
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[100006]
+COUNT = 3
+1 = Density_Vision_X_Axis_Motor_Move_Error.
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[100007]
+COUNT = 2
+1 = Density_Vision_X_Axis_Motor_Do_Not_Home_Check.
+2 = Motor Home checking.
+
+[100008]
+COUNT = 3
+1 = Density_Vision_X_Axis_Motor_is_Non_Safety_Pos.
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[110001]
+COUNT = 5
+1 = Density_Attach_X_Axis_Motor_Home_Check_Error.
+2 = Confirm motor power and the Home check speed.
+3 = Confirm whether Home check sensor and obstacle are.
+4 = Confirm whether motor state is normally.
+5 = Confirm whether motor driver is normally.
+
+[110002]
+COUNT = 4
+1 = Density_Attach_X_Axis_Motor_Alarm_Error.
+2 = Confirm whether is part that give overload to motor.
+3 = Confirm whether motor state is normally.
+4 = Confirm whether motor driver is normally.
+
+[110003]
+COUNT = 2
+1 = Density_Attach_X_Axis_Motor_Parameter_Setting_Error.
+2 = Confirm parameter in motor speed screen.
+
+[110004]
+COUNT = 2
+1 = Density_Attach_X_Axis_Motor_Move_Setting_Error.
+2 = Confirm whether location measure is normal in Unloader department motor display.
+
+[110005]
+COUNT = 3
+1 = Density_Attach_X_Axis_Motor_Power_Off_Error.
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[110006]
+COUNT = 3
+1 = Density_Attach_X_Axis_Motor_Move_Error.
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[110007]
+COUNT = 2
+1 = Density_Attach_X_Axis_Motor_Do_Not_Home_Check.
+2 = Motor Home checking.
+
+[110008]
+COUNT = 3
+1 = Density_Attach_X_Axis_Motor_is_Non_Safety_Pos.
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[110009]
+COUNT = 3
+1 = Density_Attach_XY_Motor_Destination_is_Non_Safety_Pos
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[110015]
+COUNT = 3
+1 = Interpolation_IxMapAxis_setting_Error_Density_X_motor.
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[120001]
+COUNT = 5
+1 = Density_Attach_Y_Axis_Motor_Home_Check_Error.
+2 = Confirm motor power and the Home check speed.
+3 = Confirm whether Home check sensor and obstacle are.
+4 = Confirm whether motor state is normally.
+5 = Confirm whether motor driver is normally.
+
+[120002]
+COUNT = 4
+1 = Density_Attach_Y_Axis_Motor_Alarm_Error.
+2 = Confirm whether is part that give overload to motor.
+3 = Confirm whether motor state is normally.
+4 = Confirm whether motor driver is normally.
+
+[120003]
+COUNT = 2
+1 = Density_Attach_Y_Axis_Motor_Parameter_Setting_Error.
+2 = Confirm parameter in motor speed screen.
+
+[120004]
+COUNT = 2
+1 = Density_Attach_Y_Axis_Motor_Move_Setting_Error.
+2 = Confirm whether location measure is normal in Unloader department motor display.
+
+[120005]
+COUNT = 3
+1 = Density_Attach_Y_Axis_Motor_Power_Off_Error.
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[120006]
+COUNT = 3
+1 = Density_Attach_Y_Axis_Motor_Move_Error.
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[120007]
+COUNT = 2
+1 = Density_Attach_Y_Axis_Motor_Do_Not_Home_Check.
+2 = Motor Home checking.
+
+[120008]
+COUNT = 3
+1 = Density_Attach_Y_Axis_Motor_is_Non_Safety_Pos.
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[120009]
+COUNT = 3
+1 = Density_Attach_XY_Motor_Destination_is_Non_Safety_Pos
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[120015]
+COUNT = 3
+1 = Interpolation_IxMapAxis_setting_Error_Density_Y_moto.
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[130001]
+COUNT = 5
+1 = Density_Attach_Z1_Axis_Motor_Home_Check_Error.
+2 = Confirm motor power and the Home check speed.
+3 = Confirm whether Home check sensor and obstacle are.
+4 = Confirm whether motor state is normally.
+5 = Confirm whether motor driver is normally.
+
+[130002]
+COUNT = 4
+1 = Density_Attach_Z1_Axis_Motor_Alarm_Error.
+2 = Confirm whether is part that give overload to motor.
+3 = Confirm whether motor state is normally.
+4 = Confirm whether motor driver is normally.
+
+[130003]
+COUNT = 2
+1 = Density_Attach_Z1_Axis_Motor_Parameter_Setting_Error.
+2 = Confirm parameter in motor speed screen.
+
+[130004]
+COUNT = 2
+1 = Density_Attach_Z1_Axis_Motor_Move_Setting_Error.
+2 = Confirm whether location measure is normal in Unloader department motor display.
+
+[130005]
+COUNT = 3
+1 = Density_Attach_Z1_Axis_Motor_Power_Off_Error.
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[130006]
+COUNT = 3
+1 = Density_Attach_Z1_Axis_Motor_Move_Error.
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[130007]
+COUNT = 2
+1 = Density_Attach_Z1_Axis_Motor_Do_Not_Home_Check.
+2 = Motor Home checking.
+
+[130008]
+COUNT = 3
+1 = Density_Attach_Z1_Axis_Motor_is_Non_Safety_Pos.
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[140001]
+COUNT = 5
+1 = Density_Attach_Z2_Axis_Motor_Home_Check_Error.
+2 = Confirm motor power and the Home check speed.
+3 = Confirm whether Home check sensor and obstacle are.
+4 = Confirm whether motor state is normally.
+5 = Confirm whether motor driver is normally.
+
+[140002]
+COUNT = 4
+1 = Density_Attach_Z2_Axis_Motor_Alarm_Error.
+2 = Confirm whether is part that give overload to motor.
+3 = Confirm whether motor state is normally.
+4 = Confirm whether motor driver is normally.
+
+[140003]
+COUNT = 2
+1 = Density_Attach_Z2_Axis_Motor_Parameter_Setting_Error.
+2 = Confirm parameter in motor speed screen.
+
+[140004]
+COUNT = 2
+1 = Density_Attach_Z2_Axis_Motor_Move_Setting_Error.
+2 = Confirm whether location measure is normal in Unloader department motor display.
+
+[140005]
+COUNT = 3
+1 = Density_Attach_Z2_Axis_Motor_Power_Off_Error.
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[140006]
+COUNT = 3
+1 = Density_Attach_Z2_Axis_Motor_Move_Error.
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[140007]
+COUNT = 2
+1 = Density_Attach_Z2_Axis_Motor_Do_Not_Home_Check.
+2 = Motor Home checking.
+
+[140008]
+COUNT = 3
+1 = Density_Attach_Z2_Axis_Motor_is_Non_Safety_Pos.
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[150001]
+COUNT = 5
+1 = Distribute_Vision_X_Axis_Motor_Home_Check_Error.
+2 = Confirm motor power and the Home check speed.
+3 = Confirm whether Home check sensor and obstacle are.
+4 = Confirm whether motor state is normally.
+5 = Confirm whether motor driver is normally.
+
+[150002]
+COUNT = 4
+1 = Distribute_Vision_X_Axis_Motor_Alarm_Error.
+2 = Confirm whether is part that give overload to motor.
+3 = Confirm whether motor state is normally.
+4 = Confirm whether motor driver is normally.
+
+[150003]
+COUNT = 2
+1 = Distribute_Vision_X_Axis_Motor_Parameter_Setting_Error.
+2 = Confirm parameter in motor speed screen.
+
+[150004]
+COUNT = 2
+1 = Distribute_Vision_X_Axis_Motor_Move_Setting_Error.
+2 = Confirm whether location measure is normal in Unloader department motor display.
+
+[150005]
+COUNT = 3
+1 = Distribute_Vision_X_Axis_Motor_Power_Off_Error.
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[150006]
+COUNT = 3
+1 = Distribute_Vision_X_Axis_Motor_Move_Error.
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[150007]
+COUNT = 2
+1 = Distribute_Vision_X_Axis_Motor_Do_Not_Home_Check.
+2 = Motor Home checking.
+
+[150008]
+COUNT = 3
+1 = Distribute_Vision_X_Axis_Motor_is_Non_Safety_Pos..
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[160001]
+COUNT = 5
+1 = Distribute_Label_Reject_X_Axis_Motor_Home_Check_Error.
+2 = Confirm motor power and the Home check speed.
+3 = Confirm whether Home check sensor and obstacle are.
+4 = Confirm whether motor state is normally.
+5 = Confirm whether motor driver is normally.
+
+[160002]
+COUNT = 4
+1 = Distribute_Label_Reject_X_Axis_Motor_Alarm_Error.
+2 = Confirm whether is part that give overload to motor.
+3 = Confirm whether motor state is normally.
+4 = Confirm whether motor driver is normally.
+
+[160003]
+COUNT = 2
+1 = Distribute_Label_Reject_X_Axis_Motor_Parameter_Setting_Error.
+2 = Confirm parameter in motor speed screen.
+
+[160004]
+COUNT = 2
+1 = Distribute_Label_Reject_X_Axis_Motor_Move_Setting_Error.
+2 = Confirm whether location measure is normal in Unloader department motor display.
+
+[160005]
+COUNT = 3
+1 = Distribute_Label_Reject_X_Axis_Motor_Power_Off_Error.
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[160006]
+COUNT = 3
+1 = Distribute_Label_Reject_X_Axis_Motor_Move_Error.
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[160007]
+COUNT = 2
+1 = Distribute_Label_Reject_X_Axis_Motor_Do_Not_Home_Check.
+2 = Motor Home checking.
+
+[160008]
+COUNT = 3
+1 = Distribute_Label_Reject_X_Axis_Motor_is_Non_Safety_Pos..
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[170001]
+COUNT = 5
+1 = Distribute1_Attach_X_Axis_Motor_Home_Check_Error.
+2 = Confirm motor power and the Home check speed.
+3 = Confirm whether Home check sensor and obstacle are.
+4 = Confirm whether motor state is normally.
+5 = Confirm whether motor driver is normally.
+
+[170002]
+COUNT = 4
+1 = Distribute1_Attach_X_Axis_Motor_Alarm_Error.
+2 = Confirm whether is part that give overload to motor.
+3 = Confirm whether motor state is normally.
+4 = Confirm whether motor driver is normally.
+
+[170003]
+COUNT = 2
+1 = Distribute1_Attach_X_Axis_Motor_Parameter_Setting_Error.
+2 = Confirm parameter in motor speed screen.
+
+[170004]
+COUNT = 2
+1 = Distribute1_Attach_X_Axis_Motor_Move_Setting_Error.
+2 = Confirm whether location measure is normal in Unloader department motor display.
+
+[170005]
+COUNT = 3
+1 = Distribute1_Attach_X_Axis_Motor_Power_Off_Error.
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[170006]
+COUNT = 3
+1 = Distribute1_Attach_X_Axis_Motor_Move_Error.
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[170007]
+COUNT = 2
+1 = Distribute1_Attach_X_Axis_Motor_Do_Not_Home_Check.
+2 = Motor Home checking.
+
+[170008]
+COUNT = 3
+1 = Distribute1_Attach_X_Axis_Motor_is_Non_Safety_Pos..
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[180001]
+COUNT = 5
+1 = Distribute1_Attach_Z1_Axis_Motor_Home_Check_Error.
+2 = Confirm motor power and the Home check speed.
+3 = Confirm whether Home check sensor and obstacle are.
+4 = Confirm whether motor state is normally.
+5 = Confirm whether motor driver is normally.
+
+[180002]
+COUNT = 4
+1 = Distribute1_Attach_Z1_Axis_Motor_Alarm_Error.
+2 = Confirm whether is part that give overload to motor.
+3 = Confirm whether motor state is normally.
+4 = Confirm whether motor driver is normally.
+
+[180004]
+COUNT = 2
+1 = Distribute1_Attach_Z1_Axis_Motor_Move_Setting_Error.
+2 = Confirm whether location measure is normal in Unloader department motor display.
+
+[180005]
+COUNT = 3
+1 = Distribute1_Attach_Z1_Axis_Motor_Power_Off_Error.
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[180006]
+COUNT = 3
+1 = Distribute1_Attach_Z1_Axis_Motor_Move_Error.
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[180007]
+COUNT = 2
+1 = Distribute1_Attach_Z1_Axis_Motor_Do_Not_Home_Check.
+2 = Motor Home checking.
+
+[180008]
+COUNT = 3
+1 = Distribute1_Attach_Z1_Axis_Motor_is_Non_Safety_Pos..
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[190001]
+COUNT = 5
+1 = Distribute1_Attach_R1_Axis_Motor_Home_Check_Error.
+2 = Confirm motor power and the Home check speed.
+3 = Confirm whether Home check sensor and obstacle are.
+4 = Confirm whether motor state is normally.
+5 = Confirm whether motor driver is normally.
+
+[190002]
+COUNT = 4
+1 = Distribute1_Attach_R1_Axis_Motor_Alarm_Error.
+2 = Confirm whether is part that give overload to motor.
+3 = Confirm whether motor state is normally.
+4 = Confirm whether motor driver is normally.
+
+[190003]
+COUNT = 2
+1 = Distribute1_Attach_R1_Axis_Motor_Parameter_Setting_Error.
+2 = Confirm parameter in motor speed screen.
+
+[190004]
+COUNT = 2
+1 = Distribute1_Attach_R1_Axis_Motor_Move_Setting_Error.
+2 = Confirm whether location measure is normal in Unloader department motor display.
+
+[190005]
+COUNT = 3
+1 = Distribute1_Attach_R1_Axis_Motor_Power_Off_Error.
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[190006]
+COUNT = 3
+1 = Distribute1_Attach_R1_Axis_Motor_Move_Error.
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[190007]
+COUNT = 2
+1 = Distribute1_Attach_R1_Axis_Motor_Do_Not_Home_Check.
+2 = Motor Home checking.
+
+[190008]
+COUNT = 3
+1 = Distribute1_Attach_R1_Axis_Motor_is_Non_Safety_Pos..
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[200001]
+COUNT = 5
+1 = Distribute1_Attach_Z2_Axis_Motor_Home_Check_Error.
+2 = Confirm motor power and the Home check speed.
+3 = Confirm whether Home check sensor and obstacle are.
+4 = Confirm whether motor state is normally.
+5 = Confirm whether motor driver is normally.
+
+[200002]
+COUNT = 4
+1 = Distribute1_Attach_Z2_Axis_Motor_Alarm_Error.
+2 = Confirm whether is part that give overload to motor.
+3 = Confirm whether motor state is normally.
+4 = Confirm whether motor driver is normally.
+
+[200003]
+COUNT = 2
+1 = Distribute1_Attach_Z2_Axis_Motor_Parameter_Setting_Error.
+2 = Confirm parameter in motor speed screen.
+
+[200004]
+COUNT = 2
+1 = Distribute1_Attach_Z2_Axis_Motor_Move_Setting_Error.
+2 = Confirm whether location measure is normal in Unloader department motor display.
+
+[200005]
+COUNT = 3
+1 = Distribute1_Attach_Z2_Axis_Motor_Power_Off_Error.
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[200006]
+COUNT = 3
+1 = Distribute1_Attach_Z2_Axis_Motor_Move_Error.
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[200007]
+COUNT = 2
+1 = Distribute1_Attach_Z2_Axis_Motor_Do_Not_Home_Check.
+2 = Motor Home checking.
+
+[200008]
+COUNT = 3
+1 = Distribute1_Attach_Z2_Axis_Motor_is_Non_Safety_Pos..
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[210001]
+COUNT = 5
+1 = Distribute1_Attach_R2_Axis_Motor_Home_Check_Error.
+2 = Confirm motor power and the Home check speed.
+3 = Confirm whether Home check sensor and obstacle are.
+4 = Confirm whether motor state is normally.
+5 = Confirm whether motor driver is normally.
+
+[210002]
+COUNT = 4
+1 = Distribute1_Attach_R2_Axis_Motor_Alarm_Error.
+2 = Confirm whether is part that give overload to motor.
+3 = Confirm whether motor state is normally.
+4 = Confirm whether motor driver is normally.
+
+[210003]
+COUNT = 2
+1 = Distribute1_Attach_R2_Axis_Motor_Parameter_Setting_Error.
+2 = Confirm parameter in motor speed screen.
+
+[210004]
+COUNT = 2
+1 = Distribute1_Attach_R2_Axis_Motor_Move_Setting_Error.
+2 = Confirm whether location measure is normal in Unloader department motor display.
+
+[210005]
+COUNT = 3
+1 = Distribute1_Attach_R2_Axis_Motor_Power_Off_Error.
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[210006]
+COUNT = 3
+1 = Distribute1_Attach_R2_Axis_Motor_Move_Error.
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[210007]
+COUNT = 2
+1 = Distribute1_Attach_R2_Axis_Motor_Do_Not_Home_Check.
+2 = Motor Home checking.
+
+[210008]
+COUNT = 3
+1 = Distribute1_Attach_R2_Axis_Motor_is_Non_Safety_Pos..
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[220001]
+COUNT = 5
+1 = Distribute2_Attach_X_Axis_Motor_Home_Check_Error.
+2 = Confirm motor power and the Home check speed.
+3 = Confirm whether Home check sensor and obstacle are.
+4 = Confirm whether motor state is normally.
+5 = Confirm whether motor driver is normally.
+
+[220002]
+COUNT = 4
+1 = Distribute2_Attach_X_Axis_Motor_Alarm_Error.
+2 = Confirm whether is part that give overload to motor.
+3 = Confirm whether motor state is normally.
+4 = Confirm whether motor driver is normally.
+
+[220003]
+COUNT = 2
+1 = Distribute2_Attach_X_Axis_Motor_Parameter_Setting_Error.
+2 = Confirm parameter in motor speed screen.
+
+[220004]
+COUNT = 2
+1 = Distribute2_Attach_X_Axis_Motor_Move_Setting_Error.
+2 = Confirm whether location measure is normal in Unloader department motor display.
+
+[220005]
+COUNT = 3
+1 = Distribute2_Attach_X_Axis_Motor_Power_Off_Error.
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[220006]
+COUNT = 3
+1 = Distribute2_Attach_X_Axis_Motor_Move_Error.
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[220007]
+COUNT = 2
+1 = Distribute2_Attach_X_Axis_Motor_Do_Not_Home_Check.
+2 = Motor Home checking.
+
+[220008]
+COUNT = 3
+1 = Distribute2_Attach_X_Axis_Motor_is_Non_Safety_Pos..
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[230001]
+COUNT = 5
+1 = Distribute2_Attach_Z1_Axis_Motor_Home_Check_Error.
+2 = Confirm motor power and the Home check speed.
+3 = Confirm whether Home check sensor and obstacle are.
+4 = Confirm whether motor state is normally.
+5 = Confirm whether motor driver is normally.
+
+[230002]
+COUNT = 4
+1 = Distribute2_Attach_Z1_Axis_Motor_Alarm_Error.
+2 = Confirm whether is part that give overload to motor.
+3 = Confirm whether motor state is normally.
+4 = Confirm whether motor driver is normally.
+
+[230004]
+COUNT = 2
+1 = Distribute2_Attach_Z1_Axis_Motor_Move_Setting_Error.
+2 = Confirm whether location measure is normal in Unloader department motor display.
+
+[230005]
+COUNT = 3
+1 = Distribute2_Attach_Z1_Axis_Motor_Power_Off_Error.
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[230006]
+COUNT = 3
+1 = Distribute2_Attach_Z1_Axis_Motor_Move_Error.
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[230007]
+COUNT = 2
+1 = Distribute2_Attach_Z1_Axis_Motor_Do_Not_Home_Check.
+2 = Motor Home checking.
+
+[230008]
+COUNT = 3
+1 = Distribute2_Attach_Z1_Axis_Motor_is_Non_Safety_Pos..
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[240001]
+COUNT = 5
+1 = Distribute2_Attach_R1_Axis_Motor_Home_Check_Error.
+2 = Confirm motor power and the Home check speed.
+3 = Confirm whether Home check sensor and obstacle are.
+4 = Confirm whether motor state is normally.
+5 = Confirm whether motor driver is normally.
+
+[240002]
+COUNT = 4
+1 = Distribute2_Attach_R1_Axis_Motor_Alarm_Error.
+2 = Confirm whether is part that give overload to motor.
+3 = Confirm whether motor state is normally.
+4 = Confirm whether motor driver is normally.
+
+[240003]
+COUNT = 2
+1 = Distribute2_Attach_R1_Axis_Motor_Parameter_Setting_Error.
+2 = Confirm parameter in motor speed screen.
+
+[240004]
+COUNT = 2
+1 = Distribute2_Attach_R1_Axis_Motor_Move_Setting_Error.
+2 = Confirm whether location measure is normal in Unloader department motor display.
+
+[240005]
+COUNT = 3
+1 = Distribute2_Attach_R1_Axis_Motor_Power_Off_Error.
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[240006]
+COUNT = 3
+1 = Distribute2_Attach_R1_Axis_Motor_Move_Error.
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[240007]
+COUNT = 2
+1 = Distribute2_Attach_R1_Axis_Motor_Do_Not_Home_Check.
+2 = Motor Home checking.
+
+[240008]
+COUNT = 3
+1 = Distribute2_Attach_R1_Axis_Motor_is_Non_Safety_Pos..
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[250001]
+COUNT = 5
+1 = Distribute2_Attach_Z2_Axis_Motor_Home_Check_Error.
+2 = Confirm motor power and the Home check speed.
+3 = Confirm whether Home check sensor and obstacle are.
+4 = Confirm whether motor state is normally.
+5 = Confirm whether motor driver is normally.
+
+[250002]
+COUNT = 4
+1 = Distribute2_Attach_Z2_Axis_Motor_Alarm_Error.
+2 = Confirm whether is part that give overload to motor.
+3 = Confirm whether motor state is normally.
+4 = Confirm whether motor driver is normally.
+
+[250004]
+COUNT = 2
+1 = Distribute2_Attach_Z2_Axis_Motor_Move_Setting_Error.
+2 = Confirm whether location measure is normal in Unloader department motor display.
+
+[250005]
+COUNT = 3
+1 = Distribute2_Attach_Z2_Axis_Motor_Power_Off_Error.
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[250006]
+COUNT = 3
+1 = Distribute2_Attach_Z2_Axis_Motor_Move_Error.
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[250007]
+COUNT = 2
+1 = Distribute2_Attach_Z2_Axis_Motor_Do_Not_Home_Check.
+2 = Motor Home checking.
+
+[250008]
+COUNT = 3
+1 = Distribute2_Attach_Z2_Axis_Motor_is_Non_Safety_Pos..
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[260001]
+COUNT = 5
+1 = Distribute2_Attach_R2_Axis_Motor_Home_Check_Error.
+2 = Confirm motor power and the Home check speed.
+3 = Confirm whether Home check sensor and obstacle are.
+4 = Confirm whether motor state is normally.
+5 = Confirm whether motor driver is normally.
+
+[260002]
+COUNT = 4
+1 = Distribute2_Attach_R2_Axis_Motor_Alarm_Error.
+2 = Confirm whether is part that give overload to motor.
+3 = Confirm whether motor state is normally.
+4 = Confirm whether motor driver is normally.
+
+[260003]
+COUNT = 2
+1 = Distribute2_Attach_R2_Axis_Motor_Parameter_Setting_Error.
+2 = Confirm parameter in motor speed screen.
+
+[260004]
+COUNT = 2
+1 = Distribute2_Attach_R2_Axis_Motor_Move_Setting_Error.
+2 = Confirm whether location measure is normal in Unloader department motor display.
+
+[260005]
+COUNT = 3
+1 = Distribute2_Attach_R2_Axis_Motor_Power_Off_Error.
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[260006]
+COUNT = 3
+1 = Distribute2_Attach_R2_Axis_Motor_Move_Error.
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[260007]
+COUNT = 2
+1 = Distribute2_Attach_R2_Axis_Motor_Do_Not_Home_Check.
+2 = Motor Home checking.
+
+[260008]
+COUNT = 3
+1 = Distribute2_Attach_R2_Axis_Motor_is_Non_Safety_Pos..
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[270001]
+COUNT = 5
+1 = Top_Vision_X_Axis_Motor_Home_Check_Error.
+2 = Confirm motor power and the Home check speed.
+3 = Confirm whether Home check sensor and obstacle are.
+4 = Confirm whether motor state is normally.
+5 = Confirm whether motor driver is normally.
+
+[270002]
+COUNT = 4
+1 = Top_Vision_X_Axis_Motor_Alarm_Error.
+2 = Confirm whether is part that give overload to motor.
+3 = Confirm whether motor state is normally.
+4 = Confirm whether motor driver is normally.
+
+[270003]
+COUNT = 2
+1 = Top_Vision_X_Axis_Motor_Parameter_Setting_Error.
+2 = Confirm parameter in motor speed screen.
+
+[270004]
+COUNT = 2
+1 = Top_Vision_X_Axis_Motor_Move_Setting_Error.
+2 = Confirm whether location measure is normal in Unloader department motor display.
+
+[270005]
+COUNT = 3
+1 = Top_Vision_X_Axis_Motor_Power_Off_Error.
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[270006]
+COUNT = 3
+1 = Top_Vision_X_Axis_Motor_Move_Error.
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[270007]
+COUNT = 2
+1 = Top_Vision_X_Axis_Motor_Do_Not_Home_Check.
+2 = Motor Home checking.
+
+[270008]
+COUNT = 3
+1 = Top_Vision_X_Axis_Motor_is_Non_Safety_Pos..
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[280001]
+COUNT = 5
+1 = Bottom_Vision_X_Axis_Motor_Home_Check_Error.
+2 = Confirm motor power and the Home check speed.
+3 = Confirm whether Home check sensor and obstacle are.
+4 = Confirm whether motor state is normally.
+5 = Confirm whether motor driver is normally.
+
+[280002]
+COUNT = 4
+1 = Bottom_Vision_X_Axis_Motor_Alarm_Error.
+2 = Confirm whether is part that give overload to motor.
+3 = Confirm whether motor state is normally.
+4 = Confirm whether motor driver is normally.
+
+[280003]
+COUNT = 2
+1 = Bottom_Vision_X_Axis_Motor_Parameter_Setting_Error.
+2 = Confirm parameter in motor speed screen.
+
+[280004]
+COUNT = 2
+1 = Bottom_Vision_X_Axis_Motor_Move_Setting_Error.
+2 = Confirm whether location measure is normal in Unloader department motor display.
+
+[280005]
+COUNT = 3
+1 = Bottom_Vision_X_Axis_Motor_Power_Off_Error.
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[280006]
+COUNT = 3
+1 = Bottom_Vision_X_Axis_Motor_Move_Error.
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[280007]
+COUNT = 2
+1 = Bottom_Vision_X_Axis_Motor_Do_Not_Home_Check.
+2 = Motor Home checking.
+
+[280008]
+COUNT = 3
+1 = Bottom_Vision_X_Axis_Motor_is_Non_Safety_Pos..
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[290001]
+COUNT = 5
+1 = Unload_Robot_Y_Axis_Motor_Home_Check_Error.
+2 = Confirm motor power and the Home check speed.
+3 = Confirm whether Home check sensor and obstacle are.
+4 = Confirm whether motor state is normally.
+5 = Confirm whether motor driver is normally.
+
+[290002]
+COUNT = 4
+1 = Unload_Robot_Y_Axis_Motor_Alarm_Error.
+2 = Confirm whether is part that give overload to motor.
+3 = Confirm whether motor state is normally.
+4 = Confirm whether motor driver is normally.
+
+[290003]
+COUNT = 2
+1 = Unload_Robot_Y_Axis_Motor_Parameter_Setting_Error.
+2 = Confirm parameter in motor speed screen.
+
+[290004]
+COUNT = 2
+1 = Unload_Robot_Y_Axis_Motor_Move_Setting_Error.
+2 = Confirm whether location measure is normal in Unloader department motor display.
+
+[290005]
+COUNT = 3
+1 = Unload_Robot_Y_Axis_Motor_Power_Off_Error.
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[290006]
+COUNT = 3
+1 = Unload_Robot_Y_Axis_Motor_Move_Error.
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[290007]
+COUNT = 2
+1 = Unload_Robot_Y_Axis_Motor_Do_Not_Home_Check.
+2 = Motor Home checking.
+
+[290008]
+COUNT = 3
+1 = Unload_Robot_Y_Axis_Motor_is_Non_Safety_Pos..
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[300001]
+COUNT = 5
+1 = Unload_Robot_Z_Axis_Motor_Home_Check_Error.
+2 = Confirm motor power and the Home check speed.
+3 = Confirm whether Home check sensor and obstacle are.
+4 = Confirm whether motor state is normally.
+5 = Confirm whether motor driver is normally.
+
+[300002]
+COUNT = 4
+1 = Unload_Robot_Z_Axis_Motor_Alarm_Error.
+2 = Confirm whether is part that give overload to motor.
+3 = Confirm whether motor state is normally.
+4 = Confirm whether motor driver is normally.
+
+[300003]
+COUNT = 2
+1 = Unload_Robot_Z_Axis_Motor_Parameter_Setting_Error.
+2 = Confirm parameter in motor speed screen.
+
+[300004]
+COUNT = 2
+1 = Unload_Robot_Z_Axis_Motor_Move_Setting_Error.
+2 = Confirm whether location measure is normal in Unloader department motor display.
+
+[300005]
+COUNT = 3
+1 = Unload_Robot_Z_Axis_Motor_Power_Off_Error.
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[300006]
+COUNT = 3
+1 = Unload_Robot_Z_Axis_Motor_Move_Error.
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[300007]
+COUNT = 2
+1 = Unload_Robot_Z_Axis_Motor_Do_Not_Home_Check.
+2 = Motor Home checking.
+
+[300008]
+COUNT = 3
+1 = Unload_Robot_Z_Axis_Motor_is_Non_Safety_Pos..
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[310001]
+COUNT = 5
+1 = Unload_CV_Pitch_Axis_Motor_Home_Check_Error.
+2 = Confirm motor power and the Home check speed.
+3 = Confirm whether Home check sensor and obstacle are.
+4 = Confirm whether motor state is normally.
+5 = Confirm whether motor driver is normally.
+
+[310002]
+COUNT = 4
+1 = Unload_CV_Pitch_Axis_Motor_Alarm_Error.
+2 = Confirm whether is part that give overload to motor.
+3 = Confirm whether motor state is normally.
+4 = Confirm whether motor driver is normally.
+
+[310003]
+COUNT = 2
+1 = Unload_CV_Pitch_Axis_Motor_Parameter_Setting_Error.
+2 = Confirm parameter in motor speed screen.
+
+[310004]
+COUNT = 2
+1 = Unload_CV_Pitch_Axis_Motor_Move_Setting_Error.
+2 = Confirm whether location measure is normal in Unloader department motor display.
+
+[310005]
+COUNT = 3
+1 = Unload_CV_Pitch_Axis_Motor_Power_Off_Error.
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[310006]
+COUNT = 3
+1 = Unload_CV_Pitch_Axis_Motor_Move_Error.
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[310007]
+COUNT = 2
+1 = Unload_CV_Pitch_Axis_Motor_Do_Not_Home_Check.
+2 = Motor Home checking.
+
+[310008]
+COUNT = 3
+1 = Unload_CV_Pitch_Axis_Motor_is_Non_Safety_Pos..
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[320001]
+COUNT = 5
+1 = ID_Buffer_EL_Axis_Motor_Home_Check_Error.
+2 = Confirm motor power and the Home check speed.
+3 = Confirm whether Home check sensor and obstacle are.
+4 = Confirm whether motor state is normally.
+5 = Confirm whether motor driver is normally.
+
+[320002]
+COUNT = 4
+1 = ID_Buffer_EL_Axis_Motor_Alarm_Error.
+2 = Confirm whether is part that give overload to motor.
+3 = Confirm whether motor state is normally.
+4 = Confirm whether motor driver is normally.
+
+[320003]
+COUNT = 2
+1 = ID_Buffer_EL_Axis_Motor_Parameter_Setting_Error.
+2 = Confirm parameter in motor speed screen.
+
+[320004]
+COUNT = 2
+1 = ID_Buffer_EL_Axis_Motor_Move_Setting_Error.
+2 = Confirm whether location measure is normal in Unloader department motor display.
+
+[320005]
+COUNT = 3
+1 = ID_Buffer_EL_Axis_Motor_Power_Off_Error.
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[320006]
+COUNT = 3
+1 = ID_Buffer_EL_Axis_Motor_Move_Error.
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[320007]
+COUNT = 2
+1 = ID_Buffer_EL_Axis_Motor_Do_Not_Home_Check.
+2 = Motor Home checking.
+
+[320008]
+COUNT = 3
+1 = ID_Buffer_EL_Axis_Motor_is_Non_Safety_Pos..
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[330001]
+COUNT = 5
+1 = Top_ID_Buffr_LD1_Axis_Motor_Home_Check_Error.
+2 = Confirm motor power and the Home check speed.
+3 = Confirm whether Home check sensor and obstacle are.
+4 = Confirm whether motor state is normally.
+5 = Confirm whether motor driver is normally.
+
+[330002]
+COUNT = 4
+1 = Top_ID_Buffr_LD1_Axis_Motor_Alarm_Error.
+2 = Confirm whether is part that give overload to motor.
+3 = Confirm whether motor state is normally.
+4 = Confirm whether motor driver is normally.
+
+[330003]
+COUNT = 2
+1 = Top_ID_Buffr_LD1_Axis_Motor_Parameter_Setting_Error.
+2 = Confirm parameter in motor speed screen.
+
+[330004]
+COUNT = 2
+1 = Top_ID_Buffr_LD1_Axis_Motor_Move_Setting_Error.
+2 = Confirm whether location measure is normal in Unloader department motor display.
+
+[330005]
+COUNT = 3
+1 = Top_ID_Buffr_LD1_Axis_Motor_Power_Off_Error.
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[330006]
+COUNT = 3
+1 = Top_ID_Buffr_LD1_Axis_Motor_Move_Error.
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[330007]
+COUNT = 2
+1 = Top_ID_Buffr_LD1_Axis_Motor_Do_Not_Home_Check.
+2 = Motor Home checking.
+
+[330008]
+COUNT = 3
+1 = Top_ID_Buffr_LD1_Axis_Motor_is_Non_Safety_Pos..
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[340001]
+COUNT = 5
+1 = Top_ID_Buffr_LD2_Axis_Motor_Home_Check_Error.
+2 = Confirm motor power and the Home check speed.
+3 = Confirm whether Home check sensor and obstacle are.
+4 = Confirm whether motor state is normally.
+5 = Confirm whether motor driver is normally.
+
+[340002]
+COUNT = 4
+1 = Top_ID_Buffr_LD2_Axis_Motor_Alarm_Error.
+2 = Confirm whether is part that give overload to motor.
+3 = Confirm whether motor state is normally.
+4 = Confirm whether motor driver is normally.
+
+[340003]
+COUNT = 2
+1 = Top_ID_Buffr_LD2_Axis_Motor_Parameter_Setting_Error.
+2 = Confirm parameter in motor speed screen.
+
+[340004]
+COUNT = 2
+1 = Top_ID_Buffr_LD2_Axis_Motor_Move_Setting_Error.
+2 = Confirm whether location measure is normal in Unloader department motor display.
+
+[340005]
+COUNT = 3
+1 = Top_ID_Buffr_LD2_Axis_Motor_Power_Off_Error.
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[340006]
+COUNT = 3
+1 = Top_ID_Buffr_LD2_Axis_Motor_Move_Error.
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[340007]
+COUNT = 2
+1 = Top_ID_Buffr_LD2_Axis_Motor_Do_Not_Home_Check.
+2 = Motor Home checking.
+
+[340008]
+COUNT = 3
+1 = Top_ID_Buffr_LD2_Axis_Motor_is_Non_Safety_Pos..
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[350001]
+COUNT = 5
+1 = Bottom_ID_Buffr_ULD2_Axis_Motor_Home_Check_Error.
+2 = Confirm motor power and the Home check speed.
+3 = Confirm whether Home check sensor and obstacle are.
+4 = Confirm whether motor state is normally.
+5 = Confirm whether motor driver is normally.
+
+[350002]
+COUNT = 4
+1 = Bottom_ID_Buffr_ULD2_Axis_Motor_Alarm_Error.
+2 = Confirm whether is part that give overload to motor.
+3 = Confirm whether motor state is normally.
+4 = Confirm whether motor driver is normally.
+
+[350003]
+COUNT = 2
+1 = Bottom_ID_Buffr_ULD2_Axis_Motor_Parameter_Setting_Error.
+2 = Confirm parameter in motor speed screen.
+
+[350004]
+COUNT = 2
+1 = Bottom_ID_Buffr_ULD2_Axis_Motor_Move_Setting_Error.
+2 = Confirm whether location measure is normal in Unloader department motor display.
+
+[350005]
+COUNT = 3
+1 = Bottom_ID_Buffr_ULD2_Axis_Motor_Power_Off_Error.
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[350006]
+COUNT = 3
+1 = Bottom_ID_Buffr_ULD2_Axis_Motor_Move_Error.
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[350007]
+COUNT = 2
+1 = Bottom_ID_Buffr_ULD2_Axis_Motor_Do_Not_Home_Check.
+2 = Motor Home checking.
+
+[350008]
+COUNT = 3
+1 = Bottom_ID_Buffr_ULD2_Axis_Motor_is_Non_Safety_Pos..
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[360001]
+COUNT = 5
+1 = Bottom_ID_Buffr_ULD1_Axis_Motor_Home_Check_Error.
+2 = Confirm motor power and the Home check speed.
+3 = Confirm whether Home check sensor and obstacle are.
+4 = Confirm whether motor state is normally. 5 = Confirm whether motor driver is normally.
+
+[360002]
+COUNT = 4
+1 = Bottom_ID_Buffr_ULD1_Axis_Motor_Alarm_Error.
+2 = Confirm whether is part that give overload to motor.
+3 = Confirm whether motor state is normally.
+4 = Confirm whether motor driver is normally.
+
+[360003]
+COUNT = 2
+1 = Bottom_ID_Buffr_ULD1_Axis_Motor_Parameter_Setting_Error.
+2 = Confirm parameter in motor speed screen.
+
+[360004]
+COUNT = 2
+1 = Bottom_ID_Buffr_ULD1_Axis_Motor_Move_Setting_Error.
+2 = Confirm whether location measure is normal in Unloader department motor display.
+
+[360005]
+COUNT = 3
+1 = Bottom_ID_Buffr_ULD1_Axis_Motor_Power_Off_Error.
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[360006]
+COUNT = 3
+1 = Bottom_ID_Buffr_ULD1_Axis_Motor_Move_Error.
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[360007]
+COUNT = 2
+1 = Bottom_ID_Buffr_ULD1_Axis_Motor_Do_Not_Home_Check.
+2 = Motor Home checking.
+
+[360008]
+COUNT = 3
+1 = Bottom_ID_Buffr_ULD1_Axis_Motor_is_Non_Safety_Pos..
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[370001]
+COUNT = 5
+1 = Index_X_Axis_Motor_Home_Check_Error.
+2 = Confirm motor power and the Home check speed.
+3 = Confirm whether Home check sensor and obstacle are.
+4 = Confirm whether motor state is normally.
+5 = Confirm whether motor driver is normally.
+
+[370002]
+COUNT = 4
+1 = Index_X_Axis_Motor_Alarm_Error.
+2 = Confirm whether is part that give overload to motor.
+3 = Confirm whether motor state is normally.
+4 = Confirm whether motor driver is normally.
+
+[370003]
+COUNT = 2
+1 = Index_X_Axis_Motor_Parameter_Setting_Error.
+2 = Confirm parameter in motor speed screen.
+
+[370004]
+COUNT = 2
+1 = Index_X_Axis_Motor_Move_Setting_Error.
+2 = Confirm whether location measure is normal in Unloader department motor display.
+
+[370005]
+COUNT = 3
+1 = Index_X_Axis_Motor_Power_Off_Error.
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[370006]
+COUNT = 3
+1 = Index_X_Axis_Motor_Move_Error.
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[370007]
+COUNT = 2
+1 = Index_X_Axis_Motor_Do_Not_Home_Check.
+2 = Motor Home checking.
+
+[370008]
+COUNT = 3
+1 = Index_X_Axis_Motor_is_Non_Safety_Pos..
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[380001]
+COUNT = 5
+1 = Index_Rolling1_Axis_Motor_Home_Check_Error.
+2 = Confirm motor power and the Home check speed.
+3 = Confirm whether Home check sensor and obstacle are.
+4 = Confirm whether motor state is normally.
+5 = Confirm whether motor driver is normally.
+
+[380002]
+COUNT = 4
+1 = Index_Rolling1_Axis_Motor_Alarm_Error.
+2 = Confirm whether is part that give overload to motor.
+3 = Confirm whether motor state is normally.
+4 = Confirm whether motor driver is normally.
+
+[380003]
+COUNT = 2
+1 = Index_Rolling1_Axis_Motor_Parameter_Setting_Error.
+2 = Confirm parameter in motor speed screen.
+
+[380004]
+COUNT = 2
+1 = Index_Rolling1_Axis_Motor_Move_Setting_Error.
+2 = Confirm whether location measure is normal in Unloader department motor display.
+
+[380005]
+COUNT = 3
+1 = Index_Rolling1_Axis_Motor_Power_Off_Error.
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[380006]
+COUNT = 3
+1 = Index_Rolling1_Axis_Motor_Move_Error.
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[380007]
+COUNT = 2
+1 = Index_Rolling1_Axis_Motor_Do_Not_Home_Check.
+2 = Motor Home checking.
+
+[380008]
+COUNT = 3
+1 = Index_Rolling1_Axis_Motor_is_Non_Safety_Pos..
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[390001]
+COUNT = 5
+1 = Index_Rolling2_Axis_Motor_Home_Check_Error.
+2 = Confirm motor power and the Home check speed.
+3 = Confirm whether Home check sensor and obstacle are.
+4 = Confirm whether motor state is normally.
+5 = Confirm whether motor driver is normally.
+
+[390002]
+COUNT = 4
+1 = Index_Rolling2_Axis_Motor_Alarm_Error.
+2 = Confirm whether is part that give overload to motor.
+3 = Confirm whether motor state is normally.
+4 = Confirm whether motor driver is normally.
+
+[390003]
+COUNT = 2
+1 = Index_Rolling2_Axis_Motor_Parameter_Setting_Error.
+2 = Confirm parameter in motor speed screen.
+
+[390004]
+COUNT = 2
+1 = Index_Rolling2_Axis_Motor_Move_Setting_Error.
+2 = Confirm whether location measure is normal in Unloader department motor display.
+
+[390005]
+COUNT = 3
+1 = Index_Rolling2_Axis_Motor_Power_Off_Error.
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[390006]
+COUNT = 3
+1 = Index_Rolling2_Axis_Motor_Move_Error.
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[390007]
+COUNT = 2
+1 = Index_Rolling2_Axis_Motor_Do_Not_Home_Check.
+2 = Motor Home checking.
+
+[390008]
+COUNT = 3
+1 = Index_Rolling2_Axis_Motor_is_Non_Safety_Pos..
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[400001]
+COUNT = 5
+1 = Input_Rolling_Pitch_Axis_Motor_Home_Check_Error.
+2 = Confirm motor power and the Home check speed.
+3 = Confirm whether Home check sensor and obstacle are.
+4 = Confirm whether motor state is normally.
+5 = Confirm whether motor driver is normally.
+
+[400002]
+COUNT = 4
+1 = Input_Rolling_Pitch_Axis_Motor_Alarm_Error.
+2 = Confirm whether is part that give overload to motor.
+3 = Confirm whether motor state is normally.
+4 = Confirm whether motor driver is normally.
+
+[400003]
+COUNT = 2
+1 = Input_Rolling_Pitch_Axis_Motor_Parameter_Setting_Error.
+2 = Confirm parameter in motor speed screen.
+
+[400004]
+COUNT = 2
+1 =Input_Rolling_Pitch_Axis_Motor_Move_Setting_Error.
+2 = Confirm whether location measure is normal in Unloader department motor display.
+
+[400005]
+COUNT = 3
+1 = Input_Rolling_Pitch_Axis_Motor_Power_Off_Error.
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[400006]
+COUNT = 3
+1 = Input_Rolling_Pitch_Axis_Motor_Move_Error.
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[400007]
+COUNT = 2
+1 =Input_Rolling_Pitch_Axis_Motor_Do_Not_Home_Check.
+2 = Motor Home checking.
+
+[400008]
+COUNT = 3
+1 = Input_Rolling_Pitch_Axis_Motor_is_Non_Safety_Pos.
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[410001]
+COUNT = 5
+1 = Unload_Stacker_Z_Axis_Motor_Home_Check_Error.
+2 = Confirm motor power and the Home check speed.
+3 = Confirm whether Home check sensor and obstacle are.
+4 = Confirm whether motor state is normally.
+5 = Confirm whether motor driver is normally.
+
+[410002]
+COUNT = 4
+1 = Unload_Stacker_Z_Axis_Motor_Alarm_Error.
+2 = Confirm whether is part that give overload to motor.
+3 = Confirm whether motor state is normally.
+4 = Confirm whether motor driver is normally.
+
+[410003]
+COUNT = 2
+1 = Unload_Stacker_Z_Axis_Motor_Parameter_Setting_Error.
+2 = Confirm parameter in motor speed screen.
+
+[410004]
+COUNT = 2
+1 = Unload_Stacker_Z_Axis_Motor_Move_Setting_Error.
+2 = Confirm whether location measure is normal in Unloader department motor display.
+
+[410005]
+COUNT = 3
+1 = Unload_Stacker_Z_Axis_Motor_Power_Off_Error.
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[410006]
+COUNT = 3
+1 = Unload_Stacker_Z_Axis_Motor_Move_Error.
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[410007]
+COUNT = 2
+1 = Unload_Stacker_Z_Axis_Motor_Do_Not_Home_Check.
+2 = Motor Home checking.
+
+[410008]
+COUNT = 3
+1 = Unload_Stacker_Z_Axis_Motor_is_Non_Safety_Pos.
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[500000]
+COUNT = 2
+1 = Density X,Y Interpolation IxMapAxis Setting Errorar.
+2 = Restart again.
+
+[501140]
+COUNT = 3
+1 = Density_Label_Left_Limit1_Check_Error.
+2 = Remove Density Label.
+3 = Confirm whether I/O Module is normally.
+
+[501150]
+COUNT = 3
+1 = Density_Label_Right_Limit1_Check_Error.
+2 = Remove Density Label.
+3 = Confirm whether I/O Module is normally.
+
+[502000]
+COUNT = 2
+1 = Density_Label_Feeder1_Unlock_Cylinder_Error.
+2 = Confirm whether I/O Module is normally.
+
+[502001]
+COUNT = 2
+1 = Density_Label_Feeder1_Lock_Cylinder_Error.
+2 = Confirm whether I/O Module is normally.
+
+[502010]
+COUNT = 2
+1 = Density_Label_Feeder2_Unlock_Cylinder_Error.
+2 = Confirm whether I/O Module is normally.
+
+[502011]
+COUNT = 2
+1 = Density_Label_Feeder2_Lock_Cylinder_Error.
+2 = Confirm whether I/O Module is normally.
+
+[502020]
+COUNT = 2
+1 = Density_Label_Feeder3_Unlock_Cylinder_Error.
+2 = Confirm whether I/O Module is normally.
+
+[502021]
+COUNT = 2
+1 = Density_Label_Feeder3_Lock_Cylinder_Error.
+2 = Confirm whether I/O Module is normally.
+
+[502030]
+COUNT = 2
+1 = Density_Label_Feeder4_Unlock_Cylinder_Error.
+2 = Confirm whether I/O Module is normally.
+
+[502031]
+COUNT = 2
+1 = Density_Label_Feeder4_Lock_Cylinder_Error.
+2 = Confirm whether I/O Module is normally.
+
+[502040]
+COUNT = 2
+1 = Density_Label_Feeder5_Unlock_Cylinder_Error.
+2 = Confirm whether I/O Module is normally.
+
+[502041]
+COUNT = 2
+1 = Density_Label_Feeder5_Lock_Cylinder_Error.
+2 = Confirm whether I/O Module is normally.
+
+[502050]
+COUNT = 2
+1 = Density_Label_Feeder6_Unlock_Cylinder_Error.
+2 = Confirm whether I/O Module is normally.
+
+[502051]
+COUNT = 2
+1 = Density_Label_Feeder6_Lock_Cylinder_Error.
+2 = Confirm whether I/O Module is normally.
+
+[502060]
+COUNT = 2
+1 = Density_Label_Feeder1_Motor_Power_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[502061]
+COUNT = 2
+1 = Density_Label_Feeder1_Motor_Power_On_Error.
+2 = Confirm whether I/O Module is normally.
+
+[502070]
+COUNT = 2
+1 = Density_Label_Feeder2_Motor_Power_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[502071]
+COUNT = 2
+1 = Density_Label_Feeder2_Motor_Power_On_Error.
+2 = Confirm whether I/O Module is normally.
+
+[502080]
+COUNT = 2
+1 = Density_Label_Feeder3_Motor_Power_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[502081]
+COUNT = 2
+1 = Density_Label_Feeder3_Motor_Power_On_Error.
+2 = Confirm whether I/O Module is normally.
+
+[502090]
+COUNT = 2
+1 = Density_Label_Feeder4_Motor_Power_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[502091]
+COUNT = 2
+1 = Density_Label_Feeder4_Motor_Power_On_Error.
+2 = Confirm whether I/O Module is normally.
+
+[502100]
+COUNT = 2
+1 = Density_Label_Feeder5_Motor_Power_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[502101]
+COUNT = 2
+1 = Density_Label_Feeder5_Motor_Power_On_Error.
+2 = Confirm whether I/O Module is normally.
+
+[502110]
+COUNT = 2
+1 = Density_Label_Feeder6_Motor_Power_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[502111]
+COUNT = 2
+1 = Density_Label_Feeder6_Motor_Power_On_Error.
+2 = Confirm whether I/O Module is normally.
+
+[503000]
+COUNT = 2
+1 = Density_Label_Feeder1_Lock_Off_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[503001]
+COUNT = 2
+1 = Density_Label_Feeder1_Lock_On_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[503010]
+COUNT = 2
+1 = Density_Label_Feeder1_Unlock_Off_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[503011]
+COUNT = 2
+1 = ensity_Label_Feeder1_Unlock_On_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[503020]
+COUNT = 2
+1 = Density_Label_Feeder2_Lock_Off_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[503021]
+COUNT = 2
+1 = Density_Label_Feeder2_Lock_On_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[503030]
+COUNT = 2
+1 = Density_Label_Feeder2_Unlock_Off_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[503031]
+COUNT = 2
+1 = Density_Label_Feeder2_Unlock_On_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[503040]
+COUNT = 2
+1 = Density_Label_Feeder3_Lock_Off_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[503041]
+COUNT = 2
+1 = Density_Label_Feeder3_Lock_On_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[503050]
+COUNT = 2
+1 = Density_Label_Feeder3_Unlock_Off_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[503051]
+COUNT = 2
+1 = Density_Label_Feeder3_Unlock_On_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[503060]
+COUNT = 2
+1 = Density_Label_Feeder4_Lock_Off_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[503061]
+COUNT = 2
+1 = Density_Label_Feeder4_Lock_On_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[503070]
+COUNT = 2
+1 = Density_Label_Feeder4_Unlock_Off_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[503071]
+COUNT = 2
+1 = Density_Label_Feeder4_Unlock_On_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[503080]
+COUNT = 2
+1 = Density_Label_Feeder5_Lock_Off_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[503081]
+COUNT = 2
+1 = Density_Label_Feeder5_Lock_On_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[503090]
+COUNT = 2
+1 = Density_Label_Feeder5_Unlock_Off_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[503091]
+COUNT = 2
+1 = Density_Label_Feeder5_Unlock_On_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[503100]
+COUNT = 2
+1 = Density_Label_Feeder6_Lock_Off_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[503101]
+COUNT = 2
+1 = Density_Label_Feeder6_Lock_On_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[503110]
+COUNT = 2
+1 = Density_Label_Feeder6_Unlock_Off_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[503111]
+COUNT = 2
+1 = Density_Label_Feeder6_Unlock_On_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[504000]
+COUNT = 2
+1 = Density_Label_Feeder_Plate_Blow_Off_Cylinder.
+2 = Confirm whether I/O Module is normally.
+
+[504001]
+COUNT = 2
+1 = Density_Label_Feeder_Plate_Blow_On_Cylinder.
+2 = Confirm whether I/O Module is normally.
+
+[504010]
+COUNT = 2
+1 = Density_Label_Feeder_Plate_Blow_Off_Cylinder.
+2 = Confirm whether I/O Module is normally.
+
+[504011]
+COUNT = 2
+1 = Density_Label_Feeder_Plate_Blow_On_Cylinder.
+2 = Confirm whether I/O Module is normally.
+
+[504020]
+COUNT = 0
+
+[504021]
+COUNT = 0
+
+[504030]
+COUNT = 2
+1 = Density_Label_Feeder_Plate1_BTM_Blow_Off_Cylinder.
+2 = Confirm whether I/O Module is normally.
+
+[504031]
+COUNT = 2
+1 = Density_Label_Feeder_Plate1_BTM_Blow_On_Cylinder.
+2 = Confirm whether I/O Module is normally.
+
+[504040]
+COUNT = 2
+1 = Density_Label_Feeder_Plate2_BTM_Blow_Off_Cylinder.
+2 = Confirm whether I/O Module is normally.
+
+[504041]
+COUNT = 2
+1 = Density_Label_Feeder_Plate2_BTM_Blow_On_Cylinder.
+2 = Confirm whether I/O Module is normally.
+
+[504050]
+COUNT = 2
+1 = Density_Label_Feeder_Plate3_BTM_Blow_Off_Cylinder.
+2 = Confirm whether I/O Module is normally.
+
+[504051]
+COUNT = 2
+1 = Density_Label_Feeder_Plate3_BTM_Blow_On_Cylinder.
+2 = Confirm whether I/O Module is normally.
+
+[504060]
+COUNT = 2
+1 = Density_Label_Feeder_Plate4_BTM_Blow_Off_Cylinder.
+2 = Confirm whether I/O Module is normally.
+
+[504061]
+COUNT = 2
+1 = Density_Label_Feeder_Plate4_BTM_Blow_On_Cylinder.
+2 = Confirm whether I/O Module is normally.
+
+[504070]
+COUNT = 2
+1 = Density_Label_Feeder_Plate5_BTM_Blow_Off_Cylinder.
+2 = Confirm whether I/O Module is normally.
+
+[504071]
+COUNT = 2
+1 = Density_Label_Feeder_Plate5_BTM_Blow_On_Cylinder.
+2 = Confirm whether I/O Module is normally.
+
+[504080]
+COUNT = 2
+1 = Density_Label_Feeder_Plate6_BTM_Blow_Off_Cylinder.
+2 = Confirm whether I/O Module is normally.
+
+[504081]
+COUNT = 2
+1 = Density_Label_Feeder_Plate6_BTM_Blow_On_Cylinder.
+2 = Confirm whether I/O Module is normally.
+
+[504090]
+COUNT = 2
+1 = Density_Label_Feeder_Plate1_Blow_Off_Cylinder.
+2 = Confirm whether I/O Module is normally.
+
+[504091]
+COUNT = 2
+1 = Density_Label_Feeder_Plate1_Blow_On_Cylinder.
+2 = Confirm whether I/O Module is normally.
+
+[504100]
+COUNT = 2
+1 = Density_Label_Feeder_Plate2_Blow_Off_Cylinder.
+2 = Confirm whether I/O Module is normally.
+
+[504101]
+COUNT = 2
+1 = Density_Label_Feeder_Plate2_Blow_On_Cylinder.
+2 = Confirm whether I/O Module is normally.
+
+[504110]
+COUNT = 2
+1 = Density_Label_Feeder_Plate3_Blow_Off_Cylinder.
+2 = Confirm whether I/O Module is normally.
+
+[504111]
+COUNT = 2
+1 = Density_Label_Feeder_Plate3_Blow_On_Cylinder.
+2 = Confirm whether I/O Module is normally.
+
+[504120]
+COUNT = 2
+1 = Density_Label_Feeder_Plate4_Blow_Off_Cylinder.
+2 = Confirm whether I/O Module is normally.
+
+[504121]
+COUNT = 2
+1 = Density_Label_Feeder_Plate4_Blow_On_Cylinder.
+2 = Confirm whether I/O Module is normally.
+
+[504130]
+COUNT = 2
+1 = Density_Label_Feeder_Plate5_Blow_Off_Cylinder.
+2 = Confirm whether I/O Module is normally.
+
+[504131]
+COUNT = 2
+1 = Density_Label_Feeder_Plate5_Blow_On_Cylinder.
+2 = Confirm whether I/O Module is normally.
+
+[504140]
+COUNT = 2
+1 = Density_Label_Feeder_Plate6_Blow_Off_Cylinder.
+2 = Confirm whether I/O Module is normally.
+
+[504141]
+COUNT = 2
+1 = Density_Label_Feeder_Plate6_Blow_On_Cylinder.
+2 = Confirm whether I/O Module is normally.
+
+[504150]
+COUNT = 0
+
+[504151]
+COUNT = 0
+
+[505000]
+COUNT = 2
+1 = Density_Label_Feeder1_Paper_Pusher_Backward_Cylinder_Error.
+2 = Confirm whether I/O Module is normally.
+
+[505001]
+COUNT = 2
+1 = Density_Label_Feeder1_Paper_Pusher_Forward_Cylinder_Error.
+2 = Confirm whether I/O Module is normally.
+
+[505010]
+COUNT = 2
+1 = Density_Label_Feeder2_Paper_Pusher_Backward_Cylinder_Error.
+2 = Confirm whether I/O Module is normally.
+
+[505011]
+COUNT = 2
+1 = Density_Label_Feeder2_Paper_Pusher_Forward_Cylinder_Error.
+2 = Confirm whether I/O Module is normally.
+
+[505020]
+COUNT = 2
+1 = Density_Label_Feeder3_Paper_Pusher_Backward_Cylinder_Error.
+2 = Confirm whether I/O Module is normally.
+
+[505021]
+COUNT = 2
+1 = Density_Label_Feeder3_Paper_Pusher_Forward_Cylinder_Error.
+2 = Confirm whether I/O Module is normally.
+
+[505030]
+COUNT = 2
+1 = Density_Label_Feeder4_Paper_Pusher_Backward_Cylinder_Error.
+2 = Confirm whether I/O Module is normally.
+
+[505031]
+COUNT = 2
+1 = Density_Label_Feeder4_Paper_Pusher_Forward_Cylinder_Error.
+2 = Confirm whether I/O Module is normally.
+
+[505040]
+COUNT = 2
+1 = Density_Label_Feeder5_Paper_Pusher_Backward_Cylinder_Error.
+2 = Confirm whether I/O Module is normally.
+
+[505041]
+COUNT = 2
+1 = Density_Label_Feeder5_Paper_Pusher_Forward_Cylinder_Error.
+2 = Confirm whether I/O Module is normally.
+
+[505050]
+COUNT = 2
+1 = Density_Label_Feeder6_Paper_Pusher_Backward_Cylinder_Error.
+2 = Confirm whether I/O Module is normally.
+
+[505051]
+COUNT = 2
+1 = Density_Label_Feeder6_Paper_Pusher_Forward_Cylinder_Error.
+2 = Confirm whether I/O Module is normally.
+
+[505070]
+COUNT = 2
+1 = Density_Label_Feeder1_Sticker_Limit_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[505080]
+COUNT = 2
+1 = Density_Label_Feeder1_Paper_Pusher_Backward_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[505081]
+COUNT = 2
+1 = Density_Label_Feeder1_Paper_Pusher_Forward_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[505090]
+COUNT = 2
+1 = Density_Label_Feeder1_Position_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[505100]
+COUNT = 2
+1 = Density_Label_Feeder2_Sticker_Limit_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[505110]
+COUNT = 2
+1 = Density_Label_Feeder2_Paper_Pusher_Backward_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[505111]
+COUNT = 2
+1 = Density_Label_Feeder2_Paper_Pusher_Forward_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[505120]
+COUNT = 2
+1 = Density_Label_Feeder2_Position_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[505130]
+COUNT = 2
+1 = Density_Label_Feeder3_Sticker_Limit_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[505140]
+COUNT = 2
+1 = Density_Label_Feeder3_Paper_Pusher_Backward_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[505141]
+COUNT = 2
+1 = Density_Label_Feeder3_Paper_Pusher_Forward_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[505150]
+COUNT = 2
+1 = Density_Label_Feeder3_Position_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[506000]
+COUNT = 2
+1 = Density_Label_Feeder4_Sticker_Limit_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[506010]
+COUNT = 2
+1 = Density_Label_Feeder4_Paper_Pusher_Backward_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[506011]
+COUNT = 2
+1 = Density_Label_Feeder4_Paper_Pusher_Forward_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[506020]
+COUNT = 2
+1 = Density_Label_Feeder4_Position_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[506030]
+COUNT = 2
+1 = Density_Label_Feeder5_Sticker_Limit_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[506040]
+COUNT = 2
+1 = Density_Label_Feeder5_Paper_Pusher_Backward_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[506041]
+COUNT = 2
+1 = Density_Label_Feeder5_Paper_Pusher_Forward_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[506050]
+COUNT = 2
+1 = Density_Label_Feeder5_Position_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[506060]
+COUNT = 2
+1 = Density_Label_Feeder6_Sticker_Limit_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[506070]
+COUNT = 2
+1 = Density_Label_Feeder6_Paper_Pusher_Backward_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[506071]
+COUNT = 2
+1 = Density_Label_Feeder6_Paper_Pusher_Forward_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[506080]
+COUNT = 2
+1 = Density_Label_Feeder6_Position_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[507000]
+COUNT = 2
+1 = Density_Label_Robot_Left_Vacuum1_Cylinder_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[507001]
+COUNT = 2
+1 = Density_Label_Robot_Left_Vacuum1_Cylinder_On_Error.
+2 = Confirm whether I/O Module is normally.
+
+[507010]
+COUNT = 2
+1 = Density_Label_Robot_Left_Vacuum2_Cylinder_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[507011]
+COUNT = 2
+1 = Density_Label_Robot_Left_Vacuum2_Cylinder_On_Error.
+2 = Confirm whether I/O Module is normally.
+
+[507020]
+COUNT = 2
+1 = Density_Label_Robot_Right_Vacuum1_Cylinder_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[507021]
+COUNT = 2
+1 = Density_Label_Robot_Right_Vacuum1_Cylinder_On_Error.
+2 = Confirm whether I/O Module is normally.
+
+[507030]
+COUNT = 2
+1 = Density_Label_Robot_Right_Vacuum2_Cylinder_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[507031]
+COUNT = 2
+1 = Density_Label_Robot_Right_Vacuum2_Cylinder_On_Error.
+2 = Confirm whether I/O Module is normally.
+
+[507080]
+COUNT = 2
+1 = Density_Label_Robot_Left_Vacuum1_Check_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[507081]
+COUNT = 2
+1 = Density_Label_Robot_Left_Vacuum1_Check_On_Error.
+2 = Confirm whether I/O Module is normally.
+
+[507090]
+COUNT = 2
+1 = Density_Label_Robot_Left_Vacuum2_Check_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[507091]
+COUNT = 2
+1 = Density_Label_Robot_Left_Vacuum2_Check_On_Error.
+2 = Confirm whether I/O Module is normally.
+
+[507100]
+COUNT = 2
+1 = Density_Label_Robot_Right_Vacuum1_Check_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[507101]
+COUNT = 2
+1 = Density_Label_Robot_Right_Vacuum1_Check_On_Error.
+2 = Confirm whether I/O Module is normally.
+
+[507110]
+COUNT = 2
+1 = Density_Label_Robot_Right_Vacuum2_Check_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[507111]
+COUNT = 2
+1 = Density_Label_Robot_Right_Vacuum2_Check_On_Error.
+2 = Confirm whether I/O Module is normally.
+
+[507120]
+COUNT = 2
+1 = Barcode_feeder1_is_not_sensing_Error
+2 = Confirm whether I/O Module is normally.
+
+[507121]
+COUNT = 2
+1 = Barcode_feeder1_is_sensing_Error
+2 = Confirm whether I/O Module is normally.
+
+[507130]
+COUNT = 2
+1 = Barcode_feeder2_is_not_sensing_Error
+2 = Confirm whether I/O Module is normally.
+
+[507131]
+COUNT = 2
+1 = Barcode_feeder2_is_sensing_Error
+2 = Confirm whether I/O Module is normally.
+
+[507140]
+COUNT = 2
+1 = Barcode_feeder3_is_not_sensing_Error
+2 = Confirm whether I/O Module is normally.
+
+[507141]
+COUNT = 2
+1 = Barcode_feeder3_is_sensing_Error
+2 = Confirm whether I/O Module is normally.
+
+[507150]
+COUNT = 2
+1 = Barcode_feeder4_is_not_sensing_Error
+2 = Confirm whether I/O Module is normally.
+
+[507151]
+COUNT = 2
+1 = Barcode_feeder4_is_sensing_Error
+2 = Confirm whether I/O Module is normally.
+
+[510000]
+COUNT = 2
+1 = Distribution_Label_Printer1_UnLock_Switch_Error.
+2 = Confirm whether I/O Module is normally.
+
+[510001]
+COUNT = 2
+1 = Distribution_Label_Printer1_Lock_Switch_Error.
+2 = Confirm whether I/O Module is normally.
+
+[510010]
+COUNT = 2
+1 = Distribution_Label_Printer2_UnLock_Switch_Error.
+2 = Confirm whether I/O Module is normally.
+
+[510011]
+COUNT = 2
+1 = Distribution_Label_Printer2_Lock_Switch_Error.
+2 = Confirm whether I/O Module is normally.
+
+[510020]
+COUNT = 2
+1 = Distribution_Label_Printer3_UnLock_Switch_Error.
+2 = Confirm whether I/O Module is normally.
+
+[510021]
+COUNT = 2
+1 = Distribution_Label_Printer3_Lock_Switch_Error.
+2 = Confirm whether I/O Module is normally.
+
+[510030]
+COUNT = 2
+1 = Distribution_Label_Printer4_UnLock_Switch_Error.
+2 = Confirm whether I/O Module is normally.
+
+[510031]
+COUNT = 2
+1 = Distribution_Label_Printer4_Lock_Switch_Error.
+2 = Confirm whether I/O Module is normally.
+
+[510080]
+COUNT = 2
+1 = Distribution_Label_Printer1_UnLock_Switch_Error.
+2 = Confirm whether I/O Module is normally.
+
+[510081]
+COUNT = 2
+1 = Distribution_Label_Printer1_Lock_Switch_Error.
+2 = Confirm whether I/O Module is normally.
+
+[510090]
+COUNT = 2
+1 = Distribution_Label_Printer2_UnLock_Switch_Error.
+2 = Confirm whether I/O Module is normally.
+
+[510091]
+COUNT = 2
+1 = Distribution_Label_Printer2_Lock_Switch_Error.
+2 = Confirm whether I/O Module is normally.
+
+[510100]
+COUNT = 2
+1 = Distribution_Label_Printer3_UnLock_Switch_Error.
+2 = Confirm whether I/O Module is normally.
+
+[510101]
+COUNT = 2
+1 = Distribution_Label_Printer3_Lock_Switch_Error.
+2 = Confirm whether I/O Module is normally.
+
+[510110]
+COUNT = 2
+1 = Distribution_Label_Printer4_UnLock_Switch_Error.
+2 = Confirm whether I/O Module is normally.
+
+[510111]
+COUNT = 2
+1 = Distribution_Label_Printer4_Lock_Switch_Error.
+2 = Confirm whether I/O Module is normally.
+
+[511000]
+COUNT = 2
+1 = Distribution_Label_Printer1_UnLock_Cylinder_Error.
+2 = Confirm whether I/O Module is normally.
+
+[511001]
+COUNT = 2
+1 = Distribution_Label_Printer1_Lock_Cylinder_Error.
+2 = Confirm whether I/O Module is normally.
+
+[511010]
+COUNT = 2
+1 = Distribution_Label_Printer2_UnLock_Cylinder_Error.
+2 = Confirm whether I/O Module is normally.
+
+[511011]
+COUNT = 2
+1 = Distribution_Label_Printer2_Lock_Cylinder_Error.
+2 = Confirm whether I/O Module is normally.
+
+[511020]
+COUNT = 2
+1 = Distribution_Label_Printer3_UnLock_Cylinder_Error.
+2 = Confirm whether I/O Module is normally.
+
+[511021]
+COUNT = 2
+1 = Distribution_Label_Printer3_Lock_Cylinder_Error.
+2 = Confirm whether I/O Module is normally.
+
+[511030]
+COUNT = 2
+1 = Distribution_Label_Printer4_UnLock_Cylinder_Error.
+2 = Confirm whether I/O Module is normally.
+
+[511031]
+COUNT = 2
+1 = Distribution_Label_Printer4_Lock_Cylinder_Error.
+2 = Confirm whether I/O Module is normally.
+
+[511040]
+COUNT = 2
+1 = Distribution_Label_Printer1_Lock_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[511041]
+COUNT = 2
+1 = Distribution_Label_Printer1_Lock_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[511050]
+COUNT = 2
+1 = Distribution_Label_Printer1_UnLock_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[511051]
+COUNT = 2
+1 = Distribution_Label_Printer1_UnLock_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[511060]
+COUNT = 2
+1 = Distribution_Label_Printer1_Lock_Position_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[511070]
+COUNT = 2
+1 = Distribution_Label_Printer2_Lock_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[511071]
+COUNT = 2
+1 = Distribution_Label_Printer2_Lock_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[511080]
+COUNT = 2
+1 = Distribution_Label_Printer2_UnLock_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[511081]
+COUNT = 2
+1 = Distribution_Label_Printer2_UnLock_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[511090]
+COUNT = 2
+1 = Distribution_Label_Printer2_Lock_Position_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[511100]
+COUNT = 2
+1 = Distribution_Label_Printer3_Lock_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[511101]
+COUNT = 2
+1 = Distribution_Label_Printer3_Lock_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[511110]
+COUNT = 2
+1 = Distribution_Label_Printer3_UnLock_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[511110]
+COUNT = 2
+1 = Distribution_Label_Printer3_UnLock_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[511120]
+COUNT = 2
+1 = Distribution_Label_Printer3_Lock_Position_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[511130]
+COUNT = 2
+1 = Distribution_Label_Printer4_Lock_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[511131]
+COUNT = 2
+1 = Distribution_Label_Printer4_Lock_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[511140]
+COUNT = 2
+1 = Distribution_Label_Printer4_UnLock_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[511141]
+COUNT = 2
+1 = Distribution_Label_Printer4_UnLock_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[511150]
+COUNT = 2
+1 = Distribution_Label_Printer4_Lock_Position_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[512000]
+COUNT = 2
+1 = Distribution_Label_Printer1_Plate_Down_Cylinder_Error.
+2 = Confirm whether I/O Module is normally.
+
+[512001]
+COUNT = 2
+1 = Distribution_Label_Printer1_Plate_Up_Cylinder_Error.
+2 = Confirm whether I/O Module is normally.
+
+[512010]
+COUNT = 2
+1 = Distribution_Label_Printer2_Plate_Down_Cylinder_Error.
+2 = Confirm whether I/O Module is normally.
+
+[512011]
+COUNT = 2
+1 = Distribution_Label_Printer2_Plate_Up_Cylinder_Error.
+2 = Confirm whether I/O Module is normally.
+
+[512020]
+COUNT = 2
+1 = Distribution_Label_Printer3_Plate_Down_Cylinder_Error.
+2 = Confirm whether I/O Module is normally.
+
+[512021]
+COUNT = 2
+1 = Distribution_Label_Printer3_Plate_Up_Cylinder_Error.
+2 = Confirm whether I/O Module is normally.
+
+[512030]
+COUNT = 2
+1 = Distribution_Label_Printer4_Plate_Down_Cylinder_Error.
+2 = Confirm whether I/O Module is normally.
+
+[512031]
+COUNT = 2
+1 = Distribution_Label_Printer4_Plate_Up_Cylinder_Error.
+2 = Confirm whether I/O Module is normally.
+
+[512040]
+COUNT = 2
+1 = Distribution_Label_Printer1_Plate_Up_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[512050]
+COUNT = 2
+1 = Distribution_Label_Printer1_Plate_Down_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[512060]
+COUNT = 2
+1 = Distribution_Label_Printer2_Plate_Up_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[512070]
+COUNT = 2
+1 = Distribution_Label_Printer2_Plate_Down_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[512080]
+COUNT = 2
+1 = Distribution_Label_Printer3_Plate_Up_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[512090]
+COUNT = 2
+1 = Distribution_Label_Printer3_Plate_Down_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[512100]
+COUNT = 2
+1 = Distribution_Label_Printer4_Plate_Up_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[512110]
+COUNT = 2
+1 = Distribution_Label_Printer4_Plate_Down_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[513000]
+COUNT = 2
+1 = Distribution_Label_Printer1_Plate_Vacuum_Off_Cylinder_Error.
+2 = Confirm whether I/O Module is normally.
+
+[513001]
+COUNT = 2
+1 = Distribution_Label_Printer1_Plate_Vacuum_On_Cylinder_Error.
+2 = Confirm whether I/O Module is normally.
+
+[513010]
+COUNT = 2
+1 = Distribution_Label_Printer2_Plate_Vacuum_Off_Cylinder_Error.
+2 = Confirm whether I/O Module is normally.
+
+[513011]
+COUNT = 2
+1 = Distribution_Label_Printer2_Plate_Vacuum_On_Cylinder_Error.
+2 = Confirm whether I/O Module is normally.
+
+[513020]
+COUNT = 2
+1 = Distribution_Label_Printer3_Plate_Vacuum_Off_Cylinder_Error.
+2 = Confirm whether I/O Module is normally.
+
+[513021]
+COUNT = 2
+1 = Distribution_Label_Printer3_Plate_Vacuum_On_Cylinder_Error.
+2 = Confirm whether I/O Module is normally.
+
+[513030]
+COUNT = 2
+1 = Distribution_Label_Printer4_Plate_Vacuum_Off_Cylinder_Error.
+2 = Confirm whether I/O Module is normally.
+
+[513031]
+COUNT = 2
+1 = Distribution_Label_Printer4_Plate_Vacuum_On_Cylinder_Error.
+2 = Confirm whether I/O Module is normally.
+
+[513040]
+COUNT = 2
+1 = Distribution_Label_Printer1_Plate_Ejector_Off_Cylinder_Error.
+2 = Confirm whether I/O Module is normally.
+
+[513041]
+COUNT = 2
+1 = Distribution_Label_Printer1_Plate_Ejector_On_Cylinder_Error.
+2 = Confirm whether I/O Module is normally.
+
+[513050]
+COUNT = 2
+1 = Distribution_Label_Printer2_Plate_Ejector_Off_Cylinder_Error.
+2 = Confirm whether I/O Module is normally.
+
+[513051]
+COUNT = 2
+1 = Distribution_Label_Printer2_Plate_Ejector_On_Cylinder_Error.
+2 = Confirm whether I/O Module is normally.
+
+[513060]
+COUNT = 2
+1 = Distribution_Label_Printer3_Plate_Ejector_Off_Cylinder_Error.
+2 = Confirm whether I/O Module is normally.
+
+[513061]
+COUNT = 2
+1 = Distribution_Label_Printer3_Plate_Ejector_On_Cylinder_Error.
+2 = Confirm whether I/O Module is normally.
+
+[513070]
+COUNT = 2
+1 = Distribution_Label_Printer4_Plate_Ejector_Off_Cylinder_Error.
+2 = Confirm whether I/O Module is normally.
+
+[513071]
+COUNT = 2
+1 = Distribution_Label_Printer4_Plate_Ejector_On_Cylinder_Error.
+2 = Confirm whether I/O Module is normally.
+
+[513080]
+COUNT = 2
+1 = Distribution_Label_Printer2_Plate_Ejector_Off_Cylinder_Error.
+2 = Confirm whether I/O Module is normally.
+
+[513081]
+COUNT = 2
+1 = Distribution_Label_Printer1_Plate_Vacuum_On_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[513090]
+COUNT = 2
+1 = Distribution_Label_Printer2_Plate_Vacuum_Off_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[513091]
+COUNT = 2
+1 = Distribution_Label_Printer2_Plate_Vacuum_On_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[513100]
+COUNT = 2
+1 = Distribution_Label_Printer3_Plate_Vacuum_Off_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[513101]
+COUNT = 2
+1 = Distribution_Label_Printer3_Plate_Vacuum_On_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[513110]
+COUNT = 2
+1 = Distribution_Label_Printer4_Plate_Vacuum_Off_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[513111]
+COUNT = 2
+1 = Distribution_Label_Printer4_Plate_Vacuum_On_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[514000]
+COUNT = 2
+1 = Distribution_Label_Robot1_Left_Top_Vacuum_Backward_Cylinder_Error.
+2 = Confirm whether I/O Module is normally.
+
+[514001]
+COUNT = 2
+1 = Distribution_Label_Robot1_Left_Top_Vacuum_Forward_Cylinder_Error.
+2 = Confirm whether I/O Module is normally.
+
+[514010]
+COUNT = 2
+1 = Distribution_Label_Robot1_Left_Bottom_Vacuum_Backward_Cylinder_Error.
+2 = Confirm whether I/O Module is normally.
+
+[514011]
+COUNT = 2
+1 = Distribution_Label_Robot1_Left_Bottom_Vacuum_Forward_Cylinder_Error.
+2 = Confirm whether I/O Module is normally.
+
+[514020]
+COUNT = 2
+1 = Distribution_Label_Robot1_Left_Box_Guide_Backward_Cylinder_Error.
+2 = Confirm whether I/O Module is normally.
+
+[514021]
+COUNT = 2
+1 = Distribution_Label_Robot1_Left_Box_Guide_Forward_Cylinder_Error.
+2 = Confirm whether I/O Module is normally.
+
+[514040]
+COUNT = 2
+1 = Distribution_Label_Robot1_Right_Top_Vacuum_Backward_Cylinder_Error.
+2 = Confirm whether I/O Module is normally.
+
+[514041]
+COUNT = 2
+1 = Distribution_L_abel_Robot1_Right_Top_Vacuum_Forward_Cylinder_Error.
+2 = Confirm whether I/O Module is normally.
+
+[514050]
+COUNT = 2
+1 = Distribution_Label_Robot1_Right_Bottom_Vacuum_Backward_Cylinder_Error.
+2 = Confirm whether I/O Module is normally.
+
+[514051]
+COUNT = 2
+1 = Distribution_Label_Robot1_Right_Bottom_Vacuum_Forward_Cylinder_Error.
+2 = Confirm whether I/O Module is normally.
+
+[514060]
+COUNT = 2
+1 = Distribution_Label_Robot1_Right_Box_Guide_Backward_Cylinder_Error.
+2 = Confirm whether I/O Module is normally.
+
+[514061]
+COUNT = 2
+1 = Distribution_Label_Robot1_Right_Box_Guide_Forward_Cylinder_Error.
+2 = Confirm whether I/O Module is normally.
+
+[514080]
+COUNT = 2
+1 = Distribution_Label_Robot1_Left_Top_Vacuum_Cylinder_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[514081]
+COUNT = 2
+1 = Distribution_Label_Robot1_Left_Top_Vacuum_Cylinder_On_Error.
+2 = Confirm whether I/O Module is normally.
+
+[514090]
+COUNT = 2
+1 = Distribution_Label_Robot1_Left_Top_Eject_Cylinder_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[514091]
+COUNT = 2
+1 = Distribution_Label_Robot1_Left_Top_Eject_Cylinder_On_Error.
+2 = Confirm whether I/O Module is normally.
+
+[514100]
+COUNT = 2
+1 = Distribution_Label_Robot1_Left_Bottom_Vacuum_Cylinder_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[514101]
+COUNT = 2
+1 = Distribution_Label_Robot1_Left_Bottom_Vacuum_Cylinder_On_Error.
+2 = Confirm whether I/O Module is normally.
+
+[514110]
+COUNT = 2
+1 = Distribution_Label_Robot1_Left_Bottom_Eject_Cylinder_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[514111]
+COUNT = 2
+1 = Distribution_Label_Robot1_Left_Bottom_Eject_Cylinder_On_Error.
+2 = Confirm whether I/O Module is normally.
+
+[514120]
+COUNT = 2
+1 = Distribution_Label_Robot1_Right_Top_Vacuum_Cylinder_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[514121]
+COUNT = 2
+1 = Distribution_Label_Robot1_Right_Top_Vacuum_Cylinder_On_Error.
+2 = Confirm whether I/O Module is normally.
+
+[514130]
+COUNT = 2
+1 = Distribution_Label_Robot1_Right_Top_Eject_Cylinder_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[514131]
+COUNT = 2
+1 = Distribution_Label_Robot1_Right_Top_Eject_Cylinder_On_Error.
+2 = Confirm whether I/O Module is normally.
+
+[514140]
+COUNT = 2
+1 = Distribution_Label_Robot1_Right_Bottom_Vacuum_Cylinder_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[514141]
+COUNT = 2
+1 = Distribution_Label_Robot1_Right_Bottom_Vacuum_Cylinder_On_Error.
+2 = Confirm whether I/O Module is normally.
+
+[514150]
+COUNT = 2
+1 = Distribution_Label_Robot1_Right_Bottom_Eject_Cylinder_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[514151]
+COUNT = 2
+1 = Distribution_Label_Robot1_Right_Bottom_Eject_Cylinder_On_Error.
+2 = Confirm whether I/O Module is normally.
+
+[515010]
+COUNT = 2
+1 = Distribution_Label_Robot1_Left_Top_Vacuum_Backward_Off_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[515011]
+COUNT = 2
+1 = Distribution_Label_Robot1_Left_Top_Vacuum_Backward_On_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[515030]
+COUNT = 2
+1 = Distribution_Label_Robot1_Left_Bottom_Vacuum_Backward_Off_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[515031]
+COUNT = 2
+1 = Distribution_Label_Robot1_Left_Bottom_Vacuum_Backward_On_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[515050]
+COUNT = 2
+1 = Distribution_Label_Robot1_Left_Box_Guide_Backward_Off_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[515051]
+COUNT = 2
+1 = Distribution_Label_Robot1_Left_Box_Guide_Backward_On_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[515080]
+COUNT = 2
+1 = Distribution_Label_Robot1_Left_Top_Vacuum_Off_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[515081]
+COUNT = 2
+1 = Distribution_Label_Robot1_Left_Top_Vacuum_On_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[515090]
+COUNT = 2
+1 = Distribution_Label_Robot1_Left_Bottom_Vacuum_Off_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[515091]
+COUNT = 2
+1 = Distribution_Label_Robot1_Left_Bottom_Vacuum_On_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[515100]
+COUNT = 2
+1 = Distribution_Label_Robot1_Left_Box_Rotator_Forward_Off_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[515101]
+COUNT = 2
+1 = Distribution_Label_Robot1_Left_Box_Rotator_Forward_On_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[515110]
+COUNT = 2
+1 = Distribution_Label_Robot1_Left_Box_Rotator_Backward_Off_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[515111]
+COUNT = 2
+1 = Distribution_Label_Robot1_Left_Box_Rotator_Backward_On_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[515120]
+COUNT = 2
+1 = Distribution_Label_Robot1_Left_Box_Rotator_Forward_Off_Cylindeer_Error.
+2 = Confirm whether I/O Module is normally.
+
+[515121]
+COUNT = 2
+1 = Distribution_Label_Robot1_Left_Box_Rotator_Forward_On_Cylindeer_Error.
+2 = Confirm whether I/O Module is normally.
+
+[515130]
+COUNT = 2
+1 = Distribution_Label_Robot1_Left_Box_Rotator_Backward_Off_Cylindeer_Error.
+2 = Confirm whether I/O Module is normally.
+
+[515131]
+COUNT = 2
+1 = Distribution_Label_Robot1_Left_Box_Rotator_Backward_On_Cylindeer_Error.
+2 = Confirm whether I/O Module is normally.
+
+[516010]
+COUNT = 2
+1 = Distribution_Label_Robot1_Right_Top_Vacuum_Backward_Off_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[516011]
+COUNT = 2
+1 = Distribution_Label_Robot1_Right_Top_Vacuum_Backward_On_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[516030]
+COUNT = 2
+1 = Distribution_Label_Robot1_Right_Bottom_Vacuum_Backward_Off_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[516031]
+COUNT = 2
+1 = Distribution_Label_Robot1_Right_Bottom_Vacuum_Backward_On_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[516050]
+COUNT = 2
+1 = Distribution_Label_Robot1_Right_Box_Guide_Backward_Off_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[516051]
+COUNT = 2
+1 = Distribution_Label_Robot1_Right_Box_Guide_Backward_On_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[516080]
+COUNT = 2
+1 = Distribution_Label_Robot1_Right_Top_Vacuum_Off_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[516081]
+COUNT = 2
+1 = Distribution_Label_Robot1_Right_Top_Vacuum_On_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[516090]
+COUNT = 2
+1 = Distribution_Label_Robot1_Right_Bottom_Vacuum_Off_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[516091]
+COUNT = 2
+1 = Distribution_Label_Robot1_Right_Bottom_Vacuum_On_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[516100]
+COUNT = 2
+1 = Distribution_Label_Robot1_Right_Box_Rotator_Forward_Off_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[516101]
+COUNT = 2
+1 = Distribution_Label_Robot1_Right_Box_Rotator_Forward_On_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[516110]
+COUNT = 2
+1 = Distribution_Label_Robot1_Right_Box_Rotator_Backward_Off_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[516111]
+COUNT = 2
+1 = Distribution_Label_Robot1_Right_Box_Rotator_Backward_On_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[516120]
+COUNT = 2
+1 = Distribution_Label_Robot1_Right_Box_Rotator_Forward_Off_Cylindeer_Error.
+2 = Confirm whether I/O Module is normally.
+
+[516121]
+COUNT = 2
+1 = Distribution_Label_Robot1_Right_Box_Rotator_Forward_On_Cylindeer_Error.
+2 = Confirm whether I/O Module is normally.
+
+[516130]
+COUNT = 2
+1 = Distribution_Label_Robot1_Right_Box_Rotator_Backward_Off_Cylindeer_Error.
+2 = Confirm whether I/O Module is normally.
+
+[516131]
+COUNT = 2
+1 = Distribution_Label_Robot1_Right_Box_Rotator_Backward_On_Cylindeer_Error.
+2 = Confirm whether I/O Module is normally.
+
+[517000]
+COUNT = 2
+1 = Distribution_Label_Robot2_Left_Top_Vacuum_Backward_Cylinder_Error.
+2 = Confirm whether I/O Module is normally.
+
+[517001]
+COUNT = 2
+1 = Distribution_Label_Robot2_Left_Top_Vacuum_Forward_Cylinder_Error.
+2 = Confirm whether I/O Module is normally.
+
+[517010]
+COUNT = 2
+1 = Distribution_Label_Robot2_Left_Bottom_Vacuum_Backward_Cylinder_Error.
+2 = Confirm whether I/O Module is normally.
+
+[517011]
+COUNT = 2
+1 = Distribution_Label_Robot2_Left_Bottom_Vacuum_Forward_Cylinder_Error.
+2 = Confirm whether I/O Module is normally.
+
+[517020]
+COUNT = 2
+1 = Distribution_Label_Robot2_Left_Box_Guide_Backward_Cylinder_Error.
+2 = Confirm whether I/O Module is normally.
+
+[517021]
+COUNT = 2
+1 = Distribution_Label_Robot2_Left_Box_Guide_Forward_Cylinder_Error.
+2 = Confirm whether I/O Module is normally.
+
+[517040]
+COUNT = 2
+1 = Distribution_Label_Robot2_Right_Top_Vacuum_Backward_Cylinder_Error.
+2 = Confirm whether I/O Module is normally.
+
+[517041]
+COUNT = 2
+1 = Distribution_Label_Robot2_Right_Top_Vacuum_Forward_Cylinder_Error.
+2 = Confirm whether I/O Module is normally.
+
+[517050]
+COUNT = 2
+1 = Distribution_Label_Robot2_Right_Bottom_Vacuum_Backward_Cylinder_Error.
+2 = Confirm whether I/O Module is normally.
+
+[517051]
+COUNT = 2
+1 = Distribution_Label_Robot2_Right_Bottom_Vacuum_Forward_Cylinder_Error.
+2 = Confirm whether I/O Module is normally.
+
+[517060]
+COUNT = 2
+1 = Distribution_Label_Robot2_Right_Box_Guide_Backward_Cylinder_Error.
+2 = Confirm whether I/O Module is normally.
+
+[517061]
+COUNT = 2
+1 = Distribution_Label_Robot2_Right_Box_Guide_Forward_Cylinder_Error.
+2 = Confirm whether I/O Module is normally.
+
+[517080]
+COUNT = 2
+1 = Distribution_Label_Robot2_Left_Top_Vacuum_Cylinder_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[517081]
+COUNT = 2
+1 = Distribution_Label_Robot2_Left_Top_Vacuum_Cylinder_On_Error.
+2 = Confirm whether I/O Module is normally.
+
+[517090]
+COUNT = 2
+1 = Distribution_Label_Robot2_Left_Top_Eject_Cylinder_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[517091]
+COUNT = 2
+1 = Distribution_Label_Robot2_Left_Top_Eject_Cylinder_On_Error.
+2 = Confirm whether I/O Module is normally.
+
+[517100]
+COUNT = 2
+1 = Distribution_Label_Robot2_Left_Bottom_Vacuum_Cylinder_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[517101]
+COUNT = 2
+1 = Distribution_Label_Robot2_Left_Bottom_Vacuum_Cylinder_On_Error.
+2 = Confirm whether I/O Module is normally.
+
+[517110]
+COUNT = 2
+1 = Distribution_Label_Robot2_Left_Bottom_Eject_Cylinder_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[517111]
+COUNT = 2
+1 = Distribution_Label_Robot2_Left_Bottom_Eject_Cylinder_On_Error.
+2 = Confirm whether I/O Module is normally.
+
+[517120]
+COUNT = 2
+1 = Distribution_Label_Robot2_Right_Top_Vacuum_Cylinder_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[517121]
+COUNT = 2
+1 = Distribution_Label_Robot2_Right_Top_Vacuum_Cylinder_On_Error.
+2 = Confirm whether I/O Module is normally.
+
+[517130]
+COUNT = 2
+1 = Distribution_Label_Robot2_Right_Top_Eject_Cylinder_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[517131]
+COUNT = 2
+1 = Distribution_Label_Robot2_Right_Top_Eject_Cylinder_On_Error.
+2 = Confirm whether I/O Module is normally.
+
+[517140]
+COUNT = 2
+1 = Distribution_Label_Robot2_Right_Bottom_Vacuum_Cylinder_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[517141]
+COUNT = 2
+1 = Distribution_Label_Robot2_Right_Bottom_Vacuum_Cylinder_On_Error.
+2 = Confirm whether I/O Module is normally.
+
+[517150]
+COUNT = 2
+1 = Distribution_Label_Robot2_Right_Bottom_Eject_Cylinder_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[517151]
+COUNT = 2
+1 = Distribution_Label_Robot2_Right_Bottom_Eject_Cylinder_On_Error.
+2 = Confirm whether I/O Module is normally.
+
+[520010]
+COUNT = 2
+1 = Distribution_Label_Robot2_Left_Top_Vacuum_Backward_Off_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[520011]
+COUNT = 2
+1 = Distribution_Label_Robot2_Left_Top_Vacuum_Backward_On_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[520030]
+COUNT = 2
+1 = Distribution_Label_Robot2_Left_Bottom_Vacuum_Backward_Off_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[520031]
+COUNT = 2
+1 = Distribution_Label_Robot2_Left_Bottom_Vacuum_Backward_On_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[520050]
+COUNT = 2
+1 = Distribution_Label_Robot2_Left_Box_Guide_Backward_Off_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[520051]
+COUNT = 2
+1 = Distribution_Label_Robot2_Left_Box_Guide_Backward_On_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[520080]
+COUNT = 2
+1 = Distribution_Label_Robot2_Left_Top_Vacuum_Off_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[520081]
+COUNT = 2
+1 = Distribution_Label_Robot2_Left_Top_Vacuum_On_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[520090]
+COUNT = 2
+1 = Distribution_Label_Robot2_Left_Bottom_Vacuum_Off_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[520091]
+COUNT = 2
+1 = Distribution_Label_Robot2_Left_Bottom_Vacuum_On_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[520100]
+COUNT = 2
+1 = Distribution_Label_Robot2_Left_Box_Rotator_Forward_Off_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[520101]
+COUNT = 2
+1 = Distribution_Label_Robot2_Left_Box_Rotator_Forward_On_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[520110]
+COUNT = 2
+1 = Distribution_Label_Robot2_Left_Box_Rotator_Backward_Off_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[520111]
+COUNT = 2
+1 = Distribution_Label_Robot2_Left_Box_Rotator_Backward_On_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[520120]
+COUNT = 2
+1 = Distribution_Label_Robot2_Left_Box_Rotator_Forward_Off_Cylindeer_Error.
+2 = Confirm whether I/O Module is normally.
+
+[520121]
+COUNT = 2
+1 = Distribution_Label_Robot2_Left_Box_Rotator_Forward_On_Cylindeer_Error.
+2 = Confirm whether I/O Module is normally.
+
+[520130]
+COUNT = 2
+1 = Distribution_Label_Robot2_Left_Box_Rotator_Backward_Off_Cylindeer_Error.
+2 = Confirm whether I/O Module is normally.
+
+[520131]
+COUNT = 2
+1 = Distribution_Label_Robot2_Left_Box_Rotator_Backward_On_Cylindeer_Error.
+2 = Confirm whether I/O Module is normally.
+
+[521010]
+COUNT = 2
+1 = Distribution_Label_Robot2_Right_Top_Vacuum_Backward_Off_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[521011]
+COUNT = 2
+1 = Distribution_Label_Robot2_Right_Top_Vacuum_Backward_On_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[521030]
+COUNT = 2
+1 = Distribution_Label_Robot2_Right_Bottom_Vacuum_Backward_Off_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[521031]
+COUNT = 2
+1 = Distribution_Label_Robot2_Right_Bottom_Vacuum_Backward_On_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[521050]
+COUNT = 2
+1 = Distribution_Label_Robot2_Right_Box_Guide_Backward_Off_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[521051]
+COUNT = 2
+1 = Distribution_Label_Robot2_Right_Box_Guide_Backward_On_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[521080]
+COUNT = 2
+1 = Distribution_Label_Robot2_Right_Top_Vacuum_Off_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[521081]
+COUNT = 2
+1 = Distribution_Label_Robot2_Right_Top_Vacuum_On_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[521090]
+COUNT = 2
+1 = Distribution_Label_Robot2_Right_Bottom_Vacuum_Off_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[521091]
+COUNT = 2
+1 = Distribution_Label_Robot2_Right_Bottom_Vacuum_On_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[521100]
+COUNT = 2
+1 = Distribution_Label_Robot2_Right_Box_Rotator_Forward_Off_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[521101]
+COUNT = 2
+1 = Distribution_Label_Robot2_Right_Box_Rotator_Forward_On_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[521110]
+COUNT = 2
+1 = Distribution_Label_Robot2_Right_Box_Rotator_Backward_Off_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[521111]
+COUNT = 2
+1 = Distribution_Label_Robot2_Right_Box_Rotator_Backward_On_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[521120]
+COUNT = 2
+1 = Distribution_Label_Robot2_Right_Box_Rotator_Forward_Off_Cylindeer_Error.
+2 = Confirm whether I/O Module is normally.
+
+[521121]
+COUNT = 2
+1 = Distribution_Label_Robot2_Right_Box_Rotator_Forward_On_Cylindeer_Error.
+2 = Confirm whether I/O Module is normally.
+
+[521130]
+COUNT = 2
+1 = Distribution_Label_Robot2_Right_Box_Rotator_Backward_Off_Cylindeer_Error.
+2 = Confirm whether I/O Module is normally.
+
+[521131]
+COUNT = 2
+1 = Distribution_Label_Robot2_Right_Box_Rotator_Backward_On_Cylindeer_Error.
+2 = Confirm whether I/O Module is normally.
+
+[522000]
+COUNT = 2
+1 = Reject_Label_Robot_Down_Cylinder_Error.
+2 = Confirm whether I/O Module is normally.
+
+[522001]
+COUNT = 2
+1 = Reject_Label_Robot_Up_Cylinder_Error.
+2 = Confirm whether I/O Module is normally.
+
+[522010]
+COUNT = 2
+1 = Reject_Label_Robot_Vacuum_Cylinder_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[522011]
+COUNT = 2
+1 = Reject_Label_Robot_Vacuum_Cylinder_On_Error.
+2 = Confirm whether I/O Module is normally.
+
+[522020]
+COUNT = 2
+1 = Reject_Label_Robot_Eject_Cylinder_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[522021]
+COUNT = 2
+1 = Reject_Label_Robot_Eject_Cylinder_On_Error.
+2 = Confirm whether I/O Module is normally.
+
+[522040]
+COUNT = 2
+1 = Density_Label_Vision_Trigger_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[522041]
+COUNT = 2
+1 = Density_Label_Vision_Trigger_On_Error.
+2 = Confirm whether I/O Module is normally.
+
+[522050]
+COUNT = 2
+1 = Distribution_Label_Vision_Trigger_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[522051]
+COUNT = 2
+1 = Distribution_Label_Vision_Trigger_On_Error.
+2 = Confirm whether I/O Module is normally.
+
+[522060]
+COUNT = 2
+1 = Top_Label_Vision_Trigger_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[522061]
+COUNT = 2
+1 = Top_Label_Vision_Trigger_On_Error.
+2 = Confirm whether I/O Module is normally.
+
+[522070]
+COUNT = 2
+1 = Bottom_Label_Vision_Trigger_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[522071]
+COUNT = 2
+1 = Bottom_Label_Vision_Trigger_On_Error.
+2 = Confirm whether I/O Module is normally.
+
+[522080]
+COUNT = 2
+1 = Reject_Label_Robot_Up_Check_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[522081]
+COUNT = 2
+1 = Reject_Label_Robot_Up_Check_On_Error.
+2 = Confirm whether I/O Module is normally.
+
+[522090]
+COUNT = 2
+1 = Reject_Label_Robot_Down_Check_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[522091]
+COUNT = 2
+1 = Reject_Label_Robot_Down_Check_On_Error.
+2 = Confirm whether I/O Module is normally.
+
+[522100]
+COUNT = 2
+1 = Reject_Label_Robot_Vacuum_Check_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[522101]
+COUNT = 2
+1 = Reject_Label_Robot_Vacuum_Check_On_Error.
+2 = Confirm whether I/O Module is normally.
+
+[522110]
+COUNT = 2
+1 = Reject_Label_Conveyor_Full_Error.
+2 = Confirm whether I/O Module is normally.
+
+[522120]
+COUNT = 2
+1 = Reject_Label_Conveyor_1_Step_Position_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[522130]
+COUNT = 2
+1 = Reject_Label_Conveyor_Full_Position_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[522990]
+COUNT = 2
+1 = Reject_Label_Conveyor_time_out_Error.
+2 = Confirm whether I/O Module is normally.
+
+[523000]
+COUNT = 2
+1 = Unloader_Robot_Left_Down_Cylinder_Error.
+2 = Confirm whether I/O Module is normally.
+
+[523001]
+COUNT = 2
+1 = Unloader_Robot_Left_Up_Cylinder_Error.
+2 = Confirm whether I/O Module is normally.
+
+[523010]
+COUNT = 2
+1 = Unloader_Robot_Left_Vacuum_Cylinder_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[523011]
+COUNT = 2
+1 = Unloader_Robot_Left_Down_Cylinder_On_Error.
+2 = Confirm whether I/O Module is normally.
+
+[523020]
+COUNT = 2
+1 = Unloader_Robot_Right_Down_Cylinder_Error.
+2 = Confirm whether I/O Module is normally.
+
+[523021]
+COUNT = 2
+1 = Unloader_Robot_Right_Up_Cylinder_Error.
+2 = Confirm whether I/O Module is normally.
+
+[523030]
+COUNT = 2
+1 = Unloader_Robot_Right_Vacuum_Cylinder_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[523031]
+COUNT = 2
+1 = Unloader_Robot_Right_Down_Cylinder_On_Error.
+2 = Confirm whether I/O Module is normally.
+
+[523040]
+COUNT = 2
+1 = Recycle_Zone_Door_Lock_Unlock_Cylinder_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[523041]
+COUNT = 2
+1 = Recycle_Zone_Door_Lock_Unlock_Cylinder_On_Error.
+2 = Confirm whether I/O Module is normally.
+
+[523080]
+COUNT = 2
+1 = Unloader_Robot_Left_Up_Check_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[523081]
+COUNT = 2
+1 = Unloader_Robot_Left_Up_Check_On_Error.
+2 = Confirm whether I/O Module is normally.
+
+[523090]
+COUNT = 2
+1 = Unloader_Robot_Left_Down_Check_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[523091]
+COUNT = 2
+1 = Unloader_Robot_Left_Down_Check_On_Error.
+2 = Confirm whether I/O Module is normally.
+
+[523100]
+COUNT = 2
+1 = Unloader_Robot_Left_Vacuum_Check_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[523101]
+COUNT = 2
+1 = Unloader_Robot_Left_Vacuum_Check_On_Error.
+2 = Confirm whether I/O Module is normally.
+
+[523110]
+COUNT = 2
+1 = Unloader_Robot_Right_Up_Check_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[523111]
+COUNT = 2
+1 = Unloader_Robot_Right_Up_Check_On_Error.
+2 = Confirm whether I/O Module is normally.
+
+[523120]
+COUNT = 2
+1 = Unloader_Robot_Right_Down_Check_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[523121]
+COUNT = 2
+1 = Unloader_Robot_Right_Down_Check_On_Error.
+2 = Confirm whether I/O Module is normally.
+
+[523130]
+COUNT = 2
+1 = Unloader_Robot_Right_Vacuum_Check_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[523131]
+COUNT = 2
+1 = Unloader_Robot_Right_Vacuum_Check_On_Error.
+2 = Confirm whether I/O Module is normally.
+
+[523140]
+COUNT = 2
+1 = Recycle_Zone_Door_Lock_Check_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[523141]
+COUNT = 2
+1 = Recycle_Zone_Door_Lock_Check_On_Error.
+2 = Confirm whether I/O Module is normally.
+
+[523150]
+COUNT = 2
+1 = Recycle_Zone_Door_Unlock_Check_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[523151]
+COUNT = 2
+1 = Recycle_Zone_Door_Unlock_Check_On_Error.
+2 = Confirm whether I/O Module is normally.
+
+[524000]
+COUNT = 2
+1 = Recycle_Zone_Box_Pusher_Forward_Cylinder_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[524001]
+COUNT = 2
+1 = Recycle_Zone_Box_Pusher_Forward_Cylinder_On_Error.
+2 = Confirm whether I/O Module is normally.
+
+[524010]
+COUNT = 2
+1 = Recycle_Zone_Box_Pusher_Backward_Cylinder_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[524011]
+COUNT = 2
+1 = Recycle_Zone_Box_Pusher_Backward_Cylinder_On_Error.
+2 = Confirm whether I/O Module is normally.
+
+[524020]
+COUNT = 2
+1 = Recycle_Zone_Box_Vacuum_Cylinder_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[524021]
+COUNT = 2
+1 = Recycle_Zone_Box_Vacuum_Cylinder_On_Error.
+2 = Confirm whether I/O Module is normally.
+
+[524050]
+COUNT = 2
+1 = Recycle_Zone_Box_Pusher_Forward_Check_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[524051]
+COUNT = 2
+1 = Recycle_Zone_Box_Pusher_Forward_Check_On_Error.
+2 = Confirm whether I/O Module is normally.
+
+[524060]
+COUNT = 2
+1 = Recycle_Zone_Box_Pusher_Backward_Check_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[524061]
+COUNT = 2
+1 = Recycle_Zone_Box_Pusher_Backward_Check_On_Error.
+2 = Confirm whether I/O Module is normally.
+
+[524070]
+COUNT = 2
+1 = Recycle_Zone_Box_Vacuum_Check_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[524071]
+COUNT = 2
+1 = Recycle_Zone_Box_Vacuum_Check_On_Error.
+2 = Confirm whether I/O Module is normally.
+
+[524080]
+COUNT = 2
+1 = Recycle_Zone_Box_Check_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[524081]
+COUNT = 2
+1 = Recycle_Zone_Box_Check_On_Error.
+2 = Confirm whether I/O Module is normally.
+
+[524090]
+COUNT = 2
+1 = Recycle_Zone_Box1_Check_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[524091]
+COUNT = 2
+1 = Recycle_Zone_Box1_Check_On_Error.
+2 = Confirm whether I/O Module is normally.
+
+[524100]
+COUNT = 2
+1 = Recycle_Zone_Box2_Check_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[524101]
+COUNT = 2
+1 = Recycle_Zone_Box2_Check_On_Error.
+2 = Confirm whether I/O Module is normally.
+
+[524111]
+COUNT = 2
+1 = Recycle_Zone_Light_Curtain_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[524120]
+COUNT = 2
+1 = Unloader_Conveyor_Left_Box_Off_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[524121]
+COUNT = 2
+1 = Unloader_Conveyor_Left_Box_On_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[524130]
+COUNT = 2
+1 = Unloader_Conveyor_Right_Box_Off_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[524131]
+COUNT = 2
+1 = Unloader_Conveyor_Right_Box_On_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[524140]
+COUNT = 2
+1 = Unloader_Conveyor_Box_Out_Off_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[524141]
+COUNT = 2
+1 = Unloader_Conveyor_Box_Out_On_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[524150]
+COUNT = 2
+1 = Unloader_Conveyor_Box_Full_Off_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[524151]
+COUNT = 2
+1 = Unloader_Conveyor_Box_Full_On_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[524160]
+COUNT = 2
+1 = Unloader_Conveyor_Box_Out_On_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[524991]
+COUNT = 2
+1 = Unloader_Conveyor_time_out_Error.
+2 = Confirm whether I/O Module is normally.
+
+[525000]
+COUNT = 2
+1 = Top_ID_Buffer_LD1_Shifter_Hook_Forward_Cylinder_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[525001]
+COUNT = 2
+1 = Top_ID_Buffer_LD1_Shifter_Hook_Forward_Cylinder_On_Error.
+2 = Confirm whether I/O Module is normally.
+
+[525010]
+COUNT = 2
+1 = Top_ID_Buffer_LD1_Shifter_Hook_Backward_Cylinder_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[525011]
+COUNT = 2
+1 = Top_ID_Buffer_LD1_Shifter_Hook_Backward_Cylinder_On_Error.
+2 = Confirm whether I/O Module is normally.
+
+[525020]
+COUNT = 2
+1 = Top_ID_Buffer_LD1_Shifter_Hook_Clamp_Cylinder_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[525021]
+COUNT = 2
+1 = Top_ID_Buffer_LD1_Shifter_Hook_Clamp_Cylinder_On_Error.
+2 = Confirm whether I/O Module is normally.
+
+[525030]
+COUNT = 2
+1 = Top_ID_Buffer_LD1_Shifter_Hook_UnClamp_Cylinder_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[525031]
+COUNT = 2
+1 = Top_ID_Buffer_LD1_Shifter_Hook_UnClamp_Cylinder_On_Error.
+2 = Confirm whether I/O Module is normally.
+
+[525040]
+COUNT = 2
+1 = Top_ID_Buffer_LD2_Shifter_Left_Hook_Clamp_Cylinder_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[525041]
+COUNT = 2
+1 = Top_ID_Buffer_LD2_Shifter_Left_Hook_Clamp_Cylinder_On_Error.
+2 = Confirm whether I/O Module is normally.
+
+[525050]
+COUNT = 2
+1 = Top_ID_Buffer_LD2_Shifter_Left_Hook_UnClamp_Cylinder_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[525051]
+COUNT = 2
+1 = Top_ID_Buffer_LD2_Shifter_Left_Hook_UnClamp_Cylinder_On_Error.
+2 = Confirm whether I/O Module is normally.
+
+[525060]
+COUNT = 2
+1 = Top_ID_Buffer_LD2_Shifter_Right_Hook_Clamp_Cylinder_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[525061]
+COUNT = 2
+1 = Top_ID_Buffer_LD2_Shifter_Right_Hook_Clamp_Cylinder_On_Error.
+2 = Confirm whether I/O Module is normally.
+
+[525070]
+COUNT = 2
+1 = Top_ID_Buffer_LD2_Shifter_Right_Hook_UnClamp_Cylinder_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[525071]
+COUNT = 2
+1 = Top_ID_Buffer_LD2_Shifter_Right_Hook_UnClamp_Cylinder_On_Error.
+2 = Confirm whether I/O Module is normally.
+
+[525080]
+COUNT = 2
+1 = Top_ID_Buffer_LD1_Shifter_Hook_Forward_Check_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[525081]
+COUNT = 2
+1 = Top_ID_Buffer_LD1_Shifter_Hook_Forward_Check_On_Error.
+2 = Confirm whether I/O Module is normally.
+
+[525090]
+COUNT = 2
+1 = Top_ID_Buffer_LD1_Shifter_Hook_Backward_Check_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[525091]
+COUNT = 2
+1 = Top_ID_Buffer_LD1_Shifter_Hook_Backward_Check_On_Error.
+2 = Confirm whether I/O Module is normally.
+
+[525100]
+COUNT = 2
+1 = Top_ID_Buffer_LD1_Shifter_Hook_Clamp_Check_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[525101]
+COUNT = 2
+1 = Top_ID_Buffer_LD1_Shifter_Hook_Clamp_Check_On_Error.
+2 = Confirm whether I/O Module is normally.
+
+[525110]
+COUNT = 2
+1 = Top_ID_Buffer_LD1_Shifter_Hook_UnClamp_Check_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[525111]
+COUNT = 2
+1 = Top_ID_Buffer_LD1_Shifter_Hook_UnClamp_Check_On_Error.
+2 = Confirm whether I/O Module is normally.
+
+[525120]
+COUNT = 2
+1 = Top_ID_Buffer_LD2_Shifter_Left_Hook_Clamp_Check_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[525121]
+COUNT = 2
+1 = Top_ID_Buffer_LD2_Shifter_Left_Hook_Clamp_Check_On_Error.
+2 = Confirm whether I/O Module is normally.
+
+[525130]
+COUNT = 2
+1 = Top_ID_Buffer_LD2_Shifter_Left_Hook_UnClamp_Check_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[525131]
+COUNT = 2
+1 = Top_ID_Buffer_LD2_Shifter_Left_Hook_UnClamp_Check_On_Error.
+2 = Confirm whether I/O Module is normally.
+
+[525140]
+COUNT = 2
+1 = Top_ID_Buffer_LD2_Shifter_Right_Hook_Clamp_Check_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[525141]
+COUNT = 2
+1 = Top_ID_Buffer_LD2_Shifter_Right_Hook_Clamp_Check_On_Error.
+2 = Confirm whether I/O Module is normally.
+
+[525150]
+COUNT = 2
+1 = Top_ID_Buffer_LD2_Shifter_Right_Hook_UnClamp_Check_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[525151]
+COUNT = 2
+1 = Top_ID_Buffer_LD2_Shifter_Right_Hook_UnClamp_Check_On_Error.
+2 = Confirm whether I/O Module is normally.
+
+[526000]
+COUNT = 2
+1 = Top_ID_Buffer_LD2_Shifter_Hook_Forward_Cylinder_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[526001]
+COUNT = 2
+1 = Top_ID_Buffer_LD2_Shifter_Hook_Forward_Cylinder_On_Error.
+2 = Confirm whether I/O Module is normally.
+
+[526010]
+COUNT = 2
+1 = Top_ID_Buffer_LD2_Shifter_Hook_Backward_Cylinder_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[526011]
+COUNT = 2
+1 = Top_ID_Buffer_LD2_Shifter_Hook_Backward_Cylinder_On_Error.
+2 = Confirm whether I/O Module is normally.
+
+[526020]
+COUNT = 2
+1 = Top_ID_Buffer_LD2_Shifter_Hook_Forward_Cylinder_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[526021]
+COUNT = 2
+1 = Top_ID_Buffer12_Clamp_Cylinder_On_Error.
+2 = Confirm whether I/O Module is normally.
+
+[526030]
+COUNT = 2
+1 = Top_ID_Buffer12_UnClamp_Cylinder_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[526031]
+COUNT = 2
+1 = Top_ID_Buffer12_UnClamp_Cylinder_On_Error.
+2 = Confirm whether I/O Module is normally.
+
+[526040]
+COUNT = 2
+1 = Top_ID_Buffer34_Clamp_Cylinder_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[526041]
+COUNT = 2
+1 = Top_ID_Buffer34_Clamp_Cylinder_On_Error.
+2 = Confirm whether I/O Module is normally.
+
+[526050]
+COUNT = 2
+1 = Top_ID_Buffer34_UnClamp_Cylinder_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[526051]
+COUNT = 2
+1 = Top_ID_Buffer34_UnClamp_Cylinder_On_Error.
+2 = Confirm whether I/O Module is normally.
+
+[526060]
+COUNT = 2
+1 = Top_ID_Buffer56_Clamp_Cylinder_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[526061]
+COUNT = 2
+1 = Top_ID_Buffer56_Clamp_Cylinder_On_Error.
+2 = Confirm whether I/O Module is normally.
+
+[526070]
+COUNT = 2
+1 = Top_ID_Buffer56_UnClamp_Cylinder_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[526071]
+COUNT = 2
+1 = Top_ID_Buffer56_UnClamp_Cylinder_On_Error.
+2 = Confirm whether I/O Module is normally.
+
+[526080]
+COUNT = 2
+1 = Top_ID_Buffer78_Clamp_Cylinder_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[526081]
+COUNT = 2
+1 = Top_ID_Buffer78_Clamp_Cylinder_On_Error.
+2 = Confirm whether I/O Module is normally.
+
+[526090]
+COUNT = 2
+1 = Top_ID_Buffer78_UnClamp_Cylinder_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[526091]
+COUNT = 2
+1 = Top_ID_Buffer78_UnClamp_Cylinder_On_Error.
+2 = Confirm whether I/O Module is normally.
+
+[526100]
+COUNT = 2
+1 = Top_ID_Buffer_Left_Box_Support_Up_Cylinder_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[526101]
+COUNT = 2
+1 = Top_ID_Buffer_Left_Box_Support_Up_Cylinder_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[526110]
+COUNT = 2
+1 = Top_ID_Buffer_Left_Box_Support_Down_Cylinder_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[526111]
+COUNT = 2
+1 = Top_ID_Buffer_Left_Box_Support_Down_Cylinder_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[526120]
+COUNT = 2
+1 = Top_ID_Buffer_Right_Box_Support_Up_Cylinder_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[526121]
+COUNT = 2
+1 = Top_ID_Buffer_Right_Box_Support_Up_Cylinder_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[526130]
+COUNT = 2
+1 = Top_ID_Buffer_Right_Box_Support_Down_Cylinder_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[526131]
+COUNT = 2
+1 = Top_ID_Buffer_Right_Box_Support_Down_Cylinder_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[527000]
+COUNT = 2
+1 = Top_ID_Buffer_LD2_Shifter_Hook_Forward_Check_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[527001]
+COUNT = 2
+1 = Top_ID_Buffer_LD2_Shifter_Hook_Forward_Check_On_Error.
+2 = Confirm whether I/O Module is normally.
+
+[527010]
+COUNT = 2
+1 = Top_ID_Buffer_LD2_Shifter_Hook_Backward_Check_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[527011]
+COUNT = 2
+1 = Top_ID_Buffer_LD2_Shifter_Hook_Backward_Check_On_Error.
+2 = Confirm whether I/O Module is normally.
+
+[527020]
+COUNT = 2
+1 = Top_ID_Buffer12_Clamp_Check_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[527021]
+COUNT = 2
+1 = Top_ID_Buffer12_Clamp_Check_On_Error.
+2 = Confirm whether I/O Module is normally.
+
+[527030]
+COUNT = 2
+1 = Top_ID_Buffer12_UnClamp_Check_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[527031]
+COUNT = 2
+1 = Top_ID_Buffer12_UnClamp_Check_On_Error.
+2 = Confirm whether I/O Module is normally.
+
+[527040]
+COUNT = 2
+1 = Top_ID_Buffer1_Check_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[527041]
+COUNT = 2
+1 = Top_ID_Buffer1_Check_On_Error.
+2 = Confirm whether I/O Module is normally.
+
+[527050]
+COUNT = 2
+1 = Top_ID_Buffer2_Check_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[527051]
+COUNT = 2
+1 = Top_ID_Buffer2_Check_On_Error.
+2 = Confirm whether I/O Module is normally.
+
+[527060]
+COUNT = 2
+1 = Top_ID_Buffer_Box1_Check_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[527061]
+COUNT = 2
+1 = Top_ID_Buffer_Box1_Check_On_Error.
+2 = Confirm whether I/O Module is normally.
+
+[527070]
+COUNT = 2
+1 = Top_ID_Buffer_Box2_Check_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[527071]
+COUNT = 2
+1 = Top_ID_Buffer_Box2_Check_On_Error.
+2 = Confirm whether I/O Module is normally.
+
+[527080]
+COUNT = 2
+1 = Top_ID_Buffer34_Clamp_Check_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[527081]
+COUNT = 2
+1 = Top_ID_Buffer34_Clamp_Check_On_Error.
+2 = Confirm whether I/O Module is normally.
+
+[527090]
+COUNT = 2
+1 = Top_ID_Buffer34_UnClamp_Check_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[527091]
+COUNT = 2
+1 = Top_ID_Buffer34_UnClamp_Check_On_Error.
+2 = Confirm whether I/O Module is normally.
+
+[527100]
+COUNT = 2
+1 = Top_ID_Buffer3_Check_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[527101]
+COUNT = 2
+1 = Top_ID_Buffer3_Check_On_Error.
+2 = Confirm whether I/O Module is normally.
+
+[527110]
+COUNT = 2
+1 = Top_ID_Buffer4_Check_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[527111]
+COUNT = 2
+1 = Top_ID_Buffer4_Check_On_Error.
+2 = Confirm whether I/O Module is normally.
+
+[527120]
+COUNT = 2
+1 = Top_ID_Buffer_Box3_Check_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[527121]
+COUNT = 2
+1 = Top_ID_Buffer_Box3_Check_On_Error.
+2 = Confirm whether I/O Module is normally.
+
+[527130]
+COUNT = 2
+1 = Top_ID_Buffer_Box4_Check_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[527131]
+COUNT = 2
+1 = Top_ID_Buffer_Box4_Check_On_Error.
+2 = Confirm whether I/O Module is normally.
+
+[527140]
+COUNT = 2
+1 = Bottom_ID_Buffer_ULD1_Shifter_Buffer1_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[527141]
+COUNT = 0
+
+[527150]
+COUNT = 2
+1 = Bottom_ID_Buffer_ULD1_Shifter_Buffer2_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[530000]
+COUNT = 2
+1 = Top_ID_Buffer56_Clamp_Check_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[530001]
+COUNT = 2
+1 = Top_ID_Buffer56_Clamp_Check_On_Error.
+2 = Confirm whether I/O Module is normally.
+
+[530010]
+COUNT = 2
+1 = Top_ID_Buffer56_UnClamp_Check_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[530011]
+COUNT = 2
+1 = Top_ID_Buffer56_UnClamp_Check_On_Error.
+2 = Confirm whether I/O Module is normally.
+
+[530020]
+COUNT = 2
+1 = Top_ID_Buffer5_Check_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[530021]
+COUNT = 2
+1 = Top_ID_Buffer5_Check_On_Error.
+2 = Confirm whether I/O Module is normally.
+
+[530030]
+COUNT = 2
+1 = Top_ID_Buffer6_Check_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[530031]
+COUNT = 2
+1 = Top_ID_Buffer6_Check_On_Error.
+2 = Confirm whether I/O Module is normally.
+
+[530040]
+COUNT = 2
+1 = Top_ID_Buffer_Box5_Check_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[530041]
+COUNT = 2
+1 = Top_ID_Buffer_Box5_Check_On_Error.
+2 = Confirm whether I/O Module is normally.
+
+[530050]
+COUNT = 2
+1 = Top_ID_Buffer_Box6_Check_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[530051]
+COUNT = 2
+1 = Top_ID_Buffer_Box6_Check_On_Error.
+2 = Confirm whether I/O Module is normally.
+
+[530060]
+COUNT = 2
+1 = Top_ID_Buffer78_Clamp_Check_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[530061]
+COUNT = 2
+1 = Top_ID_Buffer78_Clamp_Check_On_Error.
+2 = Confirm whether I/O Module is normally.
+
+[530070]
+COUNT = 2
+1 = Top_ID_Buffer78_UnClamp_Check_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[530071]
+COUNT = 2
+1 = Top_ID_Buffer78_UnClamp_Check_On_Error.
+2 = Confirm whether I/O Module is normally.
+
+[530080]
+COUNT = 2
+1 = Top_ID_Buffer7_Check_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[530081]
+COUNT = 2
+1 = Top_ID_Buffer7_Check_On_Error.
+2 = Confirm whether I/O Module is normally.
+
+[530090]
+COUNT = 2
+1 = Top_ID_Buffer8_Check_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[530091]
+COUNT = 2
+1 = Top_ID_Buffer8_Check_On_Error.
+2 = Confirm whether I/O Module is normally.
+
+[530100]
+COUNT = 2
+1 = Top_ID_Buffer_Box7_Check_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[530101]
+COUNT = 2
+1 = Top_ID_Buffer_Box7_Check_On_Error.
+2 = Confirm whether I/O Module is normally.
+
+[530110]
+COUNT = 2
+1 = Top_ID_Buffer_Box8_Check_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[530111]
+COUNT = 2
+1 = Top_ID_Buffer_Box8_Check_On_Error.
+2 = Confirm whether I/O Module is normally.
+
+[531010]
+COUNT = 2
+1 = Rolling1_Pusher_Backward_Cylinder_Left_Right_Error.
+2 = Confirm whether I/O Module is normally.
+
+[531011]
+COUNT = 2
+1 = Rolling1_Pusher_Forward_Cylinder_Left_Right_Error.
+2 = Confirm whether I/O Module is normally.
+
+[531020]
+COUNT = 2
+1 = Rolling2_Pusher_Backward_Cylinder_Left_Right_Error.
+2 = Confirm whether I/O Module is normally.
+
+[531021]
+COUNT = 2
+1 = Rolling2_Pusher_Forward_Cylinder_Left_Right_Error.
+2 = Confirm whether I/O Module is normally.
+
+[531080]
+COUNT = 2
+1 = Rolling1_Pusher_Left_Forward_Check_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[531081]
+COUNT = 2
+1 = Rolling1_Pusher_Left_Forward_Check_On_Error.
+2 = Confirm whether I/O Module is normally.
+
+[531090]
+COUNT = 2
+1 = Rolling1_Pusher_Left_Backward_Check_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[531091]
+COUNT = 2
+1 = Rolling1_Pusher_Left_Backward_Check_On_Error.
+2 = Confirm whether I/O Module is normally.
+
+[531100]
+COUNT = 2
+1 = Rolling1_Pusher_Right_Forward_Check_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[531101]
+COUNT = 2
+1 = Rolling1_Pusher_Right_Forward_Check_On_Error.
+2 = Confirm whether I/O Module is normally.
+
+[531110]
+COUNT = 2
+1 = Rolling1_Pusher_Right_Backward_Check_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[531111]
+COUNT = 2
+1 = Rolling1_Pusher_Right_Backward_Check_On_Error.
+2 = Confirm whether I/O Module is normally.
+
+[531120]
+COUNT = 2
+1 = Rolling2_Pusher_Left_Forward_Check_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[531121]
+COUNT = 2
+1 = Rolling2_Pusher_Left_Forward_Check_On_Error.
+2 = Confirm whether I/O Module is normally.
+
+[531130]
+COUNT = 2
+1 = Rolling2_Pusher_Left_Backward_Check_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[531131]
+COUNT = 2
+1 = Rolling2_Pusher_Left_Backward_Check_On_Error.
+2 = Confirm whether I/O Module is normally.
+
+[531140]
+COUNT = 2
+1 = Rolling2_Pusher_Right_Forward_Check_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[531141]
+COUNT = 2
+1 = Rolling2_Pusher_Right_Forward_Check_On_Error.
+2 = Confirm whether I/O Module is normally.
+
+[531150]
+COUNT = 2
+1 = Rolling2_Pusher_Right_Backward_Check_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[531151]
+COUNT = 2
+1 = Rolling2_Pusher_Right_Backward_Check_On_Error.
+2 = Confirm whether I/O Module is normally.
+
+[532000]
+COUNT = 2
+1 = ID_Buffer_Elevator_Hook_Clamp_Cylinder_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[532001]
+COUNT = 2
+1 = ID_Buffer_Elevator_Hook_Clamp_Cylinder_On_Error.
+2 = Confirm whether I/O Module is normally.
+
+[532010]
+COUNT = 2
+1 = ID_Buffer_Elevator_Hook_UnClamp_Cylinder_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[532011]
+COUNT = 2
+1 = ID_Buffer_Elevator_Hook_UnClamp_Cylinder_On_Error.
+2 = Confirm whether I/O Module is normally.
+
+[532020]
+COUNT = 2
+1 = ID_Buffer_Elevator_Buffer_Pusher_Forward_off_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[532021]
+COUNT = 2
+1 = ID_Buffer_Elevator_Buffer_Pusher_Forward_on_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[532030]
+COUNT = 2
+1 = ID_Buffer_Elevator_Buffer_Pusher_Backward_off_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[532031]
+COUNT = 2
+1 = ID_Buffer_Elevator_Buffer_Pusher_Backward_on_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[532080]
+COUNT = 2
+1 = ID_Buffer_Elevator_Hook_Clamp_Off_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[532081]
+COUNT = 2
+1 = ID_Buffer_Elevator_Hook_Clamp_On_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[532090]
+COUNT = 2
+1 = ID_Buffer_Elevator_Hook_UnClamp_Off_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[532091]
+COUNT = 2
+1 = ID_Buffer_Elevator_Hook_UnClamp_On_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[532100]
+COUNT = 2
+1 = ID_Buffer_Elevator_ID_Buffer1_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[532110]
+COUNT = 2
+1 = ID_Buffer_Elevator_ID_Buffer2_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[532120]
+COUNT = 2
+1 = Buffer_Elevator_Box1_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[532121]
+COUNT = 2
+1 = Buffer_Elevator_Box1_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[532130]
+COUNT = 2
+1 = Buffer_Elevator_Box2_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[532131]
+COUNT = 2
+1 = Buffer_Elevator_Box2_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[532140]
+COUNT = 2
+1 = Buffer_Elevator_Pusher_Forward_off_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[532141]
+COUNT = 2
+1 = Buffer_Elevator_Pusher_Forward_on_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[532150]
+COUNT = 2
+1 = Buffer_Elevator_Pusher_Backward_off_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[532151]
+COUNT = 2
+1 = Buffer_Elevator_Pusher_Backward_on_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[533000]
+COUNT = 2
+1 = Bottom_ID_Buffer_ULD1_Shifter_Hook_Forward_Cylinder_Off_Eerror.
+2 = Confirm whether I/O Module is normally.
+
+[533001]
+COUNT = 2
+1 = Bottom_ID_Buffer_ULD1_Shifter_Hook_Forward_Cylinder_On_Eerror.
+2 = Confirm whether I/O Module is normally.
+
+[533010]
+COUNT = 2
+1 = Bottom_ID_Buffer_ULD1_Shifter_Hook_Backward_Cylinder_Off_Eerror.
+2 = Confirm whether I/O Module is normally.
+
+[533011]
+COUNT = 2
+1 = Bottom_ID_Buffer_ULD1_Shifter_Hook_Backward_Cylinder_On_Eerror.
+2 = Confirm whether I/O Module is normally.
+
+[533020]
+COUNT = 2
+1 = Bottom_ID_Buffer12_Clamp_Cylinder_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[533021]
+COUNT = 2
+1 = Bottom_ID_Buffer12_Clamp_Cylinder_On_Error.
+2 = Confirm whether I/O Module is normally.
+
+[533030]
+COUNT = 2
+1 = Bottom_ID_Buffer12_UnClamp_Cylinder_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[533031]
+COUNT = 2
+1 = Bottom_ID_Buffer12_UnClamp_Cylinder_On_Error.
+2 = Confirm whether I/O Module is normally.
+
+[533040]
+COUNT = 2
+1 = Bottom_ID_Buffer_ULD2_Shifter_Hook_Forward_Cylinder_Off_Error.Check_sensor_2ea.
+2 = Confirm whether I/O Module is normally.
+
+[533041]
+COUNT = 2
+1 = Bottom_ID_Buffer_ULD2_Shifter_Hook_Forward_Cylinder_On_Error.Check_sensor_2ea.
+2 = Confirm whether I/O Module is normally.
+
+[533050]
+COUNT = 2
+1 = Bottom_ID_Buffer_ULD2_Shifter_Hook_Backward_Cylinder_Off_Error.Check_sensor_2ea.
+2 = Confirm whether I/O Module is normally.
+
+[533051]
+COUNT = 2
+1 = Bottom_ID_Buffer_ULD2_Shifter_Hook_Backward_Cylinder_On_Error.Check_sensor_2ea.
+2 = Confirm whether I/O Module is normally.
+
+[533060]
+COUNT = 2
+1 = Bottom_ID_Buffer_ULD1_Shifter_Hook_Forward_Cylinder_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[533061]
+COUNT = 2
+1 = Bottom_ID_Buffer_ULD1_Shifter_Hook_Forward_Cylinder_On_Error.
+2 = Confirm whether I/O Module is normally.
+
+[533070]
+COUNT = 2
+1 = Bottom_ID_Buffer_ULD1_Shifter_Hook_Backward_Cylinder_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[533071]
+COUNT = 2
+1 = Bottom_ID_Buffer_ULD1_Shifter_Hook_Backward_Cylinder_On_Error.
+2 = Confirm whether I/O Module is normally.
+
+[533080]
+COUNT = 2
+1 = Bottom_ID_Buffer12_Clamp_Off_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[533081]
+COUNT = 2
+1 = Bottom_ID_Buffer12_Clamp_On_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[533090]
+COUNT = 2
+1 = Bottom_ID_Buffer12_UnClamp_Off_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[533091]
+COUNT = 2
+1 = Bottom_ID_Buffer12_UnClamp_On_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[533100]
+COUNT = 2
+1 = Bottom_ID_Buffer1_Off_Check.
+2 = Confirm whether I/O Module is normally.
+
+[533101]
+COUNT = 2
+1 = Bottom_ID_Buffer1_On_Check.
+2 = Confirm whether I/O Module is normally.
+
+[533110]
+COUNT = 2
+1 = Bottom_ID_Buffer2_Off_Check.
+2 = Confirm whether I/O Module is normally.
+
+[533111]
+COUNT = 2
+1 = Bottom_ID_Buffer2_On_Check.
+2 = Confirm whether I/O Module is normally.
+
+[533120]
+COUNT = 2
+1 = TOP_ID_Buffer_Left_Box_Support_up_check_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[533121]
+COUNT = 2
+1 = TOP_ID_Buffer_Left_Box_Support_up_check_on_Error.
+2 = Confirm whether I/O Module is normally.
+
+[533130]
+COUNT = 2
+1 = TOP_ID_Buffer_Left_Box_Support_down_check_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[533131]
+COUNT = 2
+1 = TOP_ID_Buffer_Left_Box_Support_down_check_on_Error.
+2 = Confirm whether I/O Module is normally.
+
+[533140]
+COUNT = 2
+1 = TOP_ID_Buffer_Right_Box_Support_up_check_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[533141]
+COUNT = 2
+1 = TOP_ID_Buffer_Right_Box_Support_up_check_on_Error.
+2 = Confirm whether I/O Module is normally.
+
+[533150]
+COUNT = 2
+1 = TOP_ID_Buffer_Right_Box_Support_down_check_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[533151]
+COUNT = 2
+1 = TOP_ID_Buffer_Right_Box_Support_down_check_on_Error.
+2 = Confirm whether I/O Module is normally.
+
+[534000]
+COUNT = 2
+1 = Bottom_ID_Buffer34_Clamp_Cylinder_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[534001]
+COUNT = 2
+1 = Bottom_ID_Buffer34_Clamp_Cylinder_On_Error.
+2 = Confirm whether I/O Module is normally.
+
+[534010]
+COUNT = 2
+1 = Bottom_ID_Buffer34_UnClamp_Cylinder_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[534011]
+COUNT = 2
+1 = Bottom_ID_Buffer34_UnClamp_Cylinder_On_Error.
+2 = Confirm whether I/O Module is normally.
+
+[534020]
+COUNT = 2
+1 = Bottom_ID_Buffer_Stopper_Down_Cylinder_Error.
+2 = Confirm whether I/O Module is normally.
+
+[534021]
+COUNT = 2
+1 = Bottom_ID_Buffer_Stopper_Up_Cylinder_Error.
+2 = Confirm whether I/O Module is normally.
+
+[534040]
+COUNT = 2
+1 = Bottom_ID_Buffer_ULD2_Shifter_Hook_Clamp1_Check_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[534041]
+COUNT = 2
+1 = Bottom_ID_Buffer_ULD2_Shifter_Hook_Clamp1_Check_On_Error.
+2 = Confirm whether I/O Module is normally.
+
+[534050]
+COUNT = 2
+1 = Bottom_ID_Buffer_ULD2_Shifter_Hook_Clamp1_Check_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[534051]
+COUNT = 2
+1 = Bottom_ID_Buffer_ULD2_Shifter_Hook_Clamp1_Check_On_Error.
+2 = Confirm whether I/O Module is normally.
+
+[534060]
+COUNT = 2
+1 = Bottom_ID_Buffer_ULD2_Shifter_Hook_Clamp2_Check_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[534061]
+COUNT = 2
+1 = Bottom_ID_Buffer_ULD2_Shifter_Hook_Clamp2_Check_On_Error.
+2 = Confirm whether I/O Module is normally.
+
+[534070]
+COUNT = 2
+1 = Bottom_ID_Buffer_ULD2_Shifter_Hook_Clamp2_Check_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[534071]
+COUNT = 2
+1 = Bottom_ID_Buffer_ULD2_Shifter_Hook_Clamp2_Check_On_Error.
+2 = Confirm whether I/O Module is normally.
+
+[534080]
+COUNT = 2
+1 = Bottom_ID_Buffer34_Clamp_Check_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[534081]
+COUNT = 2
+1 = Bottom_ID_Buffer34_Clamp_Check_On_Error.
+2 = Confirm whether I/O Module is normally.
+
+[534090]
+COUNT = 2
+1 = Bottom_ID_Buffer34_UnClamp_Check_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[534091]
+COUNT = 2
+1 = Bottom_ID_Buffer34_UnClamp_Check_On_Error.
+2 = Confirm whether I/O Module is normally.
+
+[534100]
+COUNT = 2
+1 = Bottom_ID_Buffer3_Check_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[534101]
+COUNT = 2
+1 = Bottom_ID_Buffer3_Check_On_Error.
+2 = Confirm whether I/O Module is normally.
+
+[534110]
+COUNT = 2
+1 = Bottom_ID_Buffer4_Check_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[534111]
+COUNT = 2
+1 = Bottom_ID_Buffer4_Check_On_Error.
+2 = Confirm whether I/O Module is normally.
+
+[534120]
+COUNT = 2
+1 = Bottom_ID_Buffer_Stopper_Up_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[534130]
+COUNT = 2
+1 = Bottom_ID_Buffer_Stopper_Down_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[534140]
+COUNT = 2
+1 = Bottom_ID_Buffer_Stopper_Buffer_Check_Error.
+2 = Confirm whether I/O Module is normally.
+
+[534150]
+COUNT = 2
+1 = Bottom_ID_Buffer_8480_Hook_In_Check_INITIAL.
+2 = Confirm whether I/O Module is normally.
+
+[535040]
+COUNT = 3
+1 = Reject_Label_Conveyor_Motor_Off_Error.
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[535041]
+COUNT = 3
+1 = Reject_Label_Conveyor_Motor_On_Error.
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[535050]
+COUNT = 3
+1 = Unloader_Label_Conveyor_Motor_Off_Error.
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[535051]
+COUNT = 3
+1 = Unloader_Label_Conveyor_Motor_On_Error.
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[535060]
+COUNT = 2
+1 = Recycle_Zone_Door_Switch_Lamp_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[535061]
+COUNT = 2
+1 = Recycle_Zone_Door_Switch_Lamp_On_Error.
+2 = Confirm whether I/O Module is normally.
+
+[535120]
+COUNT = 2
+1 = Recycle_Zone_Door_Switch_Check_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[535121]
+COUNT = 2
+1 = Recycle_Zone_Door_Switch_Check_On_Error.
+2 = Confirm whether I/O Module is normally.
+
+[536000]
+COUNT = 2
+1 = Main_Air_On_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[536010]
+COUNT = 2
+1 = Tower_Green_Lamp_Error.
+2 = Confirm whether I/O Module is normally.
+
+[536020]
+COUNT = 2
+1 = Tower_Yellow_Lamp_Error.
+2 = Confirm whether I/O Module is normally.
+
+[536030]
+COUNT = 2
+1 = Tower_Red_Lamp_Error.
+2 = Confirm whether I/O Module is normally.
+
+[536040]
+COUNT = 2
+1 = Buzzer1_On_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[536050]
+COUNT = 2
+1 = Buzzer2_On_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[536060]
+COUNT = 2
+1 = Buzzer3_On_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[536070]
+COUNT = 2
+1 = Door_Lock_On_Off_All_Door_Error.
+2 = Confirm whether I/O Module is normally.
+
+[536080]
+COUNT = 2
+1 = Main_Air_Check_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[536081]
+COUNT = 2
+1 = Main_Air_Check_On_Error.
+2 = Confirm whether I/O Module is normally.
+
+[536110]
+COUNT = 2
+1 = MC1_Check_Error._MOTOR_POWER_CHECK.
+2 = Confirm whether I/O Module is normally.
+
+[536120]
+COUNT = 2
+1 = EMO1_Check.
+2 = Confirm whether I/O Module is normally.
+
+[536130]
+COUNT = 2
+1 = EMO2_Check.
+2 = Confirm whether I/O Module is normally.
+
+[536140]
+COUNT = 2
+1 = EMO3_Check.
+2 = Confirm whether I/O Module is normally.
+
+[536150]
+COUNT = 2
+1 = EMO4_Check.
+2 = Confirm whether I/O Module is normally.
+
+[537000]
+COUNT = 2
+1 = Door1_Open_Close_Check_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[537001]
+COUNT = 2
+1 = Door1_Open_Close_Check_On_Error.
+2 = Confirm whether I/O Module is normally.
+
+[537010]
+COUNT = 2
+1 = Door2_Open_Close_Check_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[537011]
+COUNT = 2
+1 = Door2_Open_Close_Check_On_Error.
+2 = Confirm whether I/O Module is normally.
+
+[537020]
+COUNT = 2
+1 = Door3_Open_Close_Check_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[537021]
+COUNT = 2
+1 = Door3_Open_Close_Check_On_Error.
+2 = Confirm whether I/O Module is normally.
+
+[537030]
+COUNT = 2
+1 = Door4_Open_Close_Check_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[537031]
+COUNT = 2
+1 = Door4_Open_Close_Check_On_Error.
+2 = Confirm whether I/O Module is normally.
+
+[537040]
+COUNT = 2
+1 = Door5_Open_Close_Check_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[537041]
+COUNT = 2
+1 = Door5_Open_Close_Check_On_Error.
+2 = Confirm whether I/O Module is normally.
+
+[537050]
+COUNT = 2
+1 = Door6_Open_Close_Check_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[537051]
+COUNT = 2
+1 = Door6_Open_Close_Check_On_Error.
+2 = Confirm whether I/O Module is normally.
+
+[537060]
+COUNT = 2
+1 = Door7_Open_Close_Check_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[537061]
+COUNT = 2
+1 = Door7_Open_Close_Check_On_Error.
+2 = Confirm whether I/O Module is normally.
+
+[537070]
+COUNT = 2
+1 = Door8_Open_Close_Check_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[537071]
+COUNT = 2
+1 = Door8_Open_Close_Check_On_Error.
+2 = Confirm whether I/O Module is normally.
+
+[537080]
+COUNT = 2
+1 = Door9_Open_Close_Check_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[537081]
+COUNT = 2
+1 = Door9_Open_Close_Check_On_Error.
+2 = Confirm whether I/O Module is normally.
+
+[537090]
+COUNT = 2
+1 = Door10_Open_Close_Check_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[537091]
+COUNT = 2
+1 = Door10_Open_Close_Check_On_Error.
+2 = Confirm whether I/O Module is normally.
+
+[537100]
+COUNT = 2
+1 = Recycle_Zone_Door_Check_Off_Error.
+2 = Confirm whether I/O Module is normally.
+
+[537101]
+COUNT = 2
+1 = Recycle_Zone_Door_Check_On_Error.
+2 = Confirm whether I/O Module is normally.
+
+[537120]
+COUNT = 2
+1 = Bottom Door1 Error
+2 = Confirm whether I/O Module is normally.
+
+[537130]
+COUNT = 2
+1 = Bottom Door2 Error
+2 = Confirm whether I/O Module is normally.
+
+[540000]
+COUNT = 1
+1 = Front_Shuttle_TOP_ID_Buffer_Requst_Signal.
+
+[540010]
+COUNT = 1
+1 = Front_Shuttle_Top_ID_Buffer_Transfer_Signal.
+
+[540020]
+COUNT = 1
+1 = Front_Shuttle_Bottom_ID_Buffer_Ready_Signal.
+
+[540030]
+COUNT = 1
+1 = Front_Shuttle_Bottom_ID_Buffer_Stop_Signal.
+
+[540040]
+COUNT = 1
+1 = Rear_Transfer_Signal.
+
+[540080]
+COUNT = 1
+1 = Front_Shuttle_TOP_ID_Buffer_Ready_Check_Error.
+
+[540090]
+COUNT = 1
+1 = Front_Shuttle_Top_ID_Buffer_Stop_Check.
+
+[540100]
+COUNT = 1
+1 = Front_Shuttle_Bottom_ID_Buffer_Request_Check_Error.
+
+[540110]
+COUNT = 1
+1 = Front_Shuttle_Bottom_ID_Buffer_Transfer_Check_Error.
+
+[540120]
+COUNT = 1
+1 = Rear_Request_Signal.
+
+[600000]
+COUNT = 1
+1 = Density_feeder1_is_different_model.
+
+[600010]
+COUNT = 1
+1 = Density_feeder2_is_different_model.
+
+[600020]
+COUNT = 1
+1 = Density_feeder3_is_different_model.
+
+[600030]
+COUNT = 1
+1 = Density_feeder4_is_different_model.
+
+[600040]
+COUNT = 1
+1 = Density_feeder5_is_different_model.
+
+[600050]
+COUNT = 1
+1 = Density_feeder6_is_different_model.
+
+[600100]
+COUNT = 1
+1 = Density_feeder1_is_vision_time_out.
+
+[600200]
+COUNT = 1
+1 = Density_feeder2_is_vision_time_out.
+
+[600220]
+COUNT = 1
+1 = id buffer top Input index program in not dual mode setting error -[set flag]
+
+[600248]
+COUNT = 1
+1 = unload id buffer check io sensor and program flag status check error.
+
+[600300]
+COUNT = 1
+1 = Density_feeder3_is_vision_time_out.
+
+[600400]
+COUNT = 1
+1 = Density_feeder4_is_vision_time_out.
+
+[600500]
+COUNT = 1
+1 = Density_feeder5_is_vision_time_out.
+
+[601000]
+COUNT = 1
+1 = id buffer top Input index program in Left flag setting error from front machine
+
+[601100]
+COUNT = 1
+1 = id buffer top Input index program flag error, buffer skip flag is not same
+
+[602000]
+COUNT = 1
+1 = Density_Label_Feeder1_is_not_use_Please_check_basic_menu
+
+[602001]
+COUNT = 1
+1 = Density_Label_Feeder2_is_not_use_Please_check_basic_menu
+
+[602002]
+COUNT = 1
+1 = Density_Label_Feeder3_is_not_use_Please_check_basic_menu
+
+[602003]
+COUNT = 1
+1 = Density_Label_Feeder4_is_not_use_Please_check_basic_menu
+
+[610000]
+COUNT = 1
+1 = Distribution_feeder1_is_different_model.
+
+[610010]
+COUNT = 1
+1 = Distribution_feeder2_is_different_model.
+
+[610020]
+COUNT = 1
+1 = Distribution_feeder3_is_different_model.
+
+[610030]
+COUNT = 1
+1 = Distribution_feeder4_is_different_model.
+
+[610100]
+COUNT = 1
+1 = Distribution_feeder1_is_vision_time_out.
+
+[610200]
+COUNT = 1
+1 = Distribution_feeder2_is_vision_time_out.
+
+[610300]
+COUNT = 1
+1 = Distribution_feeder3_is_vision_time_out.
+
+[610400]
+COUNT = 1
+1 = Distribution_feeder4_is_vision_time_out.
+
+[620000]
+COUNT = 1
+1 = Lable_code_is_not_same.
+
+[620001]
+COUNT = 1
+1 = Ribbon_code_is_not_same.
+
+[630000]
+COUNT = 1
+1 = Barcode_and_Module_count_is_different.
+
+[640000]
+COUNT = 1
+1 = zebra Printer1 Label Empty Error
+
+[640001]
+COUNT = 1
+1 = zebra Printer2 Label Empty Error
+
+[640002]
+COUNT = 1
+1 = zebra Printer3 Label Empty Error
+
+[640003]
+COUNT = 1
+1 = zebra Printer4 Label Empty Error
+
+[650000]
+COUNT = 1
+1 = barcode is not same
+
+[700000]
+COUNT = 1
+1 = Server_connect_time_out_error
+
+[700010]
+COUNT = 1
+1 = Density_label1_time_out_from_server.
+
+[700020]
+COUNT = 1
+1 = Density_label2_time_out_from_server.
+
+[700030]
+COUNT = 1
+1 = Density_label3_time_out_from_server.
+
+[700040]
+COUNT = 1
+1 = Density_label4_time_out_from_server.
+
+[700050]
+COUNT = 1
+1 = Density_label5_time_out_from_server.
+
+[700060]
+COUNT = 1
+1 = Density_label6_time_out_from_server.
+
+[700011]
+COUNT = 1
+1 = Density_label1_time_out_from_server.
+
+[700021]
+COUNT = 1
+1 = Density_label2_time_out_from_server.
+
+[700031]
+COUNT = 1
+1 = Density_label3_time_out_from_server.
+
+[700041]
+COUNT = 1
+1 = Density_label4_time_out_from_server.
+
+[700051]
+COUNT = 1
+1 = Density_label5_time_out_from_server.
+
+[700061]
+COUNT = 1
+1 = Density_label6_time_out_from_server.
+
+[700100]
+COUNT = 1
+1 = Received_incorrect_Barcode1_from_server.
+
+[700110]
+COUNT = 1
+1 = Received_incorrect_Barcode2_from_server.
+
+[700120]
+COUNT = 1
+1 = Received_incorrect_Barcode3_from_server.
+
+[700130]
+COUNT = 1
+1 = Received_incorrect_Barcode4_from_server.
+
+[700200]
+COUNT = 1
+1 = Barcode1_time_out_from_server.
+
+[700210]
+COUNT = 1
+1 = Barcode2_time_out_from_server.
+
+[700220]
+COUNT = 1
+1 = Barcode3_time_out_from_server.
+
+[700230]
+COUNT = 1
+1 = Barcode4_time_out_from_server.
+
+[700300]
+COUNT = 1
+1 = Barcode1_format_can't_receive_from_server
+
+[700310]
+COUNT = 1
+1 = Barcode2_format_can't_receive_from_server
+
+[700320]
+COUNT = 1
+1 = Barcode3_format_can't_receive_from_server
+
+[700330]
+COUNT = 1
+1 = Barcode4_format_can't_receive_from_server
+
+[700400]
+COUNT = 1
+1 = Barcode1_time_out_from_zebra_printer
+
+[700410]
+COUNT = 1
+1 = Barcode2_time_out_from_zebra_printer
+
+[700420]
+COUNT = 1
+1 = Barcode3_time_out_from_zebra_printer
+
+[700430]
+COUNT = 1
+1 = Barcode4_time_out_from_zebra_printer
+
+[701000]
+COUNT = 1
+1 = Received_incorrect_topvision1_from_server.
+
+[701100]
+COUNT = 1
+1 = Received_incorrect_topvision2_from_server.
+
+[702000]
+COUNT = 1
+1 = Topvision1_time_out_from_server.
+
+[702100]
+COUNT = 1
+1 = Topvision2_time_out_from_server.
+
+[703000]
+COUNT = 1
+1 = Received_incorrect_btmvision1_from_server.
+
+[703100]
+COUNT = 1
+1 = Received_incorrect_btmvision2_from_server.
+
+[704000]
+COUNT = 1
+1 = Btmvision1_time_out_from_server.
+
+[704100]
+COUNT = 1
+1 = Btmvision2_time_out_from_server.
+
+[720000]
+COUNT = 1
+1 = NO_Read_Barcode1.
+
+[720001]
+COUNT = 1
+1 = NO_Read_Barcode2.
+
+[720002]
+COUNT = 1
+1 = NO_Read_Barcode3.
+
+[720003]
+COUNT = 1
+1 = NO_Read_Barcode4.
+
+[730010]
+COUNT = 1
+1 = Density_label1_Ready or complete time out.
+
+[730020]
+COUNT = 1
+1 = Density_label2_Ready or complete time out.
+
+[730030]
+COUNT = 1
+1 = Density_label3_Ready or complete time out.
+
+[730040]
+COUNT = 1
+1 = Density_label4_Ready or complete time out.
+
+[730050]
+COUNT = 1
+1 = Density_label5_Ready or complete time out.
+
+[730060]
+COUNT = 1
+1 = Density_label6_Ready or complete time out.
+
+[740000]
+COUNT = 1
+1 = Can't_receive_response_from_Front_machine_8580S_BTM.
+
+[750000]
+COUNT = 1
+1 = NEXT_Machine is not response
+
+[770000]
+COUNT = 1
+1 = New Lot in can't receive from server
+
+[770001]
+COUNT = 1
+1 = New Lot in Fail received from server
+
+[771000]
+COUNT = 1
+1 = Density CCS is not same
+
+[772000]
+COUNT = 1
+1 = BCR Label CCS is not same
+
+[800000]
+COUNT = 1
+1 = Network Time Out Erorr[TOP LOADER_MC]
+
+[800020]
+COUNT = 1
+1 = barcode read error[load Input site]
+
+[800021]
+COUNT = 1
+1 = barcode read serial number mismatch error[load Input site]
+
+[800022]
+COUNT = 1
+1 = barcode read error[lable output site]
+
+[800023]
+COUNT = 1
+1 = barcode read serial number mismatch error[lable output site]
+
+[810000]
+COUNT = 1
+1 = barcode infotmation is not correct[SHIFT IDBUFF_RECV(8580->8590 NETWORK)]
+
+[810001]
+COUNT = 1
+1 = barcode infotmation is not correct[SHIFT IDBUFF INPUT]
+
+[810002]
+COUNT = 1
+1 = barcode infotmation is not correct[SHIFT IDBUFF DENSITY LABEL]
+
+[810003]
+COUNT = 1
+1 = barcode infotmation is not correct[SHIFT IDBUFF BCR1]
+
+[810004]
+COUNT = 1
+1 = barcode infotmation is not correct[SHIFT IDBUFF BCR2]
+
+[810005]
+COUNT = 1
+1 = barcode infotmation is not correct[SHIFT IDBUFF TOP VISION]
+
+[810006]
+COUNT = 1
+1 = barcode infotmation is not correct[SHIFT IDBUFF BOTTOM VISION]
+
+[900000]
+COUNT = 1
+1 = Retry Error.
+
+[900001]
+COUNT = 3
+1 = Initialize error.
+2 = Confirm whether I/O Module is normally.
+3 = Confirm whether Motor Module is normally.
+
+[900002]
+COUNT = 2
+1 = Motor board initialization Check Error.
+2 = Please check the I/O Device
+
+[900003]
+COUNT = 2
+1 = I/O board initialization Error.
+2 = Please check the I/O Device
+
+[900101]
+COUNT = 1
+1 = MES_NOT_RESPONSE_ERR
+
+[900102]
+COUNT = 1
+1 = MES_NOT_RESPONSE_ERR
+
+[900103]
+COUNT = 1
+1 = MES_NOT_RESPONSE_ERR
+
+[900104]
+COUNT = 1
+1 = MES_NOT_RESPONSE_ERR
+
+[900105]
+COUNT = 1
+1 = MES_NOT_RESPONSE_ERR
+
+[900200]
+COUNT = 1
+1 = There is no model in density label.
+
+[901000]
+COUNT = 1
+1 = Continuous_vision_error_Density1
+
+[901001]
+COUNT = 1
+1 = Continuous_vision_error_Density2
+
+[910000]
+COUNT = 1
+1 = Continuous vision error(Barcode1)
+
+[910001]
+COUNT = 1
+1 = Continuous vision error(Barcode2)
+
+[910002]
+COUNT = 1
+1 = Continuous vision error(Barcode3)
+
+[910003]
+COUNT = 1
+1 = Continuous vision error(Barcode4)
+
+[910010]
+COUNT = 1
+1 = Total vision error(Barcode1)
+
+[910011]
+COUNT = 1
+1 = Total vision error(Barcode2)
+
+[910012]
+COUNT = 1
+1 = Total vision error(Barcode3)
+
+[910013]
+COUNT = 1
+1 = Total vision error(Barcode4)
+
+[910100]
+COUNT = 1
+1 = Model_change_Barcode1_Vision_TOP_DARKNESS_Chek
+
+[910101]
+COUNT = 1
+1 = Model_change_Barcode2_Vision_TOP_DARKNESS_Chek
+
+[910102]
+COUNT = 1
+1 = Model_change_Barcode3_Vision_TOP_DARKNESS_Chek
+
+[910103]
+COUNT = 1
+1 = Model_change_Barcode4_Vision_TOP_DARKNESS_Chek
+
+[920000]
+COUNT = 1
+1 = Top_Left_Vision_Error_Label1
+
+[920001]
+COUNT = 1
+1 = Top_Right_Vision_Error_Label2
+
+[920100]
+COUNT = 1
+1 = Continuous_vision_error_Top_Left_Vision
+
+[920101]
+COUNT = 1
+1 = Continuous_vision_error_Top_Right_Vision
+
+[930000]
+COUNT = 1
+1 = Btm_Left_Vision_Error_Label1
+
+[930001]
+COUNT = 1
+1 = Btm_Right_Vision_Error_Label2
+
+[930100]
+COUNT = 1
+1 = Btm_Left_Vision_Error_Label1
+
+[930101]
+COUNT = 1
+1 = Btm_Right_Vision_Error_Label2
+
+[940001]
+COUNT = 1
+1 = Density Vision model change error
+
+[940002]
+COUNT = 1
+1 = Barcode Vision model change error
+
+[940003]
+COUNT = 1
+1 = Top Vision model change error
+
+[940004]
+COUNT = 1
+1 = Bottom Vision model change error
+
+[940005]
+COUNT = 1
+1 = Not Registered mdel.
+
+[940100]
+COUNT = 1
+1 = There is no Density Capacity model
+
+[950000]
+COUNT = 1
+1 = XGEM Remote stop or not response
+
+[960000]
+COUNT = 1
+1 = Input Left serial is not correct
+
+[960001]
+COUNT = 1
+1 = Input Right serial is not correct
+
+[960002]
+COUNT = 1
+1 = Input Left Accy Tray Code is not correct
+
+[960003]
+COUNT = 1
+1 = Input Right Accy Tray Code is not correct
+
+[960004]
+COUNT = 1
+1 = Input Left TK Code is not correct
+
+[960005]
+COUNT = 1
+1 = Input Right TK Code is not correct
+
+[990000]
+COUNT = 3
+1 = This alarm code is not defined and we cannot find it in this alarm code list.
+2 = Please get in touch with AMT engineers.
+3 = All right reserved.
+

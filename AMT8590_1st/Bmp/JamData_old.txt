@@ -1,0 +1,2676 @@
+
+///////////////////////////////////////////////////////
+//  00 : Sorting Robot X
+///////////////////////////////////////////////////////
+[000001]
+DEF = Lay-Out.bmp
+STYLE = CIRCLE; 430; 244; 30; 2; 255; 0; 0;
+
+[000002]
+DEF = Conveyor(In & Out).bmp
+STYLE = CIRCLE; 220; 305; 30; 2; 255; 0; 0;
+
+[000003]
+DEF = Lay-Out2.bmp
+STYLE = CIRCLE; 464; 337; 30; 2; 255; 0; 0;
+
+[000004]
+DEF = Lay-Out2.bmp
+STYLE = CIRCLE; 446; 338; 30; 2; 255; 0; 0;
+
+[000005]
+DEF = Lay-Out2.bmp
+STYLE = CIRCLE; 474; 332; 30; 2; 255; 0; 0;
+
+[000006]
+DEF = Lay-Out2.bmp
+STYLE = CIRCLE; 261; 337; 30; 2; 255; 0; 0;
+
+[000007]
+DEF = Lay-Out2.bmp
+STYLE = CIRCLE; 266; 335; 30; 2; 255; 0; 0;
+
+[000008]
+DEF = Lay-Out2.bmp
+STYLE = CIRCLE; 284; 335; 30; 2; 255; 0; 0;
+
+[000011]
+DEF = Lay-Out2.bmp
+STYLE = CIRCLE; 279; 331; 30; 2; 255; 0; 0;
+
+[000015]
+DEF = Lay-Out2.bmp
+STYLE = CIRCLE; 279; 331; 30; 2; 255; 0; 0;
+
+[010001]
+DEF = Lay-Out2.bmp
+STYLE = CIRCLE; 392; 409; 30; 2; 255; 0; 0;
+
+[010002]
+DEF = Lay-Out.bmp
+STYLE = CIRCLE; 421; 262; 30; 2; 255; 0; 0;
+
+[010003]
+DEF = Lay-Out.bmp
+STYLE = CIRCLE; 426; 260; 30; 2; 255; 0; 0;
+
+[010004]
+DEF = Lay-Out.bmp
+STYLE = CIRCLE; 426; 262; 30; 2; 255; 0; 0;
+
+[010005]
+DEF = Lay-Out.bmp
+STYLE = CIRCLE; 422; 265; 30; 2; 255; 0; 0;
+
+[010006]
+DEF = Lay-Out.bmp
+STYLE = CIRCLE; 423; 262; 30; 2; 255; 0; 0;
+
+[010007]
+DEF = Lay-Out.bmp
+STYLE = CIRCLE; 425; 262; 30; 2; 255; 0; 0;
+
+[010008]
+DEF = Lay-Out.bmp
+STYLE = CIRCLE; 423; 261; 30; 2; 255; 0; 0;
+
+[010011]
+DEF = Lay-Out.bmp
+STYLE = CIRCLE; 424; 263; 30; 2; 255; 0; 0;
+
+[010015]
+DEF = Lay-Out.bmp
+STYLE = CIRCLE; 424; 263; 30; 2; 255; 0; 0;
+
+[020001]
+DEF = Sorting Robot.bmp
+STYLE = CIRCLE; 369; 325; 30; 2; 255; 0; 0;
+
+[020002]
+DEF = Sorting Robot.bmp
+STYLE = CIRCLE; 372; 319; 30; 2; 255; 0; 0;
+
+[020003]
+DEF = Sorting Robot.bmp
+STYLE = CIRCLE; 372; 321; 30; 2; 255; 0; 0;
+
+[020004]
+DEF = Sorting Robot.bmp
+STYLE = CIRCLE; 369; 324; 30; 2; 255; 0; 0;
+
+[020005]
+DEF = Sorting Robot.bmp
+STYLE = CIRCLE; 370; 322; 30; 2; 255; 0; 0;
+
+[020006]
+DEF = Sorting Robot.bmp
+STYLE = CIRCLE; 370; 322; 30; 2; 255; 0; 0;
+
+[020007]
+DEF = Sorting Robot.bmp
+STYLE = CIRCLE; 367; 320; 30; 2; 255; 0; 0;
+
+[020008]
+DEF = Sorting Robot.bmp
+STYLE = CIRCLE; 369; 318; 30; 2; 255; 0; 0;
+
+[020011]
+DEF = Sorting Robot.bmp
+STYLE = CIRCLE; 367; 323; 30; 2; 255; 0; 0;
+
+[030001]
+DEF = Loading & UnLoading Buffer.bmp
+STYLE = CIRCLE; 358; 451; 30; 2; 255; 0; 0;
+
+[030002]
+DEF = LOADING&UNLOADING-2.BMP
+STYLE = CIRCLE; 158; 359; 30; 2; 255; 0; 0;
+
+[030003]
+DEF = LOADING&UNLOADING-2.BMP
+STYLE = CIRCLE; 170; 349; 30; 2; 255; 0; 0;
+
+[030004]
+DEF = LOADING&UNLOADING-2.BMP
+STYLE = CIRCLE; 174; 348; 30; 2; 255; 0; 0;
+
+[030005]
+DEF = LOADING&UNLOADING-2.BMP
+STYLE = CIRCLE; 169; 342; 30; 2; 255; 0; 0;
+
+[030006]
+DEF = LOADING&UNLOADING-2.BMP
+STYLE = CIRCLE; 175; 351; 30; 2; 255; 0; 0;
+
+[030007]
+DEF = LOADING&UNLOADING-2.BMP
+STYLE = CIRCLE; 174; 347; 30; 2; 255; 0; 0;
+
+[030008]
+DEF = LOADING&UNLOADING-2.BMP
+STYLE = CIRCLE; 169; 349; 30; 2; 255; 0; 0;
+
+[030011]
+DEF = LOADING&UNLOADING-2.BMP
+STYLE = CIRCLE; 174; 351; 30; 2; 255; 0; 0;
+
+[040001]
+DEF = LOADING&UNLOADING-2.BMP
+STYLE = CIRCLE; 168; 175; 30; 2; 255; 0; 0;
+
+[040002]
+DEF = LOADING&UNLOADING-2.BMP
+STYLE = CIRCLE; 172; 165; 30; 2; 255; 0; 0;
+
+[040003]
+DEF = LOADING&UNLOADING-2.BMP
+STYLE = CIRCLE; 180; 179; 30; 2; 255; 0; 0;
+
+[040004]
+DEF = LOADING&UNLOADING-2.BMP
+STYLE = CIRCLE; 173; 188; 30; 2; 255; 0; 0;
+
+[040005]
+DEF = LOADING&UNLOADING-2.BMP
+STYLE = CIRCLE; 170; 186; 30; 2; 255; 0; 0;
+
+[040006]
+DEF = LOADING&UNLOADING-2.BMP
+STYLE = CIRCLE; 173; 173; 30; 2; 255; 0; 0;
+
+[040007]
+DEF = LOADING&UNLOADING-2.BMP
+STYLE = CIRCLE; 179; 175; 30; 2; 255; 0; 0;
+
+[040008]
+DEF = LOADING&UNLOADING-2.BMP
+STYLE = CIRCLE; 178; 187; 30; 2; 255; 0; 0;
+
+[040011]
+DEF = LOADING&UNLOADING-2.BMP
+STYLE = CIRCLE; 172; 187; 30; 2; 255; 0; 0;
+
+[050001]
+DEF = BARCODE-2.BMP
+STYLE = CIRCLE; 261; 192; 30; 2; 255; 0; 0;
+
+[050002]
+DEF = BARCODE-2.BMP
+STYLE = CIRCLE; 254; 186; 30; 2; 255; 0; 0;
+
+[050003]
+DEF = BARCODE-2.BMP
+STYLE = CIRCLE; 260; 192; 30; 2; 255; 0; 0;
+
+[050004]
+DEF = BARCODE-2.BMP
+STYLE = CIRCLE; 266; 144; 30; 2; 255; 0; 0;
+
+[050005]
+DEF = BARCODE-2.BMP
+STYLE = CIRCLE; 244; 145; 30; 2; 255; 0; 0;
+
+[050006]
+DEF = BARCODE-2.BMP
+STYLE = CIRCLE; 263; 142; 30; 2; 255; 0; 0;
+
+[050007]
+DEF = BARCODE-2.BMP
+STYLE = CIRCLE; 252; 145; 30; 2; 255; 0; 0;
+
+[050008]
+DEF = BARCODE-2.BMP
+STYLE = CIRCLE; 263; 145; 30; 2; 255; 0; 0;
+
+[050011]
+DEF = BARCODE-2.BMP
+STYLE = CIRCLE; 252; 150; 30; 2; 255; 0; 0;
+
+[060001]
+DEF = Picker Robot.bmp
+STYLE = CIRCLE; 403; 309; 30; 2; 255; 0; 0;
+
+[060002]
+DEF = Picker Robot.bmp
+STYLE = CIRCLE; 419; 302; 30; 2; 255; 0; 0;
+
+[060003]
+DEF = Picker Robot.bmp
+STYLE = CIRCLE; 422; 302; 30; 2; 255; 0; 0;
+
+[060004]
+DEF = Picker Robot.bmp
+STYLE = CIRCLE; 417; 306; 30; 2; 255; 0; 0;
+
+[060005]
+DEF = Picker Robot.bmp
+STYLE = CIRCLE; 427; 298; 30; 2; 255; 0; 0;
+
+[060006]
+DEF = Picker Robot.bmp
+STYLE = CIRCLE; 423; 303; 30; 2; 255; 0; 0;
+
+[060007]
+DEF = Picker Robot.bmp
+STYLE = CIRCLE; 423; 303; 30; 2; 255; 0; 0;
+
+[060008]
+DEF = Picker Robot.bmp
+STYLE = CIRCLE; 429; 300; 30; 2; 255; 0; 0;
+
+[060011]
+DEF = Picker Robot.bmp
+STYLE = CIRCLE; 421; 301; 30; 2; 255; 0; 0;
+
+[060015]
+DEF = no-image
+STYLE = NONE; 0; 0; 30; 2; 255; 0; 0;
+
+[070001]
+DEF = Picker Robot.bmp
+STYLE = CIRCLE; 250; 354; 30; 2; 255; 0; 0;
+
+[070002]
+DEF = Picker Robot.bmp
+STYLE = CIRCLE; 248; 347; 30; 2; 255; 0; 0;
+
+[070003]
+DEF = Picker Robot.bmp
+STYLE = CIRCLE; 250; 330; 30; 2; 255; 0; 0;
+
+[070004]
+DEF = Picker Robot.bmp
+STYLE = CIRCLE; 250; 327; 30; 2; 255; 0; 0;
+
+[070005]
+DEF = Picker Robot.bmp
+STYLE = CIRCLE; 251; 327; 30; 2; 255; 0; 0;
+
+[070006]
+DEF = Picker Robot.bmp
+STYLE = CIRCLE; 253; 326; 30; 2; 255; 0; 0;
+
+[070007]
+DEF = Picker Robot.bmp
+STYLE = CIRCLE; 251; 330; 30; 2; 255; 0; 0;
+
+[070008]
+DEF = Picker Robot.bmp
+STYLE = CIRCLE; 250; 328; 30; 2; 255; 0; 0;
+
+[070011]
+DEF = Picker Robot.bmp
+STYLE = CIRCLE; 252; 325; 30; 2; 255; 0; 0;
+
+[070015]
+DEF = no-image
+STYLE = NONE; 0; 0; 30; 2; 255; 0; 0;
+
+[080001]
+DEF = LOADING&UNLOADING-2.BMP
+STYLE = CIRCLE; 676; 350; 30; 2; 255; 0; 0;
+
+[080002]
+DEF = LOADING&UNLOADING-2.BMP
+STYLE = CIRCLE; 673; 348; 30; 2; 255; 0; 0;
+
+[080003]
+DEF = LOADING&UNLOADING-2.BMP
+STYLE = CIRCLE; 676; 344; 30; 2; 255; 0; 0;
+
+[080004]
+DEF = LOADING&UNLOADING-2.BMP
+STYLE = CIRCLE; 689; 343; 30; 2; 255; 0; 0;
+
+[080005]
+DEF = LOADING&UNLOADING-2.BMP
+STYLE = CIRCLE; 676; 338; 30; 2; 255; 0; 0;
+
+[080006]
+DEF = LOADING&UNLOADING-2.BMP
+STYLE = CIRCLE; 676; 345; 30; 2; 255; 0; 0;
+
+[080007]
+DEF = LOADING&UNLOADING-2.BMP
+STYLE = CIRCLE; 677; 339; 30; 2; 255; 0; 0;
+
+[080008]
+DEF = LOADING&UNLOADING-2.BMP
+STYLE = CIRCLE; 677; 343; 30; 2; 255; 0; 0;
+
+[080011]
+DEF = LOADING&UNLOADING-2.BMP
+STYLE = CIRCLE; 677; 349; 30; 2; 255; 0; 0;
+
+[090001]
+DEF = LOADING&UNLOADING-2.BMP
+STYLE = CIRCLE; 689; 192; 30; 2; 255; 0; 0;
+
+[090002]
+DEF = LOADING&UNLOADING-2.BMP
+STYLE = CIRCLE; 683; 208; 30; 2; 255; 0; 0;
+
+[090003]
+DEF = LOADING&UNLOADING-2.BMP
+STYLE = CIRCLE; 685; 201; 30; 2; 255; 0; 0;
+
+[090004]
+DEF = LOADING&UNLOADING-2.BMP
+STYLE = CIRCLE; 687; 213; 30; 2; 255; 0; 0;
+
+[090005]
+DEF = LOADING&UNLOADING-2.BMP
+STYLE = CIRCLE; 683; 193; 30; 2; 255; 0; 0;
+
+[090006]
+DEF = LOADING&UNLOADING-2.BMP
+STYLE = CIRCLE; 684; 195; 30; 2; 255; 0; 0;
+
+[090007]
+DEF = LOADING&UNLOADING-2.BMP
+STYLE = CIRCLE; 678; 200; 30; 2; 255; 0; 0;
+
+[090008]
+DEF = LOADING&UNLOADING-2.BMP
+STYLE = CIRCLE; 682; 193; 30; 2; 255; 0; 0;
+
+[090011]
+DEF = LOADING&UNLOADING-2.BMP
+STYLE = CIRCLE; 682; 194; 30; 2; 255; 0; 0;
+
+[090100]
+DEF = LOADING&UNLOADING-2.BMP
+STYLE = CIRCLE; 680; 201; 30; 2; 255; 0; 0;
+
+[100001]
+DEF = BARCODE-Z.bmp
+STYLE = CIRCLE; 390; 207; 30; 2; 255; 0; 0;
+
+[100002]
+DEF = BARCODE-Z.bmp
+STYLE = CIRCLE; 375; 185; 30; 2; 255; 0; 0;
+
+[100003]
+DEF = BARCODE-Z.bmp
+STYLE = CIRCLE; 388; 183; 30; 2; 255; 0; 0;
+
+[100004]
+DEF = BARCODE-Z.bmp
+STYLE = CIRCLE; 380; 175; 30; 2; 255; 0; 0;
+
+[100005]
+DEF = BARCODE-Z.bmp
+STYLE = CIRCLE; 384; 169; 30; 2; 255; 0; 0;
+
+[100006]
+DEF = BARCODE-Z.bmp
+STYLE = CIRCLE; 371; 195; 30; 2; 255; 0; 0;
+
+[100007]
+DEF = BARCODE-Z.bmp
+STYLE = CIRCLE; 375; 187; 30; 2; 255; 0; 0;
+
+[100008]
+DEF = BARCODE-Z.bmp
+STYLE = CIRCLE; 374; 190; 30; 2; 255; 0; 0;
+
+[100011]
+DEF = BARCODE-Z.bmp
+STYLE = CIRCLE; 383; 180; 30; 2; 255; 0; 0;
+
+[200000]
+DEF = Conveyor(In & Out).bmp
+STYLE = CIRCLE; 524; 401; 30; 2; 255; 0; 0;
+
+[200001]
+DEF = Conveyor(In & Out).bmp
+STYLE = CIRCLE; 528; 402; 30; 2; 255; 0; 0;
+
+[200010]
+DEF = Conveyor(In & Out).bmp
+STYLE = CIRCLE; 533; 358; 30; 2; 255; 0; 0;
+
+[200011]
+DEF = Conveyor(In & Out).bmp
+STYLE = CIRCLE; 529; 359; 30; 2; 255; 0; 0;
+
+[200060]
+DEF = Conveyor(In & Out).bmp
+STYLE = CIRCLE; 121; 380; 30; 2; 255; 0; 0;
+
+[200061]
+DEF = Conveyor(In & Out).bmp
+STYLE = CIRCLE; 123; 380; 30; 2; 255; 0; 0;
+
+[200070]
+DEF = Conveyor(In & Out).bmp
+STYLE = CIRCLE; 142; 379; 30; 2; 255; 0; 0;
+
+[200071]
+DEF = Conveyor(In & Out).bmp
+STYLE = CIRCLE; 141; 378; 30; 2; 255; 0; 0;
+
+[200080]
+DEF = Conveyor(In & Out).bmp
+STYLE = CIRCLE; 161; 381; 30; 2; 255; 0; 0;
+
+[200081]
+DEF = Conveyor(In & Out).bmp
+STYLE = CIRCLE; 161; 380; 30; 2; 255; 0; 0;
+
+[200090]
+DEF = Conveyor(In & Out).bmp
+STYLE = CIRCLE; 183; 380; 30; 2; 255; 0; 0;
+
+[200091]
+DEF = Conveyor(In & Out).bmp
+STYLE = CIRCLE; 183; 379; 30; 2; 255; 0; 0;
+
+[200140]
+DEF = Conveyor(In & Out).bmp
+STYLE = CIRCLE; 523; 401; 30; 2; 255; 0; 0;
+
+[200141]
+DEF = Conveyor(In & Out).bmp
+STYLE = CIRCLE; 523; 400; 30; 2; 255; 0; 0;
+
+[200150]
+DEF = Conveyor(In & Out).bmp
+STYLE = CIRCLE; 525; 362; 30; 2; 255; 0; 0;
+
+[200151]
+DEF = Conveyor(In & Out).bmp
+STYLE = CIRCLE; 523; 360; 30; 2; 255; 0; 0;
+
+[201000]
+DEF = Sorting Robot.bmp
+STYLE = CIRCLE; 289; 523; 30; 2; 255; 0; 0;
+
+[201001]
+DEF = Sorting Robot.bmp
+STYLE = CIRCLE; 290; 519; 30; 2; 255; 0; 0;
+
+[201010]
+DEF = Sorting Robot.bmp
+STYLE = CIRCLE; 359; 490; 30; 2; 255; 0; 0;
+
+[201011]
+DEF = Sorting Robot.bmp
+STYLE = CIRCLE; 358; 493; 30; 2; 255; 0; 0;
+
+[201020]
+DEF = Sorting Robot.bmp
+STYLE = CIRCLE; 425; 460; 30; 2; 255; 0; 0;
+
+[201021]
+DEF = Sorting Robot.bmp
+STYLE = CIRCLE; 427; 455; 30; 2; 255; 0; 0;
+
+[201030]
+DEF = Sorting Robot.bmp
+STYLE = CIRCLE; 493; 426; 30; 2; 255; 0; 0;
+
+[201031]
+DEF = Sorting Robot.bmp
+STYLE = CIRCLE; 497; 426; 30; 2; 255; 0; 0;
+
+[201040]
+DEF = Sorting Robot.bmp
+STYLE = CIRCLE; 287; 525; 30; 2; 255; 0; 0;
+
+[201041]
+DEF = Sorting Robot.bmp
+STYLE = CIRCLE; 291; 521; 30; 2; 255; 0; 0;
+
+[201050]
+DEF = Sorting Robot.bmp
+STYLE = CIRCLE; 359; 490; 30; 2; 255; 0; 0;
+
+[201051]
+DEF = Sorting Robot.bmp
+STYLE = CIRCLE; 358; 488; 30; 2; 255; 0; 0;
+
+[201060]
+DEF = Sorting Robot.bmp
+STYLE = CIRCLE; 428; 460; 30; 2; 255; 0; 0;
+
+[201061]
+DEF = Sorting Robot.bmp
+STYLE = CIRCLE; 428; 460; 30; 2; 255; 0; 0;
+
+[201070]
+DEF = Sorting Robot.bmp
+STYLE = CIRCLE; 495; 427; 30; 2; 255; 0; 0;
+
+[201071]
+DEF = Sorting Robot.bmp
+STYLE = CIRCLE; 501; 426; 30; 2; 255; 0; 0;
+
+[201090]
+DEF = Sorting Robot.bmp
+STYLE = CIRCLE; 289; 518; 30; 2; 255; 0; 0;
+
+[201091]
+DEF = Sorting Robot.bmp
+STYLE = CIRCLE; 287; 518; 30; 2; 255; 0; 0;
+
+[201100]
+DEF = Sorting Robot.bmp
+STYLE = CIRCLE; 359; 487; 30; 2; 255; 0; 0;
+
+[201101]
+DEF = Sorting Robot.bmp
+STYLE = CIRCLE; 357; 486; 30; 2; 255; 0; 0;
+
+[201110]
+DEF = Sorting Robot.bmp
+STYLE = CIRCLE; 429; 457; 30; 2; 255; 0; 0;
+
+[201111]
+DEF = Sorting Robot.bmp
+STYLE = CIRCLE; 428; 459; 30; 2; 255; 0; 0;
+
+[201120]
+DEF = Sorting Robot.bmp
+STYLE = CIRCLE; 495; 426; 30; 2; 255; 0; 0;
+
+[201121]
+DEF = Sorting Robot.bmp
+STYLE = CIRCLE; 495; 426; 30; 2; 255; 0; 0;
+
+[202000]
+DEF = Sorting Robot.bmp
+STYLE = CIRCLE; 300; 442; 30; 2; 255; 0; 0;
+
+[202001]
+DEF = Sorting Robot.bmp
+STYLE = CIRCLE; 297; 433; 30; 2; 255; 0; 0;
+
+[202010]
+DEF = Sorting Robot.bmp
+STYLE = CIRCLE; 365; 405; 30; 2; 255; 0; 0;
+
+[202011]
+DEF = Sorting Robot.bmp
+STYLE = CIRCLE; 366; 404; 30; 2; 255; 0; 0;
+
+[202020]
+DEF = Sorting Robot.bmp
+STYLE = CIRCLE; 436; 372; 30; 2; 255; 0; 0;
+
+[202021]
+DEF = Sorting Robot.bmp
+STYLE = CIRCLE; 436; 375; 30; 2; 255; 0; 0;
+
+[202030]
+DEF = Sorting Robot.bmp
+STYLE = CIRCLE; 502; 340; 30; 2; 255; 0; 0;
+
+[202031]
+DEF = Sorting Robot.bmp
+STYLE = CIRCLE; 504; 342; 30; 2; 255; 0; 0;
+
+[202060]
+DEF = Sorting Robot.bmp
+STYLE = CIRCLE; 300; 433; 30; 2; 255; 0; 0;
+
+[202061]
+DEF = Sorting Robot.bmp
+STYLE = CIRCLE; 296; 433; 30; 2; 255; 0; 0;
+
+[202070]
+DEF = Sorting Robot.bmp
+STYLE = CIRCLE; 295; 430; 30; 2; 255; 0; 0;
+
+[202071]
+DEF = Sorting Robot.bmp
+STYLE = CIRCLE; 294; 438; 30; 2; 255; 0; 0;
+
+[202080]
+DEF = Sorting Robot.bmp
+STYLE = CIRCLE; 363; 405; 30; 2; 255; 0; 0;
+
+[202081]
+DEF = Sorting Robot.bmp
+STYLE = CIRCLE; 365; 404; 30; 2; 255; 0; 0;
+
+[202090]
+DEF = Sorting Robot.bmp
+STYLE = CIRCLE; 366; 408; 30; 2; 255; 0; 0;
+
+[202091]
+DEF = Sorting Robot.bmp
+STYLE = CIRCLE; 367; 404; 30; 2; 255; 0; 0;
+
+[202100]
+DEF = Sorting Robot.bmp
+STYLE = CIRCLE; 437; 380; 30; 2; 255; 0; 0;
+
+[202101]
+DEF = Sorting Robot.bmp
+STYLE = CIRCLE; 438; 374; 30; 2; 255; 0; 0;
+
+[202110]
+DEF = Sorting Robot.bmp
+STYLE = CIRCLE; 435; 378; 30; 2; 255; 0; 0;
+
+[202111]
+DEF = Sorting Robot.bmp
+STYLE = CIRCLE; 438; 380; 30; 2; 255; 0; 0;
+
+[202120]
+DEF = Sorting Robot.bmp
+STYLE = CIRCLE; 505; 348; 30; 2; 255; 0; 0;
+
+[202121]
+DEF = Sorting Robot.bmp
+STYLE = CIRCLE; 502; 346; 30; 2; 255; 0; 0;
+
+[202130]
+DEF = Sorting Robot.bmp
+STYLE = CIRCLE; 503; 347; 30; 2; 255; 0; 0;
+
+[202131]
+DEF = Sorting Robot.bmp
+STYLE = CIRCLE; 503; 348; 30; 2; 255; 0; 0;
+
+[203000]
+DEF = Loading & UnLoading Buffer.bmp
+STYLE = CIRCLE; 210; 455; 30; 2; 255; 0; 0;
+
+[203001]
+DEF = Loading & UnLoading Buffer.bmp
+STYLE = CIRCLE; 209; 452; 30; 2; 255; 0; 0;
+
+[203010]
+DEF = Loading & UnLoading Buffer.bmp
+STYLE = CIRCLE; 228; 471; 30; 2; 255; 0; 0;
+
+[203011]
+DEF = Loading & UnLoading Buffer.bmp
+STYLE = CIRCLE; 230; 471; 30; 2; 255; 0; 0;
+
+[203020]
+DEF = Loading & UnLoading Buffer.bmp
+STYLE = CIRCLE; 262; 487; 30; 2; 255; 0; 0;
+
+[203021]
+DEF = Loading & UnLoading Buffer.bmp
+STYLE = CIRCLE; 262; 489; 30; 2; 255; 0; 0;
+
+[203030]
+DEF = Loading & UnLoading Buffer.bmp
+STYLE = CIRCLE; 288; 503; 30; 2; 255; 0; 0;
+
+[203031]
+DEF = Loading & UnLoading Buffer.bmp
+STYLE = CIRCLE; 288; 504; 30; 2; 255; 0; 0;
+
+[203040]
+DEF = Loading & UnLoading Buffer.bmp
+STYLE = CIRCLE; 204; 458; 30; 2; 255; 0; 0;
+
+[203041]
+DEF = Loading & UnLoading Buffer.bmp
+STYLE = CIRCLE; 207; 457; 30; 2; 255; 0; 0;
+
+[203050]
+DEF = Loading & UnLoading Buffer.bmp
+STYLE = CIRCLE; 229; 473; 30; 2; 255; 0; 0;
+
+[203051]
+DEF = Loading & UnLoading Buffer.bmp
+STYLE = CIRCLE; 232; 472; 30; 2; 255; 0; 0;
+
+[203060]
+DEF = Loading & UnLoading Buffer.bmp
+STYLE = CIRCLE; 264; 490; 30; 2; 255; 0; 0;
+
+[203061]
+DEF = Loading & UnLoading Buffer.bmp
+STYLE = CIRCLE; 263; 488; 30; 2; 255; 0; 0;
+
+[203070]
+DEF = Loading & UnLoading Buffer.bmp
+STYLE = CIRCLE; 288; 504; 30; 2; 255; 0; 0;
+
+[203071]
+DEF = Loading & UnLoading Buffer.bmp
+STYLE = CIRCLE; 288; 504; 30; 2; 255; 0; 0;
+
+[203080]
+DEF = Loading & UnLoading Buffer.bmp
+STYLE = CIRCLE; 294; 417; 30; 2; 255; 0; 0;
+
+[203081]
+DEF = Loading & UnLoading Buffer.bmp
+STYLE = CIRCLE; 274; 395; 30; 2; 255; 0; 0;
+
+[203090]
+DEF = Loading & UnLoading Buffer.bmp
+STYLE = CIRCLE; 301; 393; 30; 2; 255; 0; 0;
+
+[203091]
+DEF = Loading & UnLoading Buffer.bmp
+STYLE = CIRCLE; 290; 392; 30; 2; 255; 0; 0;
+
+[204000]
+DEF = PICKER-3.BMP
+STYLE = CIRCLE; 198; 160; 30; 2; 255; 0; 0;
+
+[204001]
+DEF = PICKER-3.BMP
+STYLE = CIRCLE; 203; 150; 30; 2; 255; 0; 0;
+
+[204010]
+DEF = PICKER-3.BMP
+STYLE = CIRCLE; 414; 148; 30; 2; 255; 0; 0;
+
+[204011]
+DEF = PICKER-3.BMP
+STYLE = CIRCLE; 406; 153; 30; 2; 255; 0; 0;
+
+[204020]
+DEF = PICKER-3.BMP
+STYLE = CIRCLE; 618; 163; 30; 2; 255; 0; 0;
+
+[204021]
+DEF = PICKER-3.BMP
+STYLE = CIRCLE; 628; 164; 30; 2; 255; 0; 0;
+
+[204030]
+DEF = PICKER-3.BMP
+STYLE = CIRCLE; 825; 170; 30; 2; 255; 0; 0;
+
+[204031]
+DEF = PICKER-3.BMP
+STYLE = CIRCLE; 836; 166; 30; 2; 255; 0; 0;
+
+[204040]
+DEF = PICKER.BMP
+STYLE = CIRCLE; 532; 89; 30; 2; 255; 0; 0;
+
+[204041]
+DEF = PICKER.BMP
+STYLE = CIRCLE; 531; 102; 30; 2; 255; 0; 0;
+
+[204050]
+DEF = PICKER.BMP
+STYLE = CIRCLE; 513; 163; 30; 2; 255; 0; 0;
+
+[204051]
+DEF = PICKER.BMP
+STYLE = CIRCLE; 516; 173; 30; 2; 255; 0; 0;
+
+[204060]
+DEF = PICKER.BMP
+STYLE = CIRCLE; 502; 252; 30; 2; 255; 0; 0;
+
+[204061]
+DEF = PICKER.BMP
+STYLE = CIRCLE; 502; 239; 30; 2; 255; 0; 0;
+
+[204070]
+DEF = PICKER.BMP
+STYLE = CIRCLE; 481; 321; 30; 2; 255; 0; 0;
+
+[204071]
+DEF = PICKER.BMP
+STYLE = CIRCLE; 472; 320; 30; 2; 255; 0; 0;
+
+[204080]
+DEF = PICKER.BMP
+STYLE = CIRCLE; 137; 79; 30; 2; 255; 0; 0;
+
+[204081]
+DEF = PICKER.BMP
+STYLE = CIRCLE; 126; 81; 30; 2; 255; 0; 0;
+
+[204090]
+DEF = PICKER.BMP
+STYLE = CIRCLE; 139; 82; 30; 2; 255; 0; 0;
+
+[204091]
+DEF = PICKER.BMP
+STYLE = CIRCLE; 150; 89; 30; 2; 255; 0; 0;
+
+[204100]
+DEF = Picker Robot.bmp
+STYLE = CIRCLE; 62; 425; 30; 2; 255; 0; 0;
+
+[204101]
+DEF = Picker Robot.bmp
+STYLE = CIRCLE; 62; 422; 30; 2; 255; 0; 0;
+
+[204110]
+DEF = Picker Robot.bmp
+STYLE = CIRCLE; 83; 410; 30; 2; 255; 0; 0;
+
+[204111]
+DEF = Picker Robot.bmp
+STYLE = CIRCLE; 82; 411; 30; 2; 255; 0; 0;
+
+[204120]
+DEF = Picker Robot.bmp
+STYLE = CIRCLE; 107; 396; 30; 2; 255; 0; 0;
+
+[204121]
+DEF = Picker Robot.bmp
+STYLE = CIRCLE; 108; 396; 30; 2; 255; 0; 0;
+
+[204130]
+DEF = Picker Robot.bmp
+STYLE = CIRCLE; 133; 383; 30; 2; 255; 0; 0;
+
+[204131]
+DEF = Picker Robot.bmp
+STYLE = CIRCLE; 133; 382; 30; 2; 255; 0; 0;
+
+[204140]
+DEF = PICKER.BMP
+STYLE = CIRCLE; 138; 80; 30; 2; 255; 0; 0;
+
+[204141]
+DEF = PICKER.BMP
+STYLE = CIRCLE; 123; 78; 30; 2; 255; 0; 0;
+
+[204150]
+DEF = PICKER.BMP
+STYLE = CIRCLE; 155; 76; 30; 2; 255; 0; 0;
+
+[204151]
+DEF = PICKER.BMP
+STYLE = CIRCLE; 143; 90; 30; 2; 255; 0; 0;
+
+[205000]
+DEF = Test-Site.bmp
+STYLE = CIRCLE; 255; 212; 30; 2; 255; 0; 0;
+
+[205001]
+DEF = Test-Site.bmp
+STYLE = CIRCLE; 251; 210; 30; 2; 255; 0; 0;
+
+[205010]
+DEF = Test-Site.bmp
+STYLE = CIRCLE; 251; 212; 30; 2; 255; 0; 0;
+
+[205011]
+DEF = Test-Site.bmp
+STYLE = CIRCLE; 254; 212; 30; 2; 255; 0; 0;
+
+[205020]
+DEF = Test-Site.bmp
+STYLE = CIRCLE; 300; 363; 30; 2; 255; 0; 0;
+
+[205021]
+DEF = Test-Site.bmp
+STYLE = CIRCLE; 299; 357; 30; 2; 255; 0; 0;
+
+[205030]
+DEF = Test-Site.bmp
+STYLE = CIRCLE; 300; 356; 30; 2; 255; 0; 0;
+
+[205031]
+DEF = Test-Site.bmp
+STYLE = CIRCLE; 299; 359; 30; 2; 255; 0; 0;
+
+[205040]
+DEF = Test-Site.bmp
+STYLE = CIRCLE; 298; 316; 30; 2; 255; 0; 0;
+
+[205041]
+DEF = Test-Site.bmp
+STYLE = CIRCLE; 297; 314; 30; 2; 255; 0; 0;
+
+[205050]
+DEF = Test-Site.bmp
+STYLE = CIRCLE; 297; 313; 30; 2; 255; 0; 0;
+
+[205051]
+DEF = Test-Site.bmp
+STYLE = CIRCLE; 296; 313; 30; 2; 255; 0; 0;
+
+[205060]
+DEF = Test-Site.bmp
+STYLE = CIRCLE; 295; 276; 30; 2; 255; 0; 0;
+
+[205061]
+DEF = Test-Site.bmp
+STYLE = CIRCLE; 297; 277; 30; 2; 255; 0; 0;
+
+[205070]
+DEF = Test-Site.bmp
+STYLE = CIRCLE; 297; 271; 30; 2; 255; 0; 0;
+
+[205071]
+DEF = Test-Site.bmp
+STYLE = CIRCLE; 296; 273; 30; 2; 255; 0; 0;
+
+[205080]
+DEF = Test-Site.bmp
+STYLE = CIRCLE; 294; 233; 30; 2; 255; 0; 0;
+
+[205081]
+DEF = Test-Site.bmp
+STYLE = CIRCLE; 294; 232; 30; 2; 255; 0; 0;
+
+[205090]
+DEF = Test-Site.bmp
+STYLE = CIRCLE; 295; 233; 30; 2; 255; 0; 0;
+
+[205091]
+DEF = Test-Site.bmp
+STYLE = CIRCLE; 295; 233; 30; 2; 255; 0; 0;
+
+[205100]
+DEF = Test-Site.bmp
+STYLE = CIRCLE; 294; 193; 30; 2; 255; 0; 0;
+
+[205101]
+DEF = Test-Site.bmp
+STYLE = CIRCLE; 294; 194; 30; 2; 255; 0; 0;
+
+[205110]
+DEF = Test-Site.bmp
+STYLE = CIRCLE; 293; 196; 30; 2; 255; 0; 0;
+
+[205111]
+DEF = Test-Site.bmp
+STYLE = CIRCLE; 293; 193; 30; 2; 255; 0; 0;
+
+[205120]
+DEF = Test-Site.bmp
+STYLE = CIRCLE; 331; 354; 30; 2; 255; 0; 0;
+
+[205121]
+DEF = Test-Site.bmp
+STYLE = CIRCLE; 334; 349; 30; 2; 255; 0; 0;
+
+[205130]
+DEF = Test-Site.bmp
+STYLE = CIRCLE; 332; 337; 30; 2; 255; 0; 0;
+
+[205131]
+DEF = Test-Site.bmp
+STYLE = CIRCLE; 332; 335; 30; 2; 255; 0; 0;
+
+[205140]
+DEF = Test-Site.bmp
+STYLE = CIRCLE; 331; 294; 30; 2; 255; 0; 0;
+
+[205141]
+DEF = Test-Site.bmp
+STYLE = CIRCLE; 334; 295; 30; 2; 255; 0; 0;
+
+[205150]
+DEF = Test-Site.bmp
+STYLE = CIRCLE; 336; 253; 30; 2; 255; 0; 0;
+
+[205151]
+DEF = Test-Site.bmp
+STYLE = CIRCLE; 335; 253; 30; 2; 255; 0; 0;
+
+[206000]
+DEF = Test-Site.bmp
+STYLE = CIRCLE; 329; 196; 30; 2; 255; 0; 0;
+
+[206001]
+DEF = Test-Site.bmp
+STYLE = CIRCLE; 328; 185; 30; 2; 255; 0; 0;
+
+[206010]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 284; 543; 30; 2; 255; 0; 0;
+
+[206011]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 298; 555; 30; 2; 255; 0; 0;
+
+[206020]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 410; 556; 30; 2; 255; 0; 0;
+
+[206021]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 422; 553; 30; 2; 255; 0; 0;
+
+[206030]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 556; 554; 30; 2; 255; 0; 0;
+
+[206031]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 541; 554; 30; 2; 255; 0; 0;
+
+[206040]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 657; 558; 30; 2; 255; 0; 0;
+
+[206041]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 668; 556; 30; 2; 255; 0; 0;
+
+[206050]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 784; 558; 30; 2; 255; 0; 0;
+
+[206051]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 785; 550; 30; 2; 255; 0; 0;
+
+[206060]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 921; 550; 30; 2; 255; 0; 0;
+
+[206061]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 922; 540; 30; 2; 255; 0; 0;
+
+[206070]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 264; 471; 30; 2; 255; 0; 0;
+
+[206071]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 391; 470; 30; 2; 255; 0; 0;
+
+[206080]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 396; 467; 30; 2; 255; 0; 0;
+
+[206081]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 395; 472; 30; 2; 255; 0; 0;
+
+[206090]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 518; 458; 30; 2; 255; 0; 0;
+
+[206091]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 511; 472; 30; 2; 255; 0; 0;
+
+[206100]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 641; 469; 30; 2; 255; 0; 0;
+
+[206101]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 647; 469; 30; 2; 255; 0; 0;
+
+[206110]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 770; 456; 30; 2; 255; 0; 0;
+
+[206111]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 772; 468; 30; 2; 255; 0; 0;
+
+[206120]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 897; 466; 30; 2; 255; 0; 0;
+
+[206121]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 903; 468; 30; 2; 255; 0; 0;
+
+[206130]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 240; 376; 30; 2; 255; 0; 0;
+
+[206131]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 243; 381; 30; 2; 255; 0; 0;
+
+[206140]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 372; 382; 30; 2; 255; 0; 0;
+
+[206141]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 379; 384; 30; 2; 255; 0; 0;
+
+[206150]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 497; 386; 30; 2; 255; 0; 0;
+
+[206151]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 496; 374; 30; 2; 255; 0; 0;
+
+[207000]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 631; 383; 30; 2; 255; 0; 0;
+
+[207001]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 633; 383; 30; 2; 255; 0; 0;
+
+[207010]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 758; 377; 30; 2; 255; 0; 0;
+
+[207011]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 747; 383; 30; 2; 255; 0; 0;
+
+[207020]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 875; 385; 30; 2; 255; 0; 0;
+
+[207021]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 873; 377; 30; 2; 255; 0; 0;
+
+[207030]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 222; 305; 30; 2; 255; 0; 0;
+
+[207031]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 236; 295; 30; 2; 255; 0; 0;
+
+[207040]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 343; 301; 30; 2; 255; 0; 0;
+
+[207041]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 355; 305; 30; 2; 255; 0; 0;
+
+[207050]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 473; 296; 30; 2; 255; 0; 0;
+
+[207051]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 478; 291; 30; 2; 255; 0; 0;
+
+[207060]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 622; 299; 30; 2; 255; 0; 0;
+
+[207061]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 608; 299; 30; 2; 255; 0; 0;
+
+[207070]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 733; 296; 30; 2; 255; 0; 0;
+
+[207071]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 719; 301; 30; 2; 255; 0; 0;
+
+[207080]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 856; 301; 30; 2; 255; 0; 0;
+
+[207081]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 855; 297; 30; 2; 255; 0; 0;
+
+[207090]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 215; 219; 30; 2; 255; 0; 0;
+
+[207091]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 219; 218; 30; 2; 255; 0; 0;
+
+[207100]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 340; 221; 30; 2; 255; 0; 0;
+
+[207101]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 334; 213; 30; 2; 255; 0; 0;
+
+[207110]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 461; 218; 30; 2; 255; 0; 0;
+
+[207111]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 452; 213; 30; 2; 255; 0; 0;
+
+[207120]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 585; 209; 30; 2; 255; 0; 0;
+
+[207121]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 586; 208; 30; 2; 255; 0; 0;
+
+[207130]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 701; 219; 30; 2; 255; 0; 0;
+
+[207131]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 701; 217; 30; 2; 255; 0; 0;
+
+[207140]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 832; 212; 30; 2; 255; 0; 0;
+
+[207141]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 829; 221; 30; 2; 255; 0; 0;
+
+[210000]
+DEF = Test-Site.bmp
+STYLE = CIRCLE; 258; 364; 30; 2; 255; 0; 0;
+
+[210001]
+DEF = Test-Site.bmp
+STYLE = CIRCLE; 259; 372; 30; 2; 255; 0; 0;
+
+[210010]
+DEF = Test-Site.bmp
+STYLE = CIRCLE; 252; 372; 30; 2; 255; 0; 0;
+
+[210011]
+DEF = Test-Site.bmp
+STYLE = CIRCLE; 251; 368; 30; 2; 255; 0; 0;
+
+[210020]
+DEF = Test-Site.bmp
+STYLE = CIRCLE; 613; 241; 30; 2; 255; 0; 0;
+
+[210021]
+DEF = Test-Site.bmp
+STYLE = CIRCLE; 603; 241; 30; 2; 255; 0; 0;
+
+[210030]
+DEF = Test-Site.bmp
+STYLE = CIRCLE; 608; 243; 30; 2; 255; 0; 0;
+
+[210031]
+DEF = Test-Site.bmp
+STYLE = CIRCLE; 608; 243; 30; 2; 255; 0; 0;
+
+[210040]
+DEF = Test-Site.bmp
+STYLE = CIRCLE; 302; 361; 30; 2; 255; 0; 0;
+
+[210041]
+DEF = Test-Site.bmp
+STYLE = CIRCLE; 299; 360; 30; 2; 255; 0; 0;
+
+[210050]
+DEF = Test-Site.bmp
+STYLE = CIRCLE; 300; 359; 30; 2; 255; 0; 0;
+
+[210051]
+DEF = Test-Site.bmp
+STYLE = CIRCLE; 298; 358; 30; 2; 255; 0; 0;
+
+[210060]
+DEF = Test-Site.bmp
+STYLE = CIRCLE; 299; 317; 30; 2; 255; 0; 0;
+
+[210061]
+DEF = Test-Site.bmp
+STYLE = CIRCLE; 297; 315; 30; 2; 255; 0; 0;
+
+[210070]
+DEF = Test-Site.bmp
+STYLE = CIRCLE; 298; 317; 30; 2; 255; 0; 0;
+
+[210071]
+DEF = Test-Site.bmp
+STYLE = CIRCLE; 298; 315; 30; 2; 255; 0; 0;
+
+[210080]
+DEF = Test-Site.bmp
+STYLE = CIRCLE; 299; 274; 30; 2; 255; 0; 0;
+
+[210081]
+DEF = Test-Site.bmp
+STYLE = CIRCLE; 298; 274; 30; 2; 255; 0; 0;
+
+[210090]
+DEF = Test-Site.bmp
+STYLE = CIRCLE; 298; 274; 30; 2; 255; 0; 0;
+
+[210091]
+DEF = Test-Site.bmp
+STYLE = CIRCLE; 296; 273; 30; 2; 255; 0; 0;
+
+[210100]
+DEF = Test-Site.bmp
+STYLE = CIRCLE; 296; 232; 30; 2; 255; 0; 0;
+
+[210101]
+DEF = Test-Site.bmp
+STYLE = CIRCLE; 295; 233; 30; 2; 255; 0; 0;
+
+[210110]
+DEF = Test-Site.bmp
+STYLE = CIRCLE; 296; 233; 30; 2; 255; 0; 0;
+
+[210111]
+DEF = Test-Site.bmp
+STYLE = CIRCLE; 297; 234; 30; 2; 255; 0; 0;
+
+[210120]
+DEF = Test-Site.bmp
+STYLE = CIRCLE; 296; 193; 30; 2; 255; 0; 0;
+
+[210121]
+DEF = Test-Site.bmp
+STYLE = CIRCLE; 296; 192; 30; 2; 255; 0; 0;
+
+[210130]
+DEF = Test-Site.bmp
+STYLE = CIRCLE; 296; 195; 30; 2; 255; 0; 0;
+
+[210131]
+DEF = Test-Site.bmp
+STYLE = CIRCLE; 297; 193; 30; 2; 255; 0; 0;
+
+[210140]
+DEF = Test-Site.bmp
+STYLE = CIRCLE; 223; 514; 30; 2; 255; 0; 0;
+
+[210141]
+DEF = Test-Site.bmp
+STYLE = CIRCLE; 221; 511; 30; 2; 255; 0; 0;
+
+[210150]
+DEF = Test-Site.bmp
+STYLE = CIRCLE; 103; 457; 30; 2; 255; 0; 0;
+
+[210151]
+DEF = Test-Site.bmp
+STYLE = CIRCLE; 103; 456; 30; 2; 255; 0; 0;
+
+[211000]
+DEF = Test-Site.bmp
+STYLE = CIRCLE; 335; 380; 30; 2; 255; 0; 0;
+
+[211001]
+DEF = Test-Site.bmp
+STYLE = CIRCLE; 334; 380; 30; 2; 255; 0; 0;
+
+[211010]
+DEF = Test-Site.bmp
+STYLE = CIRCLE; 333; 380; 30; 2; 255; 0; 0;
+
+[211011]
+DEF = Test-Site.bmp
+STYLE = CIRCLE; 332; 380; 30; 2; 255; 0; 0;
+
+[211020]
+DEF = Test-Site.bmp
+STYLE = CIRCLE; 335; 337; 30; 2; 255; 0; 0;
+
+[211021]
+DEF = Test-Site.bmp
+STYLE = CIRCLE; 332; 338; 30; 2; 255; 0; 0;
+
+[211030]
+DEF = Test-Site.bmp
+STYLE = CIRCLE; 334; 336; 30; 2; 255; 0; 0;
+
+[211031]
+DEF = Test-Site.bmp
+STYLE = CIRCLE; 333; 337; 30; 2; 255; 0; 0;
+
+[211040]
+DEF = Test-Site.bmp
+STYLE = CIRCLE; 337; 295; 30; 2; 255; 0; 0;
+
+[211041]
+DEF = Test-Site.bmp
+STYLE = CIRCLE; 338; 293; 30; 2; 255; 0; 0;
+
+[211050]
+DEF = Test-Site.bmp
+STYLE = CIRCLE; 335; 296; 30; 2; 255; 0; 0;
+
+[211051]
+DEF = Test-Site.bmp
+STYLE = CIRCLE; 337; 293; 30; 2; 255; 0; 0;
+
+[211060]
+DEF = Test-Site.bmp
+STYLE = CIRCLE; 335; 254; 30; 2; 255; 0; 0;
+
+[211061]
+DEF = Test-Site.bmp
+STYLE = CIRCLE; 336; 253; 30; 2; 255; 0; 0;
+
+[211070]
+DEF = Test-Site.bmp
+STYLE = CIRCLE; 333; 253; 30; 2; 255; 0; 0;
+
+[211071]
+DEF = Test-Site.bmp
+STYLE = CIRCLE; 335; 255; 30; 2; 255; 0; 0;
+
+[211080]
+DEF = Test-Site.bmp
+STYLE = CIRCLE; 334; 214; 30; 2; 255; 0; 0;
+
+[211081]
+DEF = Test-Site.bmp
+STYLE = CIRCLE; 338; 217; 30; 2; 255; 0; 0;
+
+[211090]
+DEF = Test-Site.bmp
+STYLE = CIRCLE; 334; 214; 30; 2; 255; 0; 0;
+
+[211091]
+DEF = Test-Site.bmp
+STYLE = CIRCLE; 334; 215; 30; 2; 255; 0; 0;
+
+[211100]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 291; 546; 30; 2; 255; 0; 0;
+
+[211101]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 275; 549; 30; 2; 255; 0; 0;
+
+[211110]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 411; 551; 30; 2; 255; 0; 0;
+
+[211111]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 419; 550; 30; 2; 255; 0; 0;
+
+[211120]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 426; 549; 30; 2; 255; 0; 0;
+
+[211121]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 418; 557; 30; 2; 255; 0; 0;
+
+[211130]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 415; 552; 30; 2; 255; 0; 0;
+
+[211131]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 422; 560; 30; 2; 255; 0; 0;
+
+[211140]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 552; 545; 30; 2; 255; 0; 0;
+
+[211141]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 540; 552; 30; 2; 255; 0; 0;
+
+[211150]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 533; 564; 30; 2; 255; 0; 0;
+
+[211151]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 549; 547; 30; 2; 255; 0; 0;
+
+[212000]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 541; 548; 30; 2; 255; 0; 0;
+
+[212001]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 662; 543; 30; 2; 255; 0; 0;
+
+[212010]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 668; 549; 30; 2; 255; 0; 0;
+
+[212011]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 662; 545; 30; 2; 255; 0; 0;
+
+[212020]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 795; 552; 30; 2; 255; 0; 0;
+
+[212021]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 807; 556; 30; 2; 255; 0; 0;
+
+[212030]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 785; 551; 30; 2; 255; 0; 0;
+
+[212031]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 790; 551; 30; 2; 255; 0; 0;
+
+[212040]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 909; 556; 30; 2; 255; 0; 0;
+
+[212041]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 915; 550; 30; 2; 255; 0; 0;
+
+[212050]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 917; 551; 30; 2; 255; 0; 0;
+
+[212051]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 923; 556; 30; 2; 255; 0; 0;
+
+[212060]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 268; 467; 30; 2; 255; 0; 0;
+
+[212061]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 279; 465; 30; 2; 255; 0; 0;
+
+[212070]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 267; 471; 30; 2; 255; 0; 0;
+
+[212071]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 270; 468; 30; 2; 255; 0; 0;
+
+[212080]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 386; 465; 30; 2; 255; 0; 0;
+
+[212081]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 397; 466; 30; 2; 255; 0; 0;
+
+[212090]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 397; 463; 30; 2; 255; 0; 0;
+
+[212091]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 391; 463; 30; 2; 255; 0; 0;
+
+[212100]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 523; 470; 30; 2; 255; 0; 0;
+
+[212101]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 520; 470; 30; 2; 255; 0; 0;
+
+[212110]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 521; 464; 30; 2; 255; 0; 0;
+
+[212111]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 518; 466; 30; 2; 255; 0; 0;
+
+[212120]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 646; 465; 30; 2; 255; 0; 0;
+
+[212121]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 643; 468; 30; 2; 255; 0; 0;
+
+[212130]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 640; 465; 30; 2; 255; 0; 0;
+
+[212131]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 645; 463; 30; 2; 255; 0; 0;
+
+[212140]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 772; 468; 30; 2; 255; 0; 0;
+
+[212141]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 762; 468; 30; 2; 255; 0; 0;
+
+[212150]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 771; 464; 30; 2; 255; 0; 0;
+
+[212151]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 764; 470; 30; 2; 255; 0; 0;
+
+[213000]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 899; 467; 30; 2; 255; 0; 0;
+
+[213001]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 895; 464; 30; 2; 255; 0; 0;
+
+[213010]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 888; 469; 30; 2; 255; 0; 0;
+
+[213011]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 885; 469; 30; 2; 255; 0; 0;
+
+[213020]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 243; 391; 30; 2; 255; 0; 0;
+
+[213021]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 255; 389; 30; 2; 255; 0; 0;
+
+[213030]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 247; 381; 30; 2; 255; 0; 0;
+
+[213031]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 244; 388; 30; 2; 255; 0; 0;
+
+[213040]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 381; 384; 30; 2; 255; 0; 0;
+
+[213041]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 370; 385; 30; 2; 255; 0; 0;
+
+[213050]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 378; 385; 30; 2; 255; 0; 0;
+
+[213051]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 376; 377; 30; 2; 255; 0; 0;
+
+[213060]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 494; 386; 30; 2; 255; 0; 0;
+
+[213061]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 501; 383; 30; 2; 255; 0; 0;
+
+[213070]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 500; 387; 30; 2; 255; 0; 0;
+
+[213071]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 491; 384; 30; 2; 255; 0; 0;
+
+[213080]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 619; 386; 30; 2; 255; 0; 0;
+
+[213081]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 621; 387; 30; 2; 255; 0; 0;
+
+[213090]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 625; 385; 30; 2; 255; 0; 0;
+
+[213091]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 620; 389; 30; 2; 255; 0; 0;
+
+[213100]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 758; 384; 30; 2; 255; 0; 0;
+
+[213101]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 755; 384; 30; 2; 255; 0; 0;
+
+[213110]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 742; 385; 30; 2; 255; 0; 0;
+
+[213111]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 740; 387; 30; 2; 255; 0; 0;
+
+[213120]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 874; 385; 30; 2; 255; 0; 0;
+
+[213121]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 874; 387; 30; 2; 255; 0; 0;
+
+[213130]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 879; 388; 30; 2; 255; 0; 0;
+
+[213131]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 876; 392; 30; 2; 255; 0; 0;
+
+[213140]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 232; 309; 30; 2; 255; 0; 0;
+
+[213141]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 226; 309; 30; 2; 255; 0; 0;
+
+[213150]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 220; 298; 30; 2; 255; 0; 0;
+
+[213151]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 220; 295; 30; 2; 255; 0; 0;
+
+[214000]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 352; 298; 30; 2; 255; 0; 0;
+
+[214001]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 343; 308; 30; 2; 255; 0; 0;
+
+[214010]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 357; 302; 30; 2; 255; 0; 0;
+
+[214011]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 353; 317; 30; 2; 255; 0; 0;
+
+[214020]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 476; 309; 30; 2; 255; 0; 0;
+
+[214021]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 473; 297; 30; 2; 255; 0; 0;
+
+[214030]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 487; 300; 30; 2; 255; 0; 0;
+
+[214031]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 490; 301; 30; 2; 255; 0; 0;
+
+[214040]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 610; 302; 30; 2; 255; 0; 0;
+
+[214041]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 601; 296; 30; 2; 255; 0; 0;
+
+[214050]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 611; 299; 30; 2; 255; 0; 0;
+
+[214051]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 602; 301; 30; 2; 255; 0; 0;
+
+[214060]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 723; 303; 30; 2; 255; 0; 0;
+
+[214061]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 728; 300; 30; 2; 255; 0; 0;
+
+[214070]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 726; 297; 30; 2; 255; 0; 0;
+
+[214071]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 726; 294; 30; 2; 255; 0; 0;
+
+[214080]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 852; 301; 30; 2; 255; 0; 0;
+
+[214081]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 852; 300; 30; 2; 255; 0; 0;
+
+[214090]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 858; 305; 30; 2; 255; 0; 0;
+
+[214091]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 857; 304; 30; 2; 255; 0; 0;
+
+[214100]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 207; 208; 30; 2; 255; 0; 0;
+
+[214101]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 204; 209; 30; 2; 255; 0; 0;
+
+[214110]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 216; 219; 30; 2; 255; 0; 0;
+
+[214111]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 208; 220; 30; 2; 255; 0; 0;
+
+[214120]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 338; 214; 30; 2; 255; 0; 0;
+
+[214121]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 338; 213; 30; 2; 255; 0; 0;
+
+[214130]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 329; 216; 30; 2; 255; 0; 0;
+
+[214131]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 332; 218; 30; 2; 255; 0; 0;
+
+[214140]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 455; 209; 30; 2; 255; 0; 0;
+
+[214141]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 465; 223; 30; 2; 255; 0; 0;
+
+[214150]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 456; 216; 30; 2; 255; 0; 0;
+
+[214151]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 460; 219; 30; 2; 255; 0; 0;
+
+[215000]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 588; 216; 30; 2; 255; 0; 0;
+
+[215001]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 590; 215; 30; 2; 255; 0; 0;
+
+[215010]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 591; 221; 30; 2; 255; 0; 0;
+
+[215011]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 593; 216; 30; 2; 255; 0; 0;
+
+[215020]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 699; 219; 30; 2; 255; 0; 0;
+
+[215021]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 718; 214; 30; 2; 255; 0; 0;
+
+[215030]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 711; 213; 30; 2; 255; 0; 0;
+
+[215031]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 707; 213; 30; 2; 255; 0; 0;
+
+[215040]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 843; 217; 30; 2; 255; 0; 0;
+
+[215041]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 842; 211; 30; 2; 255; 0; 0;
+
+[215050]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 838; 207; 30; 2; 255; 0; 0;
+
+[215051]
+DEF = TEST SIDE-cok-locking.BMP
+STYLE = CIRCLE; 843; 215; 30; 2; 255; 0; 0;
+
+[216000]
+DEF = Reject Buffer.bmp
+STYLE = CIRCLE; 137; 149; 30; 2; 255; 0; 0;
+
+[216001]
+DEF = Reject Buffer.bmp
+STYLE = CIRCLE; 137; 150; 30; 2; 255; 0; 0;
+
+[216010]
+DEF = Reject Buffer.bmp
+STYLE = CIRCLE; 139; 150; 30; 2; 255; 0; 0;
+
+[216011]
+DEF = Reject Buffer.bmp
+STYLE = CIRCLE; 139; 152; 30; 2; 255; 0; 0;
+
+[216020]
+DEF = Reject Buffer.bmp
+STYLE = CIRCLE; 355; 150; 30; 2; 255; 0; 0;
+
+[216021]
+DEF = Reject Buffer.bmp
+STYLE = CIRCLE; 353; 150; 30; 2; 255; 0; 0;
+
+[216030]
+DEF = Reject Buffer.bmp
+STYLE = CIRCLE; 354; 152; 30; 2; 255; 0; 0;
+
+[216031]
+DEF = Reject Buffer.bmp
+STYLE = CIRCLE; 355; 150; 30; 2; 255; 0; 0;
+
+[216080]
+DEF = Reject Buffer.bmp
+STYLE = CIRCLE; 138; 147; 30; 2; 255; 0; 0;
+
+[216081]
+DEF = Reject Buffer.bmp
+STYLE = CIRCLE; 139; 149; 30; 2; 255; 0; 0;
+
+[216090]
+DEF = Reject Buffer.bmp
+STYLE = CIRCLE; 138; 148; 30; 2; 255; 0; 0;
+
+[216091]
+DEF = Reject Buffer.bmp
+STYLE = CIRCLE; 140; 150; 30; 2; 255; 0; 0;
+
+[216100]
+DEF = Reject Buffer.bmp
+STYLE = CIRCLE; 354; 148; 30; 2; 255; 0; 0;
+
+[216101]
+DEF = Reject Buffer.bmp
+STYLE = CIRCLE; 353; 148; 30; 2; 255; 0; 0;
+
+[216110]
+DEF = Reject Buffer.bmp
+STYLE = CIRCLE; 354; 150; 30; 2; 255; 0; 0;
+
+[216111]
+DEF = Reject Buffer.bmp
+STYLE = CIRCLE; 353; 150; 30; 2; 255; 0; 0;
+
+[216120]
+DEF = Reject Buffer.bmp
+STYLE = CIRCLE; 200; 280; 30; 2; 255; 0; 0;
+
+[216121]
+DEF = Reject Buffer.bmp
+STYLE = CIRCLE; 200; 280; 30; 2; 255; 0; 0;
+
+[216130]
+DEF = Reject Buffer.bmp
+STYLE = CIRCLE; 416; 278; 30; 2; 255; 0; 0;
+
+[216131]
+DEF = Reject Buffer.bmp
+STYLE = CIRCLE; 417; 279; 30; 2; 255; 0; 0;
+
+[216140]
+DEF = Reject_Tray.bmp
+STYLE = CIRCLE; 284; 89; 30; 2; 255; 0; 0;
+
+[216141]
+DEF = Reject_Tray.bmp
+STYLE = CIRCLE; 277; 93; 30; 2; 255; 0; 0;
+
+[216150]
+DEF = Reject_Tray.bmp
+STYLE = CIRCLE; 563; 88; 30; 2; 255; 0; 0;
+
+[216151]
+DEF = Reject_Tray.bmp
+STYLE = CIRCLE; 571; 92; 30; 2; 255; 0; 0;
+
+[217000]
+DEF = AMT8560_Front2.bmp
+STYLE = CIRCLE; 634; 295; 30; 2; 255; 0; 0;
+
+[217001]
+DEF = AMT8560_Front2.bmp
+STYLE = CIRCLE; 632; 297; 30; 2; 255; 0; 0;
+
+[217010]
+DEF = AMT8560_Front2.bmp
+STYLE = CIRCLE; 632; 296; 30; 2; 255; 0; 0;
+
+[217011]
+DEF = AMT8560_Front2.bmp
+STYLE = CIRCLE; 630; 295; 30; 2; 255; 0; 0;
+
+[217020]
+DEF = AMT8560_Front2.bmp
+STYLE = CIRCLE; 633; 294; 30; 2; 255; 0; 0;
+
+[217021]
+DEF = AMT8560_Front2.bmp
+STYLE = CIRCLE; 665; 292; 30; 2; 255; 0; 0;
+
+[217030]
+DEF = AMT8560_Front2.bmp
+STYLE = CIRCLE; 665; 296; 30; 2; 255; 0; 0;
+
+[217031]
+DEF = AMT8560_Front2.bmp
+STYLE = CIRCLE; 662; 294; 30; 2; 255; 0; 0;
+
+[217080]
+DEF = AMT8560_Front2.bmp
+STYLE = CIRCLE; 631; 295; 30; 2; 255; 0; 0;
+
+[217081]
+DEF = AMT8560_Front2.bmp
+STYLE = CIRCLE; 630; 296; 30; 2; 255; 0; 0;
+
+[217090]
+DEF = AMT8560_Front2.bmp
+STYLE = CIRCLE; 631; 296; 30; 2; 255; 0; 0;
+
+[217091]
+DEF = AMT8560_Front2.bmp
+STYLE = CIRCLE; 631; 296; 30; 2; 255; 0; 0;
+
+[217100]
+DEF = AMT8560_Front2.bmp
+STYLE = CIRCLE; 659; 294; 30; 2; 255; 0; 0;
+
+[217101]
+DEF = AMT8560_Front2.bmp
+STYLE = CIRCLE; 661; 294; 30; 2; 255; 0; 0;
+
+[217110]
+DEF = AMT8560_Front2.bmp
+STYLE = CIRCLE; 656; 292; 30; 2; 255; 0; 0;
+
+[217111]
+DEF = AMT8560_Front2.bmp
+STYLE = CIRCLE; 629; 297; 30; 2; 255; 0; 0;
+
+[217120]
+DEF = AMT8560_Front1.bmp
+STYLE = CIRCLE; 584; 289; 30; 2; 255; 0; 0;
+
+[217121]
+DEF = AMT8560_Front1.bmp
+STYLE = CIRCLE; 594; 288; 30; 2; 255; 0; 0;
+
+[217130]
+DEF = AMT8560_Front1.bmp
+STYLE = CIRCLE; 590; 288; 30; 2; 255; 0; 0;
+
+[217131]
+DEF = AMT8560_Front1.bmp
+STYLE = CIRCLE; 587; 288; 30; 2; 255; 0; 0;
+
+[217140]
+DEF = AMT8560_Front1.bmp
+STYLE = CIRCLE; 587; 287; 30; 2; 255; 0; 0;
+
+[217141]
+DEF = AMT8560_Front1.bmp
+STYLE = CIRCLE; 590; 287; 30; 2; 255; 0; 0;
+
+[217150]
+DEF = AMT8560_Front1.bmp
+STYLE = CIRCLE; 589; 288; 30; 2; 255; 0; 0;
+
+[217151]
+DEF = AMT8560_Front1.bmp
+STYLE = CIRCLE; 589; 288; 30; 2; 255; 0; 0;
+
+[220000]
+DEF = mainair.BMP
+STYLE = CIRCLE; 534; 533; 30; 2; 255; 0; 0;
+
+[220001]
+DEF = mainair.BMP
+STYLE = CIRCLE; 531; 530; 30; 2; 255; 0; 0;
+
+[220010]
+DEF = AMT8560_Front1.bmp
+STYLE = CIRCLE; 640; 91; 30; 2; 255; 0; 0;
+
+[220011]
+DEF = AMT8560_Front1.bmp
+STYLE = CIRCLE; 642; 90; 30; 2; 255; 0; 0;
+
+[220020]
+DEF = AMT8560_Front1.bmp
+STYLE = CIRCLE; 642; 89; 30; 2; 255; 0; 0;
+
+[220021]
+DEF = AMT8560_Front1.bmp
+STYLE = CIRCLE; 641; 90; 30; 2; 255; 0; 0;
+
+[220030]
+DEF = AMT8560_Front1.bmp
+STYLE = CIRCLE; 640; 91; 30; 2; 255; 0; 0;
+
+[220031]
+DEF = AMT8560_Front1.bmp
+STYLE = CIRCLE; 640; 87; 30; 2; 255; 0; 0;
+
+[220040]
+DEF = AMT8560_Front2.bmp
+STYLE = CIRCLE; 663; 293; 30; 2; 255; 0; 0;
+
+[220041]
+DEF = AMT8560_Front2.bmp
+STYLE = CIRCLE; 664; 296; 30; 2; 255; 0; 0;
+
+[220050]
+DEF = AMT8560_Front2.bmp
+STYLE = CIRCLE; 662; 295; 30; 2; 255; 0; 0;
+
+[220051]
+DEF = AMT8560_Front2.bmp
+STYLE = CIRCLE; 662; 294; 30; 2; 255; 0; 0;
+
+[220060]
+DEF = AMT8560_Front2.bmp
+STYLE = CIRCLE; 366; 264; 30; 2; 255; 0; 0;
+
+[220061]
+DEF = AMT8560_Front2.bmp
+STYLE = CIRCLE; 350; 202; 30; 2; 255; 0; 0;
+
+[220080]
+DEF = AMT8560_Front2.bmp
+STYLE = CIRCLE; 611; 441; 30; 2; 255; 0; 0;
+
+[220081]
+DEF = AMT8560_Front2.bmp
+STYLE = CIRCLE; 614; 435; 30; 2; 255; 0; 0;
+
+[220090]
+DEF = AMT8560_Left.bmp
+STYLE = CIRCLE; 407; 174; 30; 2; 255; 0; 0;
+
+[220091]
+DEF = AMT8560_Left.bmp
+STYLE = CIRCLE; 408; 191; 30; 2; 255; 0; 0;
+
+[220100]
+DEF = AMT8560_Front1.bmp
+STYLE = CIRCLE; 243; 199; 30; 2; 255; 0; 0;
+
+[220101]
+DEF = AMT8560_Front1.bmp
+STYLE = CIRCLE; 244; 215; 30; 2; 255; 0; 0;
+
+[220110]
+DEF = AMT8560_Front1.bmp
+STYLE = CIRCLE; 349; 216; 30; 2; 255; 0; 0;
+
+[220111]
+DEF = AMT8560_Front1.bmp
+STYLE = CIRCLE; 357; 217; 30; 2; 255; 0; 0;
+
+[220120]
+DEF = AMT8560_Front1.bmp
+STYLE = CIRCLE; 333; 327; 30; 2; 255; 0; 0;
+
+[220121]
+DEF = AMT8560_Front1.bmp
+STYLE = CIRCLE; 329; 328; 30; 2; 255; 0; 0;
+
+[220130]
+DEF = AMT8560_Front1.bmp
+STYLE = CIRCLE; 502; 224; 30; 2; 255; 0; 0;
+
+[220131]
+DEF = AMT8560_Front1.bmp
+STYLE = CIRCLE; 498; 227; 30; 2; 255; 0; 0;
+
+[220140]
+DEF = AMT8560_Right.bmp
+STYLE = CIRCLE; 402; 209; 30; 2; 255; 0; 0;
+
+[220141]
+DEF = AMT8560_Right.bmp
+STYLE = CIRCLE; 403; 205; 30; 2; 255; 0; 0;
+
+[221080]
+DEF = AMT8560_Right.bmp
+STYLE = CIRCLE; 122; 223; 30; 2; 255; 0; 0;
+
+[221081]
+DEF = AMT8560_Right.bmp
+STYLE = CIRCLE; 126; 221; 30; 2; 255; 0; 0;
+
+[221090]
+DEF = Test-Site.bmp
+STYLE = CIRCLE; 255; 392; 30; 2; 255; 0; 0;
+
+[221091]
+DEF = Test-Site.bmp
+STYLE = NONE; 0; 0; 30; 2; 255; 0; 0;
+
+[221100]
+DEF = Test-Site.bmp
+STYLE = NONE; 0; 0; 30; 2; 255; 0; 0;
+
+[221101]
+DEF = Test-Site.bmp
+STYLE = NONE; 0; 0; 30; 2; 255; 0; 0;
+
+[221110]
+DEF = AMT8560_Left.bmp
+STYLE = CIRCLE; 301; 224; 30; 2; 255; 0; 0;
+
+[221111]
+DEF = AMT8560_Left.bmp
+STYLE = CIRCLE; 301; 225; 30; 2; 255; 0; 0;
+
+[221120]
+DEF = AMT8560_Right.bmp
+STYLE = CIRCLE; 124; 223; 30; 2; 255; 0; 0;
+
+[221121]
+DEF = AMT8560_Right.bmp
+STYLE = CIRCLE; 123; 222; 30; 2; 255; 0; 0;
+
+[222000]
+DEF = AMT8560_MainUI.bmp
+STYLE = CIRCLE; 206; 261; 30; 2; 255; 0; 0;
+
+[222001]
+DEF = AMT8560_MainUI.bmp
+STYLE = CIRCLE; 210; 261; 30; 2; 255; 0; 0;
+
+[222010]
+DEF = AMT8560_MainUI.bmp
+STYLE = CIRCLE; 208; 262; 30; 2; 255; 0; 0;
+
+[222011]
+DEF = AMT8560_MainUI.bmp
+STYLE = CIRCLE; 210; 262; 30; 2; 255; 0; 0;
+
+[222020]
+DEF = AMT8560_MainUI.bmp
+STYLE = CIRCLE; 369; 266; 30; 2; 255; 0; 0;
+
+[222021]
+DEF = AMT8560_MainUI.bmp
+STYLE = CIRCLE; 375; 259; 30; 2; 255; 0; 0;
+
+[222030]
+DEF = AMT8560_MainUI.bmp
+STYLE = CIRCLE; 369; 257; 30; 2; 255; 0; 0;
+
+[222031]
+DEF = AMT8560_MainUI.bmp
+STYLE = CIRCLE; 373; 265; 30; 2; 255; 0; 0;
+
+[222040]
+DEF = AMT8560_MainUI.bmp
+STYLE = CIRCLE; 380; 257; 30; 2; 255; 0; 0;
+
+[222041]
+DEF = AMT8560_MainUI.bmp
+STYLE = CIRCLE; 369; 261; 30; 2; 255; 0; 0;
+
+[222050]
+DEF = AMT8560_MainUI.bmp
+STYLE = CIRCLE; 373; 262; 30; 2; 255; 0; 0;
+
+[222051]
+DEF = AMT8560_MainUI.bmp
+STYLE = CIRCLE; 367; 258; 30; 2; 255; 0; 0;
+
+[222080]
+DEF = AMT8560_MainUI.bmp
+STYLE = CIRCLE; 214; 423; 30; 2; 255; 0; 0;
+
+[222081]
+DEF = AMT8560_MainUI.bmp
+STYLE = CIRCLE; 211; 420; 30; 2; 255; 0; 0;
+
+[222090]
+DEF = AMT8560_MainUI.bmp
+STYLE = CIRCLE; 381; 262; 30; 2; 255; 0; 0;
+
+[222091]
+DEF = AMT8560_MainUI.bmp
+STYLE = CIRCLE; 374; 262; 30; 2; 255; 0; 0;
+
+[222100]
+DEF = AMT8560_MainUI.bmp
+STYLE = CIRCLE; 368; 264; 30; 2; 255; 0; 0;
+
+[222101]
+DEF = AMT8560_MainUI.bmp
+STYLE = CIRCLE; 373; 261; 30; 2; 255; 0; 0;
+
+[222110]
+DEF = AMT8560_MainUI.bmp
+STYLE = CIRCLE; 511; 383; 30; 2; 255; 0; 0;
+
+[222111]
+DEF = AMT8560_MainUI.bmp
+STYLE = CIRCLE; 379; 262; 30; 2; 255; 0; 0;
+
+[222120]
+DEF = AMT8560_MainUI.bmp
+STYLE = CIRCLE; 366; 262; 30; 2; 255; 0; 0;
+
+[222121]
+DEF = AMT8560_MainUI.bmp
+STYLE = CIRCLE; 379; 261; 30; 2; 255; 0; 0;
+
+[222130]
+DEF = AMT8560_MainUI.bmp
+STYLE = CIRCLE; 370; 252; 30; 2; 255; 0; 0;
+
+[222131]
+DEF = AMT8560_MainUI.bmp
+STYLE = CIRCLE; 359; 264; 30; 2; 255; 0; 0;
+
+[223000]
+DEF = BARCODE-Z.bmp
+STYLE = CIRCLE; 234; 571; 30; 2; 255; 0; 0;
+
+[223001]
+DEF = BARCODE-Z.bmp
+STYLE = CIRCLE; 226; 558; 30; 2; 255; 0; 0;
+
+[223010]
+DEF = BARCODE-Z.bmp
+STYLE = CIRCLE; 341; 533; 30; 2; 255; 0; 0;
+
+[223011]
+DEF = BARCODE-Z.bmp
+STYLE = CIRCLE; 340; 538; 30; 2; 255; 0; 0;
+
+[223020]
+DEF = BARCODE-Z.bmp
+STYLE = CIRCLE; 451; 507; 30; 2; 255; 0; 0;
+
+[223021]
+DEF = BARCODE-Z.bmp
+STYLE = CIRCLE; 445; 513; 30; 2; 255; 0; 0;
+
+[223030]
+DEF = BARCODE-Z.bmp
+STYLE = CIRCLE; 564; 487; 30; 2; 255; 0; 0;
+
+[223031]
+DEF = BARCODE-Z.bmp
+STYLE = CIRCLE; 556; 486; 30; 2; 255; 0; 0;
+
+[223040]
+DEF = Rotator.bmp
+STYLE = CIRCLE; 634; 262; 30; 2; 255; 0; 0;
+
+[223041]
+DEF = Rotator.bmp
+STYLE = CIRCLE; 643; 265; 30; 2; 255; 0; 0;
+
+[223050]
+DEF = Rotator.bmp
+STYLE = CIRCLE; 632; 279; 30; 2; 255; 0; 0;
+
+[223051]
+DEF = Rotator.bmp
+STYLE = CIRCLE; 651; 267; 30; 2; 255; 0; 0;
+
+[223060]
+DEF = BARCODE-Z.bmp
+STYLE = CIRCLE; 228; 549; 30; 2; 255; 0; 0;
+
+[223061]
+DEF = BARCODE-Z.bmp
+STYLE = CIRCLE; 224; 552; 30; 2; 255; 0; 0;
+
+[223070]
+DEF = BARCODE-Z.bmp
+STYLE = CIRCLE; 231; 539; 30; 2; 255; 0; 0;
+
+[223071]
+DEF = BARCODE-Z.bmp
+STYLE = CIRCLE; 224; 549; 30; 2; 255; 0; 0;
+
+[223080]
+DEF = BARCODE-Z.bmp
+STYLE = CIRCLE; 334; 529; 30; 2; 255; 0; 0;
+
+[223081]
+DEF = BARCODE-Z.bmp
+STYLE = CIRCLE; 342; 536; 30; 2; 255; 0; 0;
+
+[223090]
+DEF = BARCODE-Z.bmp
+STYLE = CIRCLE; 346; 521; 30; 2; 255; 0; 0;
+
+[223091]
+DEF = BARCODE-Z.bmp
+STYLE = CIRCLE; 341; 519; 30; 2; 255; 0; 0;
+
+[223100]
+DEF = BARCODE-Z.bmp
+STYLE = CIRCLE; 450; 507; 30; 2; 255; 0; 0;
+
+[223101]
+DEF = BARCODE-Z.bmp
+STYLE = CIRCLE; 446; 498; 30; 2; 255; 0; 0;
+
+[223110]
+DEF = BARCODE-Z.bmp
+STYLE = CIRCLE; 454; 498; 30; 2; 255; 0; 0;
+
+[223111]
+DEF = BARCODE-Z.bmp
+STYLE = CIRCLE; 454; 500; 30; 2; 255; 0; 0;
+
+[223120]
+DEF = BARCODE-Z.bmp
+STYLE = CIRCLE; 563; 494; 30; 2; 255; 0; 0;
+
+[223121]
+DEF = BARCODE-Z.bmp
+STYLE = CIRCLE; 558; 482; 30; 2; 255; 0; 0;
+
+[223130]
+DEF = BARCODE-Z.bmp
+STYLE = CIRCLE; 561; 470; 30; 2; 255; 0; 0;
+
+[223131]
+DEF = BARCODE-Z.bmp
+STYLE = CIRCLE; 558; 480; 30; 2; 255; 0; 0;
+
+[223140]
+DEF = Rotator.bmp
+STYLE = CIRCLE; 630; 267; 30; 2; 255; 0; 0;
+
+[223141]
+DEF = Rotator.bmp
+STYLE = CIRCLE; 637; 260; 30; 2; 255; 0; 0;
+
+[223150]
+DEF = Rotator.bmp
+STYLE = CIRCLE; 648; 259; 30; 2; 255; 0; 0;
+
+[223151]
+DEF = Rotator.bmp
+STYLE = CIRCLE; 648; 260; 30; 2; 255; 0; 0;
+
+[224000]
+DEF = BARCODE-Z.bmp
+STYLE = CIRCLE; 230; 609; 30; 2; 255; 0; 0;
+
+[224001]
+DEF = BARCODE-Z.bmp
+STYLE = CIRCLE; 224; 619; 30; 2; 255; 0; 0;
+
+[224010]
+DEF = BARCODE-Z.bmp
+STYLE = CIRCLE; 338; 577; 30; 2; 255; 0; 0;
+
+[224011]
+DEF = BARCODE-Z.bmp
+STYLE = CIRCLE; 339; 578; 30; 2; 255; 0; 0;
+
+[224020]
+DEF = BARCODE-Z.bmp
+STYLE = CIRCLE; 446; 558; 30; 2; 255; 0; 0;
+
+[224021]
+DEF = BARCODE-Z.bmp
+STYLE = CIRCLE; 445; 560; 30; 2; 255; 0; 0;
+
+[224030]
+DEF = BARCODE-Z.bmp
+STYLE = CIRCLE; 559; 539; 30; 2; 255; 0; 0;
+
+[224031]
+DEF = BARCODE-Z.bmp
+STYLE = CIRCLE; 556; 532; 30; 2; 255; 0; 0;
+
+[224040]
+DEF = BARCODE-Z.bmp
+STYLE = CIRCLE; 221; 604; 30; 2; 255; 0; 0;
+
+[224041]
+DEF = BARCODE-Z.bmp
+STYLE = CIRCLE; 220; 614; 30; 2; 255; 0; 0;
+
+[224050]
+DEF = BARCODE-Z.bmp
+STYLE = CIRCLE; 334; 583; 30; 2; 255; 0; 0;
+
+[224051]
+DEF = BARCODE-Z.bmp
+STYLE = CIRCLE; 342; 587; 30; 2; 255; 0; 0;
+
+[224060]
+DEF = BARCODE-Z.bmp
+STYLE = CIRCLE; 447; 566; 30; 2; 255; 0; 0;
+
+[224061]
+DEF = BARCODE-Z.bmp
+STYLE = CIRCLE; 448; 569; 30; 2; 255; 0; 0;
+
+[224070]
+DEF = BARCODE-Z.bmp
+STYLE = CIRCLE; 563; 536; 30; 2; 255; 0; 0;
+
+[224071]
+DEF = BARCODE-Z.bmp
+STYLE = CIRCLE; 559; 534; 30; 2; 255; 0; 0;
+
+[224090]
+DEF = BARCODE-Z.bmp
+STYLE = CIRCLE; 226; 615; 30; 2; 255; 0; 0;
+
+[224091]
+DEF = BARCODE-Z.bmp
+STYLE = CIRCLE; 227; 610; 30; 2; 255; 0; 0;
+
+[224100]
+DEF = BARCODE-Z.bmp
+STYLE = CIRCLE; 330; 592; 30; 2; 255; 0; 0;
+
+[224101]
+DEF = BARCODE-Z.bmp
+STYLE = CIRCLE; 334; 588; 30; 2; 255; 0; 0;
+
+[224110]
+DEF = BARCODE-Z.bmp
+STYLE = CIRCLE; 450; 562; 30; 2; 255; 0; 0;
+
+[224111]
+DEF = BARCODE-Z.bmp
+STYLE = CIRCLE; 441; 563; 30; 2; 255; 0; 0;
+
+[224120]
+DEF = BARCODE-Z.bmp
+STYLE = CIRCLE; 565; 536; 30; 2; 255; 0; 0;
+
+[224121]
+DEF = BARCODE-Z.bmp
+STYLE = CIRCLE; 553; 539; 30; 2; 255; 0; 0;
+
+[400000]
+DEF = AMT8560_Front1.bmp
+STYLE = CIRCLE; 225; 296; 30; 2; 255; 0; 0;
+
+[400001]
+DEF = AMT8560_Front1.bmp
+STYLE = CIRCLE; 219; 291; 30; 2; 255; 0; 0;
+
+[400002]
+DEF = AMT8560_Front1.bmp
+STYLE = CIRCLE; 213; 278; 30; 2; 255; 0; 0;
+
+[450000]
+DEF = Lay-Out.bmp
+STYLE = CIRCLE; 433; 270; 30; 2; 255; 0; 0;
+
+[450001]
+DEF = Picker Robot.bmp
+STYLE = CIRCLE; 192; 322; 30; 2; 255; 0; 0;
+
+[450002]
+DEF = amt.bmp
+STYLE = NONE; 0; 0; 30; 2; 255; 0; 0;
+
+[450100]
+DEF = Picker Robot.bmp
+STYLE = CIRCLE; 95; 352; 30; 2; 255; 0; 0;
+
+[500000]
+DEF = Lay-Out2.bmp
+STYLE = CIRCLE; 143; 352; 30; 2; 255; 0; 0;
+
+[500001]
+DEF = Lay-Out2.bmp
+STYLE = CIRCLE; 165; 351; 30; 2; 255; 0; 0;
+
+[500002]
+DEF = Lay-Out2.bmp
+STYLE = CIRCLE; 187; 351; 30; 2; 255; 0; 0;
+
+[500003]
+DEF = Lay-Out2.bmp
+STYLE = CIRCLE; 207; 350; 30; 2; 255; 0; 0;
+
+[900000]
+DEF = AMT8560_Front2.bmp
+STYLE = CIRCLE; 340; 157; 30; 2; 255; 0; 0;
+
+[900001]
+DEF = AMT8560_Front2.bmp
+STYLE = CIRCLE; 338; 166; 30; 2; 255; 0; 0;
+
+[900002]
+DEF = IO_BOARD.bmp
+STYLE = CIRCLE; 311; 170; 30; 2; 255; 0; 0;
+
+[900003]
+DEF = IO_BOARD.bmp
+STYLE = CIRCLE; 351; 172; 30; 2; 255; 0; 0;
+
+[990000]
+DEF = AMT8560_Front2.bmp
+STYLE = CIRCLE; 278; 155; 30; 2; 255; 0; 0;
+

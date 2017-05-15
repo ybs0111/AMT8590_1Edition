@@ -1,0 +1,4394 @@
+
+///////////////////////////////////////////////////////
+//  00 : Sorting Robot X
+///////////////////////////////////////////////////////
+[000001]
+COUNT = 5
+1 = It is Sorting Robot X Motor Home Check Error.
+2 = Confirm motor power and the Home check speed.
+3 = Confirm whether Home check sensor and obstacle are.
+4 = Confirm whether motor state is normally.
+5 = Confirm whether motor driver is normally.
+
+[000002]
+COUNT = 4
+1 = It is Sorting Robot X Motor Alarm error.
+2 = Confirm whether is part that give overload to motor.
+3 = Confirm whether motor state is normally.
+4 = Confirm whether motor driver is normally.
+
+[000003]
+COUNT = 2
+1 = Parameter setting of Sorting Robot X Motor mistook.
+2 = Confirm parameter in motor speed screen.
+
+[000004]
+COUNT = 2
+1 = Setting of value that Sorting Robot X Motor moves mistook..
+2 = Confirm whether location measure is normal in Unloader department motor display.
+
+[000005]
+COUNT = 3
+1 = It is Sorting Robot X Motor power off error.
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[000006]
+COUNT = 3
+1 = It is Sorting Robot X Motor action error.
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[000007]
+COUNT = 2
+1 = It is Sorting Robot X Motor Do Not Home Check..
+2 = Motor Home checking.
+
+[000008]
+COUNT = 3
+1 = Sorting Robot X is Safety problems will not work.
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[000011]
+COUNT = 4
+1 = It is Sorting Robot X is Motor Time Out Error.
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+4 = Motor Speed Check.
+
+[000015]
+COUNT = 4
+1 = Sorting Robot X Liner Work Check Error(Power On Off Check).
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+4 = Motor Speed Check.
+
+[010001]
+COUNT = 5
+1 = It is Sorting Robot Y Motor Home Check Error.
+2 = Confirm motor power and the Home check speed.
+3 = Confirm whether Home check sensor and obstacle are.
+4 = Confirm whether motor state is normally.
+5 = Confirm whether motor driver is normally.
+
+[010002]
+COUNT = 4
+1 = It is Sorting Robot Y Motor Alarm error.
+2 = Confirm whether is part that give overload to motor.
+3 = Confirm whether motor state is normally.
+4 = Confirm whether motor driver is normally.
+
+[010003]
+COUNT = 2
+1 = Parameter setting of Sorting Robot Y Motor mistook.
+2 = Confirm parameter in motor speed screen.
+
+[010004]
+COUNT = 2
+1 = Setting of value that Sorting Robot Y Motor moves mistook..
+2 = Confirm whether location measure is normal in Unloader department motor display.
+
+[010005]
+COUNT = 3
+1 = It is Sorting Robot Y Motor power off error.
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[010006]
+COUNT = 3
+1 = It is Sorting Robot Y Motor action error.
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[010007]
+COUNT = 2
+1 = It is Sorting Robot Y Motor Do Not Home Check..
+2 = Motor Home checking.
+
+[010008]
+COUNT = 3
+1 = Sorting Robot Y is Safety problems will not work.
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[010011]
+COUNT = 4
+1 = It is Sorting Robot Y is Motor Time Out Error.
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+4 = Motor Speed Check.
+
+[010015]
+COUNT = 4
+1 = Sorting Robot XY Liner Work Check Error(Power On Off Check).
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+4 = Motor Speed Check.
+
+[020001]
+COUNT = 5
+1 = It is Sorting Robot Z Motor Home Check Error.
+2 = Confirm motor power and the Home check speed.
+3 = Confirm whether Home check sensor and obstacle are.
+4 = Confirm whether motor state is normally.
+5 = Confirm whether motor driver is normally.
+
+[020002]
+COUNT = 4
+1 = It is Sorting Robot Z Motor Alarm error.
+2 = Confirm whether is part that give overload to motor.
+3 = Confirm whether motor state is normally.
+4 = Confirm whether motor driver is normally.
+
+[020003]
+COUNT = 2
+1 = Parameter setting of Sorting Robot Z Motor mistook.
+2 = Confirm parameter in motor speed screen.
+
+[020004]
+COUNT = 2
+1 = Setting of value that Sorting Robot Z Motor moves mistook..
+2 = Confirm whether location measure is normal in Unloader department motor display.
+
+[020005]
+COUNT = 3
+1 = It is Sorting Robot Z Motor power off error.
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[020006]
+COUNT = 3
+1 = It is Sorting Robot Z Motor action error.
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[020007]
+COUNT = 2
+1 = It is Sorting Robot Z Motor Do Not Home Check..
+2 = Motor Home checking.
+
+[020008]
+COUNT = 3
+1 = Sorting Robot Z is Safety problems will not work.
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[020011]
+COUNT = 4
+1 = It is Sorting Robot Z is Motor Time Out Error.
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+4 = Motor Speed Check.
+
+[030001]
+COUNT = 5
+1 = It is Loading Buffer Y Motor Home Check Error.
+2 = Confirm motor power and the Home check speed.
+3 = Confirm whether Home check sensor and obstacle are.
+4 = Confirm whether motor state is normally.
+5 = Confirm whether motor driver is normally.
+
+[030002]
+COUNT = 4
+1 = It is Loading Buffer Y Motor Alarm error.
+2 = Confirm whether is part that give overload to motor.
+3 = Confirm whether motor state is normally.
+4 = Confirm whether motor driver is normally.
+
+[030003]
+COUNT = 2
+1 = Parameter setting of Loading Buffer Y Motor mistook.
+2 = Confirm parameter in motor speed screen.
+
+[030004]
+COUNT = 2
+1 = Setting of value that Loading Buffer Y Motor moves mistook..
+2 = Confirm whether location measure is normal in Unloader department motor display.
+
+[030005]
+COUNT = 3
+1 = It is Loading Buffer Y Motor power off error.
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[030006]
+COUNT = 3
+1 = It is Loading Buffer Y Motor action error.
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[030007]
+COUNT = 2
+1 = It is Loading Buffer Y Motor Do Not Home Check..
+2 = Motor Home checking.
+
+[030008]
+COUNT = 3
+1 = Loading Buffer Y is Safety problems will not work.
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[030011]
+COUNT = 4
+1 = It is Loading Buffer Y is Motor Time Out Error.
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+4 = Motor Speed Check.
+
+[040001]
+COUNT = 5
+1 = It is Loading Buffer Z Motor Home Check Error.
+2 = Confirm motor power and the Home check speed.
+3 = Confirm whether Home check sensor and obstacle are.
+4 = Confirm whether motor state is normally.
+5 = Confirm whether motor driver is normally.
+
+[040002]
+COUNT = 4
+1 = It is Loading Buffer Z Motor Alarm error.
+2 = Confirm whether is part that give overload to motor.
+3 = Confirm whether motor state is normally.
+4 = Confirm whether motor driver is normally.
+
+[040003]
+COUNT = 2
+1 = Parameter setting of Loading Buffer Z Motor mistook.
+2 = Confirm parameter in motor speed screen.
+
+[040004]
+COUNT = 2
+1 = Setting of value that Loading Buffer Z Motor moves mistook..
+2 = Confirm whether location measure is normal in Unloader department motor display.
+
+[040005]
+COUNT = 3
+1 = It is Loading Buffer Z Motor power off error.
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[040006]
+COUNT = 3
+1 = It is Loading Buffer Z Motor action error.
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[040007]
+COUNT = 2
+1 = It is Loading Buffer Z Motor Do Not Home Check..
+2 = Motor Home checking.
+
+[040008]
+COUNT = 3
+1 = Loading Buffer Z is Safety problems will not work.
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[040011]
+COUNT = 4
+1 = It is Loading Buffer Z is Motor Time Out Error.
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+4 = Motor Speed Check.
+
+[050001]
+COUNT = 5
+1 = It is Barcode X Motor Home Check Error.
+2 = Confirm motor power and the Home check speed.
+3 = Confirm whether Home check sensor and obstacle are.
+4 = Confirm whether motor state is normally.
+5 = Confirm whether motor driver is normally.
+
+[050002]
+COUNT = 4
+1 = It is Barcode X Motor Alarm error.
+2 = Confirm whether is part that give overload to motor.
+3 = Confirm whether motor state is normally.
+4 = Confirm whether motor driver is normally.
+
+[050003]
+COUNT = 2
+1 = Parameter setting of Barcode X Motor mistook.
+2 = Confirm parameter in motor speed screen.
+
+[050004]
+COUNT = 2
+1 = Setting of value that Barcode X Motor moves mistook..
+2 = Confirm whether location measure is normal in Unloader department motor display.
+
+[050005]
+COUNT = 3
+1 = It is Barcode X Motor power off error.
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[050006]
+COUNT = 3
+1 = It is Barcode X Motor action error.
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[050007]
+COUNT = 2
+1 = It is Barcode X Motor Do Not Home Check..
+2 = Motor Home checking.
+
+[050008]
+COUNT = 3
+1 = Barcode X is Safety problems will not work.
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[050011]
+COUNT = 4
+1 = It is Barcode X is Motor Time Out Error.
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+4 = Motor Speed Check.
+
+[060001]
+COUNT = 5
+1 = It is Test-Site Robot X Motor Home Check Error.
+2 = Confirm motor power and the Home check speed.
+3 = Confirm whether Home check sensor and obstacle are.
+4 = Confirm whether motor state is normally.
+5 = Confirm whether motor driver is normally.
+
+[060002]
+COUNT = 4
+1 = It is Test-Site Robot X Motor Alarm error.
+2 = Confirm whether is part that give overload to motor.
+3 = Confirm whether motor state is normally.
+4 = Confirm whether motor driver is normally.
+
+[060003]
+COUNT = 2
+1 = Parameter setting of Test-Site Robot X Motor mistook.
+2 = Confirm parameter in motor speed screen.
+
+[060004]
+COUNT = 2
+1 = Setting of value that Test-Site Robot X Motor moves mistook..
+2 = Confirm whether location measure is normal in Unloader department motor display.
+
+[060005]
+COUNT = 3
+1 = It is Test-Site Robot X Motor power off error.
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[060006]
+COUNT = 3
+1 = It is Test-Site Robot X Motor action error.
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[060007]
+COUNT = 2
+1 = It is Test-Site Robot X Motor Do Not Home Check..
+2 = Motor Home checking.
+
+[060008]
+COUNT = 3
+1 = Test-Site Robot X is Safety problems will not work.
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[060011]
+COUNT = 4
+1 = It is Test-Site Robot X is Motor Time Out Error.
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+4 = Motor Speed Check.
+
+[060015]
+COUNT = 4
+1 = Test-Site Robot X Liner Work Check Error(Power On Off Check).
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+4 = Motor Speed Check.
+
+[070001]
+COUNT = 5
+1 = It is Test-Site Robot Z Motor Home Check Error.
+2 = Confirm motor power and the Home check speed.
+3 = Confirm whether Home check sensor and obstacle are.
+4 = Confirm whether motor state is normally.
+5 = Confirm whether motor driver is normally.
+
+[070002]
+COUNT = 4
+1 = It is Test-Site Robot Z Motor Alarm error.
+2 = Confirm whether is part that give overload to motor.
+3 = Confirm whether motor state is normally.
+4 = Confirm whether motor driver is normally.
+
+[070003]
+COUNT = 2
+1 = Parameter setting of Test-Site Robot Z Motor mistook.
+2 = Confirm parameter in motor speed screen.
+
+[070004]
+COUNT = 2
+1 = Setting of value that Test-Site Robot Z Motor moves mistook..
+2 = Confirm whether location measure is normal in Unloader department motor display.
+
+[070005]
+COUNT = 3
+1 = It is Test-Site Robot Z Motor power off error.
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[070006]
+COUNT = 3
+1 = It is Test-Site Robot Z Motor action error.
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[070007]
+COUNT = 2
+1 = It is Test-Site Robot Z Motor Do Not Home Check..
+2 = Motor Home checking.
+
+[070008]
+COUNT = 3
+1 = Test-Site Robot Z is Safety problems will not work.
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[070011]
+COUNT = 4
+1 = It is Test-Site Robot Z is Motor Time Out Error.
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+4 = Motor Speed Check.
+
+[070015]
+COUNT = 4
+1 = Test-Site Robot Robot Z Liner Work Check Error(Power On Off Check).
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+4 = Motor Speed Check.
+
+[080001]
+COUNT = 5
+1 = It is Unloading buffer Y Motor Home Check Error.
+2 = Confirm motor power and the Home check speed.
+3 = Confirm whether Home check sensor and obstacle are.
+4 = Confirm whether motor state is normally.
+5 = Confirm whether motor driver is normally.
+
+[080002]
+COUNT = 4
+1 = It is Unloading buffer Y Motor Alarm error.
+2 = Confirm whether is part that give overload to motor.
+3 = Confirm whether motor state is normally.
+4 = Confirm whether motor driver is normally.
+
+[080003]
+COUNT = 2
+1 = Parameter setting of Unloading buffer Y Motor mistook.
+2 = Confirm parameter in motor speed screen.
+
+[080004]
+COUNT = 2
+1 = Setting of value that Unloading buffer Y Motor moves mistook..
+2 = Confirm whether location measure is normal in Unloader department motor display.
+
+[080005]
+COUNT = 3
+1 = It is Unloading buffer Y Motor power off error.
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[080006]
+COUNT = 3
+1 = It is Unloading buffer Y Motor action error.
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[080007]
+COUNT = 2
+1 = It is Unloading buffer Y Motor Do Not Home Check..
+2 = Motor Home checking.
+
+[080008]
+COUNT = 3
+1 = Unloading buffer Y is Safety problems will not work.
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[080011]
+COUNT = 4
+1 = It is Unloading buffer Y is Motor Time Out Error.
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+4 = Motor Speed Check.
+
+[090001]
+COUNT = 5
+1 = It is Unloading buffer Z Motor Home Check Error.
+2 = Confirm motor power and the Home check speed.
+3 = Confirm whether Home check sensor and obstacle are.
+4 = Confirm whether motor state is normally.
+5 = Confirm whether motor driver is normally.
+
+[090002]
+COUNT = 4
+1 = It is Unloading buffer Z Motor Alarm error.
+2 = Confirm whether is part that give overload to motor.
+3 = Confirm whether motor state is normally.
+4 = Confirm whether motor driver is normally.
+
+[090003]
+COUNT = 2
+1 = Parameter setting of Unloading buffer Z Motor mistook.
+2 = Confirm parameter in motor speed screen.
+
+[090004]
+COUNT = 2
+1 = Setting of value that Unloading buffer Z Motor moves mistook..
+2 = Confirm whether location measure is normal in Unloader department motor display.
+
+[090005]
+COUNT = 3
+1 = It is Unloading buffer Z Motor power off error.
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[090006]
+COUNT = 3
+1 = It is Unloading buffer Z Motor action error.
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[090007]
+COUNT = 2
+1 = It is Unloading buffer Z Motor Do Not Home Check..
+2 = Motor Home checking.
+
+[090008]
+COUNT = 3
+1 = Unloading buffer Z is Safety problems will not work.
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[090011]
+COUNT = 4
+1 = It is Unloading buffer Z is Motor Time Out Error.
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+4 = Motor Speed Check.
+
+[090100]
+COUNT = 2
+1 = It is Unloading Buffer Device Check On Error.
+2 = Confirm whether sensor state is normally.
+
+[100001]
+COUNT = 5
+1 = It is Barcode Z Motor Home Check Error.
+2 = Confirm motor power and the Home check speed.
+3 = Confirm whether Home check sensor and obstacle are.
+4 = Confirm whether motor state is normally.
+5 = Confirm whether motor driver is normally.
+
+[100002]
+COUNT = 4
+1 = It is Barcode Z Motor Alarm error.
+2 = Confirm whether is part that give overload to motor.
+3 = Confirm whether motor state is normally.
+4 = Confirm whether motor driver is normally.
+
+[100003]
+COUNT = 2
+1 = Parameter setting of Barcode Z Motor mistook.
+2 = Confirm parameter in motor speed screen.
+
+[100004]
+COUNT = 2
+1 = Setting of value that Barcode Z Motor moves mistook..
+2 = Confirm whether location measure is normal in Unloader department motor display.
+
+[100005]
+COUNT = 3
+1 = It is Barcode Z Motor power off error.
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[100006]
+COUNT = 3
+1 = It is Barcode Z Motor action error.
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[100007]
+COUNT = 2
+1 = It is Barcode Z Motor Do Not Home Check..
+2 = Motor Home checking.
+
+[100008]
+COUNT = 3
+1 = Barcode Z is Safety problems will not work.
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+
+[100011]
+COUNT = 4
+1 = It is Barcode Z is Motor Time Out Error.
+2 = Confirm whether motor state is normally.
+3 = Confirm whether motor driver is normally.
+4 = Motor Speed Check.
+
+[200000]
+COUNT = 3
+1 = It is Conveyor A-Line Lot End Signal Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+
+[200001]
+COUNT = 3
+1 = It is Conveyor A-Line Lot End Signal On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+
+[200010]
+COUNT = 3
+1 = It is Conveyor B-Line Lot End Signal Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+
+[200011]
+COUNT = 3
+1 = It is Conveyor B-Line Lot End Signal On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+
+[200060]
+COUNT = 3
+1 = It is Conveyor Device in Check #1 Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+
+[200061]
+COUNT = 3
+1 = It is Conveyor Device in Check #1 On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+
+[200070]
+COUNT = 3
+1 = It is Conveyor Device in Check #2 Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+
+[200071]
+COUNT = 3
+1 = It is Conveyor Device in Check #2 On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+
+[200080]
+COUNT = 3
+1 = It is Conveyor Device in Check #3 Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+
+[200081]
+COUNT = 3
+1 = It is Conveyor Device in Check #3 On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+
+[200090]
+COUNT = 3
+1 = It is Conveyor Device in Check #4 Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+
+[200091]
+COUNT = 3
+1 = It is Conveyor Device in Check #4 On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+
+[200140]
+COUNT = 3
+1 = It is Out Conveyor A-Line Lot End Check Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+
+[200141]
+COUNT = 3
+1 = It is Out Conveyor A-Line Lot End Check On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+
+[200150]
+COUNT = 3
+1 = It is Out Conveyor B-Line Lot End Check Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+
+[200151]
+COUNT = 3
+1 = It is Out Conveyor B-Line Lot End Check On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+
+[201000]
+COUNT = 4
+1 = It is Sorting Robot Picker #1 Vacuum On/Off Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[201001]
+COUNT = 4
+1 = It is Sorting Robot Picker #1 Vacuum On/Off On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[201010]
+COUNT = 4
+1 = It is Sorting Robot Picker #2 Vacuum On/Off Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[201011]
+COUNT = 4
+1 = It is Sorting Robot Picker #2 Vacuum On/Off On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[201020]
+COUNT = 4
+1 = It is Sorting Robot Picker #3 Vacuum On/Off Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[201021]
+COUNT = 4
+1 = It is Sorting Robot Picker #3 Vacuum On/Off On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[201030]
+COUNT = 4
+1 = It is Sorting Robot Picker #4 Vacuum On/Off Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[201031]
+COUNT = 4
+1 = It is Sorting Robot Picker #4 Vacuum On/Off On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[201040]
+COUNT = 4
+1 = It is Sorting Robot Picker #1 Ejector On/Off Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[201041]
+COUNT = 4
+1 = It is Sorting Robot Picker #1 Ejector On/Off On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[201050]
+COUNT = 4
+1 = It is Sorting Robot Picker #2 Ejector On/Off Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[201051]
+COUNT = 4
+1 = It is Sorting Robot Picker #2 Ejector On/Off On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[201060]
+COUNT = 4
+1 = It is Sorting Robot Picker #3 Ejector On/Off Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[201061]
+COUNT = 4
+1 = It is Sorting Robot Picker #3 Ejector On/Off On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[201070]
+COUNT = 4
+1 = It is Sorting Robot Picker #4 Ejector On/Off Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[201071]
+COUNT = 4
+1 = It is Sorting Robot Picker #4 Ejector On/Off On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[201090]
+COUNT = 4
+1 = It is Sorting Robot Picker #1 Vacuum Check Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[201091]
+COUNT = 4
+1 = It is Sorting Robot Picker #1 Vacuum Check On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[201100]
+COUNT = 4
+1 = It is Sorting Robot Picker #2 Vacuum Check Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[201101]
+COUNT = 4
+1 = It is Sorting Robot Picker #2 Vacuum Check On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[201110]
+COUNT = 4
+1 = It is Sorting Robot Picker #3 Vacuum Check Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[201111]
+COUNT = 4
+1 = It is Sorting Robot Picker #3 Vacuum Check On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[201120]
+COUNT = 4
+1 = It is Sorting Robot Picker #4 Vacuum Check Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[201121]
+COUNT = 4
+1 = It is Sorting Robot Picker #4 Vacuum Check On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[202000]
+COUNT = 4
+1 = It is Sorting Robot Picker #1 Cylinder On/Off Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[202001]
+COUNT = 4
+1 = It is Sorting Robot Picker #1 Cylinder On/Off On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[202010]
+COUNT = 4
+1 = It is Sorting Robot Picker #2 Cylinder On/Off Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[202011]
+COUNT = 4
+1 = It is Sorting Robot Picker #2 Cylinder On/Off On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[202020]
+COUNT = 4
+1 = It is Sorting Robot Picker #3 Cylinder On/Off Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[202021]
+COUNT = 4
+1 = It is Sorting Robot Picker #3 Cylinder On/Off On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[202030]
+COUNT = 4
+1 = It is Sorting Robot Picker #4 Cylinder On/Off Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[202031]
+COUNT = 4
+1 = It is Sorting Robot Picker #4 Cylinder On/Off On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[202060]
+COUNT = 4
+1 = It is Sorting Robot Picker #1 Cylinder Up Check Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[202061]
+COUNT = 4
+1 = It is Sorting Robot Picker #1 Cylinder Up Check On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[202070]
+COUNT = 4
+1 = It is Sorting Robot Picker #1 Cylinder Down Check Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[202071]
+COUNT = 4
+1 = It is Sorting Robot Picker #1 Cylinder Down Check On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[202080]
+COUNT = 4
+1 = It is Sorting Robot Picker #2 Cylinder Up Check Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[202081]
+COUNT = 4
+1 = It is Sorting Robot Picker #2 Cylinder Up Check On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[202090]
+COUNT = 4
+1 = It is Sorting Robot Picker #2 Cylinder Down Check Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[202091]
+COUNT = 4
+1 = It is Sorting Robot Picker #2 Cylinder Down Check On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[202100]
+COUNT = 4
+1 = It is Sorting Robot Picker #3 Cylinder Up Check Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[202101]
+COUNT = 4
+1 = It is Sorting Robot Picker #3 Cylinder Up Check On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[202110]
+COUNT = 4
+1 = It is Sorting Robot Picker #3 Cylinder Down Check Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[202111]
+COUNT = 4
+1 = It is Sorting Robot Picker #3 Cylinder Down Check On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[202120]
+COUNT = 4
+1 = It is Sorting Robot Picker #4 Cylinder Up Check Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[202121]
+COUNT = 4
+1 = It is Sorting Robot Picker #4 Cylinder Up Check On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[202130]
+COUNT = 4
+1 = It is Sorting Robot Picker #4 Cylinder Down Check Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[202131]
+COUNT = 4
+1 = It is Sorting Robot Picker #4 Cylinder Down Check On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[203000]
+COUNT = 3
+1 = It is Loading Buffer Device Check #1 Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+
+[203001]
+COUNT = 3
+1 = It is Loading Buffer Device Check #1 On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+
+[203010]
+COUNT = 3
+1 = It is Loading Buffer Device Check #2 Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+
+[203011]
+COUNT = 3
+1 = It is Loading Buffer Device Check #2 On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+
+[203020]
+COUNT = 3
+1 = It is Loading Buffer Device Check #3 Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+
+[203021]
+COUNT = 3
+1 = It is Loading Buffer Device Check #3 On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+
+[203030]
+COUNT = 3
+1 = It is Loading Buffer Device Check #4 Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+
+[203031]
+COUNT = 3
+1 = It is Loading Buffer Device Check #4 On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+
+[203040]
+COUNT = 3
+1 = It is UnLoading Buffer Device Check #1 Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+
+[203041]
+COUNT = 3
+1 = It is UnLoading Buffer Device Check #1 On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+
+[203050]
+COUNT = 3
+1 = It is UnLoading Buffer Device Check #2 Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+
+[203051]
+COUNT = 3
+1 = It is UnLoading Buffer Device Check #2 On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+
+[203060]
+COUNT = 3
+1 = It is UnLoading Buffer Device Check #3 Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+
+[203061]
+COUNT = 3
+1 = It is UnLoading Buffer Device Check #3 On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+
+[203070]
+COUNT = 3
+1 = It is UnLoading Buffer Device Check #4 Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+
+[203071]
+COUNT = 3
+1 = It is UnLoading Buffer Device Check #4 On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+
+[203080]
+COUNT = 3
+1 = Loading Buffer Y-Axis Device Check Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+
+[203081]
+COUNT = 3
+1 = Loading Buffer Y-Axis Device Check On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+
+[203090]
+COUNT = 3
+1 = UnLoading Buffer Y-Axis Device Check Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+
+[203091]
+COUNT = 3
+1 = UnLoading Buffer Y-Axis Device Check On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+
+[204000]
+COUNT = 4
+1 = It is Test-Site Picker Robot #1 Vacuum On/Off Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[204001]
+COUNT = 4
+1 = It is Test-Site Picker Robot #1 Vacuum On/Off On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[204010]
+COUNT = 4
+1 = It is Test-Site Picker Robot #2 Vacuum On/Off Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[204011]
+COUNT = 4
+1 = It is Test-Site Picker Robot #2 Vacuum On/Off On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[204020]
+COUNT = 4
+1 = It is Test-Site Picker Robot #3 Vacuum On/Off Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[204021]
+COUNT = 4
+1 = It is Test-Site Picker Robot #3 Vacuum On/Off On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[204030]
+COUNT = 4
+1 = It is Test-Site Picker Robot #4 Vacuum On/Off Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[204031]
+COUNT = 4
+1 = It is Test-Site Picker Robot #4 Vacuum On/Off On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[204040]
+COUNT = 4
+1 = It is Test-Site Picker Robot #1 Ejector On/Off Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[204041]
+COUNT = 4
+1 = It is Test-Site Picker Robot #1 Ejector On/Off On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[204050]
+COUNT = 4
+1 = It is Test-Site Picker Robot #2 Ejector On/Off Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[204051]
+COUNT = 4
+1 = It is Test-Site Picker Robot #2 Ejector On/Off On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[204060]
+COUNT = 4
+1 = It is Test-Site Picker Robot #3 Ejector On/Off Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[204061]
+COUNT = 4
+1 = It is Test-Site Picker Robot #3 Ejector On/Off On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[204070]
+COUNT = 4
+1 = It is Test-Site Picker Robot #4 Ejector On/Off Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[204071]
+COUNT = 4
+1 = It is Test-Site Picker Robot #4 Ejector On/Off On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[204080]
+COUNT = 4
+1 = It is Test-Site Picker Robot Rotator Cylinder On Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[204081]
+COUNT = 4
+1 = It is Test-Site Picker Robot Rotator Cylinder On On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[204090]
+COUNT = 4
+1 = It is Test-Site Picker Robot Rotator Cylinder Off Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[204091]
+COUNT = 4
+1 = It is Test-Site Picker Robot Rotator Cylinder Off On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[204100]
+COUNT = 4
+1 = It is Test-Site Picker Robot #1 Vacuum Check Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[204101]
+COUNT = 4
+1 = It is Test-Site Picker Robot #1 Vacuum Check On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[204110]
+COUNT = 4
+1 = It is Test-Site Picker Robot #2 Vacuum Check Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[204111]
+COUNT = 4
+1 = It is Test-Site Picker Robot #2 Vacuum Check On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[204120]
+COUNT = 4
+1 = It is Test-Site Picker Robot #3 Vacuum Check Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[204121]
+COUNT = 4
+1 = It is Test-Site Picker Robot #3 Vacuum Check On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[204130]
+COUNT = 4
+1 = It is Test-Site Picker Robot #4 Vacuum Check Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[204131]
+COUNT = 4
+1 = It is Test-Site Picker Robot #4 Vacuum Check On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[204140]
+COUNT = 4
+1 = It is Test-Site Picker Robot Rotator Cylinder On Check Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[204141]
+COUNT = 4
+1 = It is Test-Site Picker Robot Rotator Cylinder On Check On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[204150]
+COUNT = 4
+1 = It is Test-Site Picker Robot Rotator Cylinder Off Check Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[204151]
+COUNT = 4
+1 = It is Test-Site Picker Robot Rotator Cylinder Off Check On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[205000]
+COUNT = 4
+1 = It is Hifix Clamp Cylinder On/Off Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[205001]
+COUNT = 4
+1 = It is Hifix Clamp Cylinder On/Off On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[205010]
+COUNT = 4
+1 = It is Hifix UnClamp Cylinder On/Off Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[205011]
+COUNT = 4
+1 = It is Hifix UnClamp Cylinder On/Off On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[205020]
+COUNT = 4
+1 = It is Test-Site C.O.K Plate #1 Forward On/Off Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[205021]
+COUNT = 4
+1 = It is Test-Site C.O.K Plate #1 Forward On/Off On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[205030]
+COUNT = 4
+1 = It is Test-Site C.O.K Plate #1 Backward On/Off Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[205031]
+COUNT = 4
+1 = It is Test-Site C.O.K Plate #1 Backward On/Off On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[205040]
+COUNT = 4
+1 = It is Test-Site C.O.K Plate #2 Forward On/Off Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[205041]
+COUNT = 4
+1 = It is Test-Site C.O.K Plate #2 Forward On/Off On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[205050]
+COUNT = 4
+1 = It is Test-Site C.O.K Plate #2 Backward On/Off Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[205051]
+COUNT = 4
+1 = It is Test-Site C.O.K Plate #2 Backward On/Off On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[205060]
+COUNT = 4
+1 = It is Test-Site C.O.K Plate #3 Forward On/Off Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[205061]
+COUNT = 4
+1 = It is Test-Site C.O.K Plate #3 Forward On/Off On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[205070]
+COUNT = 4
+1 = It is Test-Site C.O.K Plate #3 Backward On/Off Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[205071]
+COUNT = 4
+1 = It is Test-Site C.O.K Plate #3 Backward On/Off On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[205080]
+COUNT = 4
+1 = It is Test-Site C.O.K Plate #4 Forward On/Off Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[205081]
+COUNT = 4
+1 = It is Test-Site C.O.K Plate #4 Forward On/Off On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[205090]
+COUNT = 4
+1 = It is Test-Site C.O.K Plate #4 Backward On/Off Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[205091]
+COUNT = 4
+1 = It is Test-Site C.O.K Plate #4 Backward On/Off On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[205100]
+COUNT = 4
+1 = It is Test-Site C.O.K Plate #5 Forward On/Off Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[205101]
+COUNT = 4
+1 = It is Test-Site C.O.K Plate #5 Forward On/Off On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[205110]
+COUNT = 4
+1 = It is Test-Site C.O.K Plate #5 Backward On/Off Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[205111]
+COUNT = 4
+1 = It is Test-Site C.O.K Plate #5 Backward On/Off On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[205120]
+COUNT = 4
+1 = It is Test-Site C.O.K Lock/UnLock Cylinder #1 On/Off Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[205121]
+COUNT = 4
+1 = It is Test-Site C.O.K Lock/UnLock Cylinder #1 On/Off On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[205130]
+COUNT = 4
+1 = It is Test-Site C.O.K Lock/UnLock Cylinder #2 On/Off Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[205131]
+COUNT = 4
+1 = It is Test-Site C.O.K Lock/UnLock Cylinder #2 On/Off On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[205140]
+COUNT = 4
+1 = It is Test-Site C.O.K Lock/UnLock Cylinder #3 On/Off Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[205141]
+COUNT = 4
+1 = It is Test-Site C.O.K Lock/UnLock Cylinder #3 On/Off On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[205150]
+COUNT = 4
+1 = It is Test-Site C.O.K Lock/UnLock Cylinder #4 On/Off Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[205151]
+COUNT = 4
+1 = It is Test-Site C.O.K Lock/UnLock Cylinder #4 On/Off On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[206000]
+COUNT = 4
+1 = It is Test-Site C.O.K Lock/UnLock Cylinder #5 On/Off Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[206001]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #1-1 Forward/Backward On/Off On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[206010]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #1-1 Forward/Backward On/Off Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[206011]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #1-1 Forward/Backward On/Off On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[206020]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #1-2 Forward/Backward On/Off Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[206021]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #1-2 Forward/Backward On/Off On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[206030]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #1-3 Forward/Backward On/Off Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[206031]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #1-3 Forward/Backward On/Off On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[206040]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #1-4 Forward/Backward On/Off Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[206041]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #1-4 Forward/Backward On/Off On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[206050]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #1-5 Forward/Backward On/Off Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[206051]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #1-5 Forward/Backward On/Off On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[206060]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #1-6 Forward/Backward On/Off Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[206061]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #1-6 Forward/Backward On/Off On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[206070]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #2-1 Forward/Backward On/Off Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[206071]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #2-1 Forward/Backward On/Off On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[206080]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #2-2 Forward/Backward On/Off Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[206081]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #2-2 Forward/Backward On/Off On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[206090]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #2-3 Forward/Backward On/Off Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[206091]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #2-3 Forward/Backward On/Off On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[206100]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #2-4 Forward/Backward On/Off Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[206101]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #2-4 Forward/Backward On/Off On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[206110]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #2-5 Forward/Backward On/Off Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[206111]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #2-5 Forward/Backward On/Off On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[206120]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #2-6 Forward/Backward On/Off Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[206121]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #2-6 Forward/Backward On/Off On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[206130]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #3-1 Forward/Backward On/Off Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[206131]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #3-1 Forward/Backward On/Off On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[206140]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #3-2 Forward/Backward On/Off Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[206141]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #3-2 Forward/Backward On/Off On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[206150]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #3-3 Forward/Backward On/Off Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[206151]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #3-3 Forward/Backward On/Off On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[207000]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #3-4 Forward/Backward On/Off Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[207001]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #3-4 Forward/Backward On/Off On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[207010]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #3-5 Forward/Backward On/Off Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[207011]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #3-5 Forward/Backward On/Off On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[207020]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #3-6 Forward/Backward On/Off Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[207021]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #3-6 Forward/Backward On/Off On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[207030]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #4-1 Forward/Backward On/Off Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[207031]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #4-1 Forward/Backward On/Off On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[207040]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #4-2 Forward/Backward On/Off Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[207041]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #4-2 Forward/Backward On/Off On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[207050]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #4-3 Forward/Backward On/Off Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[207051]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #4-3 Forward/Backward On/Off On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[207060]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #4-4 Forward/Backward On/Off Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[207061]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #4-4 Forward/Backward On/Off On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[207070]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #4-5 Forward/Backward On/Off Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[207071]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #4-5 Forward/Backward On/Off On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[207080]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #4-6 Forward/Backward On/Off Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[207081]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #4-6 Forward/Backward On/Off On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[207090]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #5-1 Forward/Backward On/Off Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[207091]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #5-1 Forward/Backward On/Off On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[207100]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #5-2 Forward/Backward On/Off Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[207101]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #5-2 Forward/Backward On/Off On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[207110]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #5-3 Forward/Backward On/Off Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[207111]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #5-3 Forward/Backward On/Off On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[207120]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #5-4 Forward/Backward On/Off Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[207121]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #5-4 Forward/Backward On/Off On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[207130]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #5-5 Forward/Backward On/Off Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[207131]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #5-5 Forward/Backward On/Off On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[207140]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #5-6 Forward/Backward On/Off Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[207141]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #5-6 Forward/Backward On/Off On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[210000]
+COUNT = 4
+1 = It is Hifix Left Clamp Check Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[210001]
+COUNT = 4
+1 = It is Hifix Left Clamp Check On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[210010]
+COUNT = 4
+1 = It is Hifix Left UnClamp Check Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[210011]
+COUNT = 4
+1 = It is Hifix Left UnClamp Check On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[210020]
+COUNT = 4
+1 = It is Hifix Right Clamp Check Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[210021]
+COUNT = 4
+1 = It is Hifix Right Clamp Check On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[210030]
+COUNT = 4
+1 = It is Hifix Right UnClamp Check Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[210031]
+COUNT = 4
+1 = It is Hifix Right UnClamp Check On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[210040]
+COUNT = 4
+1 = It is Test-Site C.O.K Plate #1 Forward Check Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[210041]
+COUNT = 4
+1 = It is Test-Site C.O.K Plate #1 Forward Check On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[210050]
+COUNT = 4
+1 = It is Test-Site C.O.K Plate #1 Backward Check Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[210051]
+COUNT = 4
+1 = It is Test-Site C.O.K Plate #1 Backward Check On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[210060]
+COUNT = 4
+1 = It is Test-Site C.O.K Plate #2 Forward Check Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[210061]
+COUNT = 4
+1 = It is Test-Site C.O.K Plate #2 Forward Check On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[210070]
+COUNT = 4
+1 = It is Test-Site C.O.K Plate #2 Backward Check Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[210071]
+COUNT = 4
+1 = It is Test-Site C.O.K Plate #2 Backward Check On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[210080]
+COUNT = 4
+1 = It is Test-Site C.O.K Plate #3 Forward Check Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[210081]
+COUNT = 4
+1 = It is Test-Site C.O.K Plate #3 Forward Check On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[210090]
+COUNT = 4
+1 = It is Test-Site C.O.K Plate #3 Backward Check Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[210091]
+COUNT = 4
+1 = It is Test-Site C.O.K Plate #3 Backward Check On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[210100]
+COUNT = 4
+1 = It is Test-Site C.O.K Plate #4 Forward Check Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[210101]
+COUNT = 4
+1 = It is Test-Site C.O.K Plate #4 Forward Check On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[210110]
+COUNT = 4
+1 = It is Test-Site C.O.K Plate #4 Backward Check Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[210111]
+COUNT = 4
+1 = It is Test-Site C.O.K Plate #4 Backward Check On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[210120]
+COUNT = 4
+1 = It is Test-Site C.O.K Plate #5 Forward Check Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[210121]
+COUNT = 4
+1 = It is Test-Site C.O.K Plate #5 Forward Check On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[210130]
+COUNT = 4
+1 = It is Test-Site C.O.K Plate #5 Backward Check Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[210131]
+COUNT = 4
+1 = It is Test-Site C.O.K Plate #5 Backward Check On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[210140]
+COUNT = 4
+1 = It is Test-Site MP Forward Check Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[210141]
+COUNT = 4
+1 = It is Test-Site MP Forward Check On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[210150]
+COUNT = 4
+1 = It is Test-Site MP Backward Check Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[210151]
+COUNT = 4
+1 = It is Test-Site MP Backward Check On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[211000]
+COUNT = 4
+1 = It is Test-Site C.O.K Lock #1 Check Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[211001]
+COUNT = 4
+1 = It is Test-Site C.O.K Lock #1 Check On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[211010]
+COUNT = 4
+1 = It is Test-Site C.O.K UnLock #1 Check Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[211011]
+COUNT = 4
+1 = It is Test-Site C.O.K UnLock #1 Check On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[211020]
+COUNT = 4
+1 = It is Test-Site C.O.K Lock #2 Check Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[211021]
+COUNT = 4
+1 = It is Test-Site C.O.K Lock #2 Check On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[211030]
+COUNT = 4
+1 = It is Test-Site C.O.K UnLock #2 Check Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[211031]
+COUNT = 4
+1 = It is Test-Site C.O.K UnLock #2 Check On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[211040]
+COUNT = 4
+1 = It is Test-Site C.O.K Lock #3 Check Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[211041]
+COUNT = 4
+1 = It is Test-Site C.O.K Lock #3 Check On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[211050]
+COUNT = 4
+1 = It is Test-Site C.O.K UnLock #3 Check Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[211051]
+COUNT = 4
+1 = It is Test-Site C.O.K UnLock #3 Check On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[211060]
+COUNT = 4
+1 = It is Test-Site C.O.K Lock #4 Check Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[211061]
+COUNT = 4
+1 = It is Test-Site C.O.K Lock #4 Check On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[211070]
+COUNT = 4
+1 = It is Test-Site C.O.K UnLock #4 Check Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[211071]
+COUNT = 4
+1 = It is Test-Site C.O.K UnLock #4 Check On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[211080]
+COUNT = 4
+1 = It is Test-Site C.O.K Lock #5 Check Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[211081]
+COUNT = 4
+1 = It is Test-Site C.O.K Lock #5 Check On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[211090]
+COUNT = 4
+1 = It is Test-Site C.O.K UnLock #5 Check Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[211091]
+COUNT = 4
+1 = It is Test-Site C.O.K UnLock #5 Check On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[211100]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #1-1 Forward Check Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[211101]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #1-1 Forward Check On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[211110]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #1-1 Backward Check Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[211111]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #1-1 Backward Check On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[211120]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #1-2 Forward Check Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[211121]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #1-2 Forward Check On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[211130]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #1-2 Backward Check Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[211131]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #1-2 Backward Check On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[211140]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #1-3 Forward Check Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[211141]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #1-3 Forward Check On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[211150]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #1-3 Backward Check Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[211151]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #1-3 Backward Check On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[212000]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #1-4 Forward Check Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[212001]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #1-4 Forward Check On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[212010]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #1-4 Backward Check Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[212011]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #1-4 Backward Check On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[212020]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #1-5 Forward Check Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[212021]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #1-5 Forward Check On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[212030]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #1-5 Backward Check Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[212031]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #1-5 Backward Check On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[212040]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #1-6 Forward Check Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[212041]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #1-6 Forward Check On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[212050]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #1-6 Backward Check Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[212051]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #1-6 Backward Check On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[212060]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #2-1 Forward Check Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[212061]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #2-1 Forward Check On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[212070]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #2-1 Backward Check Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[212071]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #2-1 Backward Check On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[212080]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #2-2 Forward Check Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[212081]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #2-2 Forward Check On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[212090]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #2-2 Backward Check Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[212091]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #2-2 Backward Check On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[212100]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #2-3 Forward Check Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[212101]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #2-3 Forward Check On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[212110]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #2-3 Backward Check Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[212111]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #2-3 Backward Check On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[212120]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #2-4 Forward Check Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[212121]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #2-4 Forward Check On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[212130]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #2-4 Backward Check Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[212131]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #2-4 Backward Check On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[212140]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #2-5 Forward Check Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[212141]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #2-5 Forward Check On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[212150]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #2-5 Backward Check Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[212151]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #2-5 Backward Check On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[213000]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #2-6 Forward Check Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[213001]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #2-6 Forward Check On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[213010]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #2-6 Backward Check Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[213011]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #2-6 Backward Check On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[213020]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #3-1 Forward Check Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[213021]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #3-1 Forward Check On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[213030]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #3-1 Backward Check Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[213031]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #3-1 Backward Check On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[213040]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #3-2 Forward Check Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[213041]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #3-2 Forward Check On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[213050]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #3-2 Backward Check Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[213051]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #3-2 Backward Check On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[213060]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #3-3 Forward Check Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[213061]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #3-3 Forward Check On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[213070]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #3-3 Backward Check Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[213071]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #3-3 Backward Check On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[213080]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #3-4 Forward Check Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[213081]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #3-4 Forward Check On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[213090]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #3-4 Backward Check Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[213091]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #3-4 Backward Check On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[213100]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #3-5 Forward Check Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[213101]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #3-5 Forward Check On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[213110]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #3-5 Backward Check Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[213111]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #3-5 Backward Check On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[213120]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #3-6 Forward Check Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[213121]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #3-6 Forward Check On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[213130]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #3-6 Backward Check Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[213131]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #3-6 Backward Check On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[213140]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #4-1 Forward Check Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[213141]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #4-1 Forward Check On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[213150]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #4-1 Backward Check Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[213151]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #4-1 Backward Check On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[214000]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #4-2 Forward Check Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[214001]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #4-2 Forward Check On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[214010]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #4-2 Backward Check Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[214011]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #4-2 Backward Check On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[214020]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #4-3 Forward Check Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[214021]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #4-3 Forward Check On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[214030]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #4-3 Backward Check Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[214031]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #4-3 Backward Check On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[214040]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #4-4 Forward Check Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[214041]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #4-4 Forward Check On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[214050]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #4-4 Backward Check Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[214051]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #4-4 Backward Check On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[214060]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #4-5 Forward Check Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[214061]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #4-5 Forward Check On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[214070]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #4-5 Backward Check Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[214071]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #4-5 Backward Check On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[214080]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #4-6 Forward Check Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[214081]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #4-6 Forward Check On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[214090]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #4-6 Backward Check Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[214091]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #4-6 Backward Check On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[214100]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #5-1 Forward Check Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[214101]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #5-1 Forward Check On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[214110]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #5-1 Backward Check Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[214111]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #5-1 Backward Check On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[214120]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #5-2 Forward Check Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[214121]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #5-2 Forward Check On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[214130]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #5-2 Backward Check Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[214131]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #5-2 Backward Check On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[214140]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #5-3 Forward Check Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[214141]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #5-3 Forward Check On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[214150]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #5-3 Backward Check Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[214151]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #5-3 Backward Check On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[215000]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #5-4 Forward Check Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[215001]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #5-4 Forward Check On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[215010]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #5-4 Backward Check Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[215011]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #5-4 Backward Check On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[215020]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #5-5 Forward Check Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[215021]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #5-5 Forward Check On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[215030]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #5-5 Backward Check Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[215031]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #5-5 Backward Check On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[215040]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #5-6 Forward Check Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[215041]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #5-6 Forward Check On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[215050]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #5-6 Backward Check Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[215051]
+COUNT = 4
+1 = It is Test-Site C.O.K Insert #5-6 Backward Check On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[216000]
+COUNT = 4
+1 = It is Reject #1 Clamp On/Off Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[216001]
+COUNT = 4
+1 = It is Reject #1 Clamp On/Off On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[216010]
+COUNT = 4
+1 = It is Reject #1 UnClamp On/Off Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[216011]
+COUNT = 4
+1 = It is Reject #1 UnClamp On/Off On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[216020]
+COUNT = 4
+1 = It is Reject #2 Clamp On/Off Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[216021]
+COUNT = 4
+1 = It is Reject #2 Clamp On/Off On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[216030]
+COUNT = 4
+1 = It is Reject #2 UnClamp On/Off Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[216031]
+COUNT = 4
+1 = It is Reject #2 UnClamp On/Off On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[216080]
+COUNT = 4
+1 = It is Reject #1 Clamp Check Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[216081]
+COUNT = 4
+1 = It is Reject #1 Clamp Check On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[216090]
+COUNT = 4
+1 = It is Reject #1 UnClamp Check Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[216091]
+COUNT = 4
+1 = It is Reject #1 UnClamp Check On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[216100]
+COUNT = 4
+1 = It is Reject #2 Clamp Check Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[216101]
+COUNT = 4
+1 = It is Reject #2 Clamp Check On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[216110]
+COUNT = 4
+1 = It is Reject #2 UnClamp Check Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[216111]
+COUNT = 4
+1 = It is Reject #2 UnClamp Check On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[216120]
+COUNT = 4
+1 = It is Reject #1 Tray Check Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[216121]
+COUNT = 4
+1 = It is Reject #1 Tray Check On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[216130]
+COUNT = 4
+1 = It is Reject #2 Tray Check Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[216131]
+COUNT = 4
+1 = It is Reject #2 Tray Check On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[216140]
+COUNT = 4
+1 = Reject #1 Flipper Insert Check Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[216141]
+COUNT = 4
+1 = Reject #1 Flipper Insert Check On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[216150]
+COUNT = 4
+1 = Reject #2 Flipper Insert Check Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[216151]
+COUNT = 4
+1 = Reject #2 Flipper Insert Check On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[217000]
+COUNT = 3
+1 = It is Start Switch Lamp Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+
+[217001]
+COUNT = 3
+1 = It is Start Switch Lamp On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+
+[217010]
+COUNT = 3
+1 = It is Start Switch Lamp Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+
+[217011]
+COUNT = 3
+1 = It is Start Switch Lamp On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+
+[217020]
+COUNT = 3
+1 = It is Alarm Clear Lamp Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+
+[217021]
+COUNT = 3
+1 = It is Alarm Clear Lamp On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+
+[217030]
+COUNT = 3
+1 = It is Buzzer Off Lamp Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+
+[217031]
+COUNT = 3
+1 = It is Buzzer Off Lamp On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+
+[217080]
+COUNT = 3
+1 = It is Start Switch Check Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+
+[217081]
+COUNT = 3
+1 = It is Start Switch Check On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+
+[217090]
+COUNT = 3
+1 = It is Stop Switch Check Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+
+[217091]
+COUNT = 3
+1 = It is Stop Switch Check On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+
+[217100]
+COUNT = 3
+1 = It is Alarm Clear Check Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+
+[217101]
+COUNT = 3
+1 = It is Alarm Clear Check On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+
+[217110]
+COUNT = 3
+1 = It is Buzzer Off Check Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+
+[217111]
+COUNT = 3
+1 = It is Buzzer Off Check On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+
+[217120]
+COUNT = 3
+1 = It is Auto Mode Switch Check Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+
+[217121]
+COUNT = 3
+1 = It is Auto Mode Switch Check On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+
+[217130]
+COUNT = 3
+1 = It is Manual Mode Switch Check Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+
+[217131]
+COUNT = 3
+1 = It is Manual Mode Switch Check On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+
+[217140]
+COUNT = 3
+1 = It is Front Select Switch Check(Auto/Manual) Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+
+[217141]
+COUNT = 3
+1 = It is Front Select Switch Check(Auto/Manual) On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+
+[217150]
+COUNT = 3
+1 = It is Rear Select Switch Check(Auto/Manual) Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+
+[217151]
+COUNT = 3
+1 = It is Rear Select Switch Check(Auto/Manual) On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+
+[220000]
+COUNT = 4
+1 = It is Main Air On/Off Off Error.
+2 = Please supply air.
+3 = Confirm whether sensor state is normally.
+4 = Confirm I/O Module is normally.
+
+[220001]
+COUNT = 4
+1 = It is Main Air On/Off On Error.
+2 = Please supply air.
+3 = Confirm whether sensor state is normally.
+4 = Confirm I/O Module is normally.
+
+[220010]
+COUNT = 2
+1 = It is Tower Green Lamp Off Error.
+2 = Confirm whether I/O Module is normally.
+
+[220011]
+COUNT = 2
+1 = It is Tower Green Lamp On Error.
+2 = Confirm whether I/O Module is normally.
+
+[220020]
+COUNT = 2
+1 = It is Tower Yellow Lamp Off Error.
+2 = Confirm whether I/O Module is normally.
+
+[220021]
+COUNT = 2
+1 = It is Tower Yellow Lamp On Error.
+2 = Confirm whether I/O Module is normally.
+
+[220030]
+COUNT = 2
+1 = It is Tower Red Lamp Off Error.
+2 = Confirm whether I/O Module is normally.
+
+[220031]
+COUNT = 2
+1 = It is Tower Red Lamp On Error.
+2 = Confirm whether I/O Module is normally.
+
+[220040]
+COUNT = 2
+1 = It is Buzzer1 On/Off Off Error.
+2 = Confirm whether I/O Module is normally.
+
+[220041]
+COUNT = 2
+1 = It is Buzzer1 On/Off On Error.
+2 = Confirm whether I/O Module is normally.
+
+[220050]
+COUNT = 2
+1 = It is Buzzer2 On/Off Off Error.
+2 = Confirm whether I/O Module is normally.
+
+[220051]
+COUNT = 2
+1 = It is Buzzer2 On/Off On Error.
+2 = Confirm whether I/O Module is normally.
+
+[220060]
+COUNT = 4
+1 = It is Door Lock On/Off (All Door) Off Error.
+2 = Close the door and try the handler.
+3 = Confirm whether sensor state is normally.
+4 = Confirm whether I/O Module is normally.
+
+[220061]
+COUNT = 4
+1 = It is Door Lock On/Off (All Door) On Error.
+2 = Close the door and try the handler.
+3 = Confirm whether sensor state is normally.
+4 = Confirm whether I/O Module is normally.
+
+[220080]
+COUNT = 4
+1 = Air Supply is not detected.
+2 = Close the door and try the handler.
+3 = Confirm whether sensor state is normally.
+4 = Confirm whether I/O Module is normally.
+
+[220081]
+COUNT = 4
+1 = Air Supply is detected.
+2 = Close the door and try the handler.
+3 = Confirm whether sensor state is normally.
+4 = Confirm whether I/O Module is normally.
+
+[220090]
+COUNT = 4
+1 = It is Door1 Open/Close Check Off Error.
+2 = Close the door and try the handler.
+3 = Confirm whether sensor state is normally.
+4 = Confirm whether I/O Module is normally.
+
+[220091]
+COUNT = 4
+1 = It is Door1 Open/Close Check On Error.
+2 = Close the door and try the handler.
+3 = Confirm whether sensor state is normally.
+4 = Confirm whether I/O Module is normally.
+
+[220100]
+COUNT = 4
+1 = It is Door2 Open/Close Check Off Error.
+2 = Close the door and try the handler.
+3 = Confirm whether sensor state is normally.
+4 = Confirm whether I/O Module is normally.
+
+[220101]
+COUNT = 4
+1 = It is Door2 Open/Close Check On Error.
+2 = Close the door and try the handler.
+3 = Confirm whether sensor state is normally.
+4 = Confirm whether I/O Module is normally.
+
+[220110]
+COUNT = 4
+1 = It is Door3 Open/Close Check Off Error.
+2 = Close the door and try the handler.
+3 = Confirm whether sensor state is normally.
+4 = Confirm whether I/O Module is normally.
+
+[220111]
+COUNT = 4
+1 = It is Door3 Open/Close Check On Error.
+2 = Close the door and try the handler.
+3 = Confirm whether sensor state is normally.
+4 = Confirm whether I/O Module is normally.
+
+[220120]
+COUNT = 4
+1 = It is Door4 Open/Close Check Off Error.
+2 = Close the door and try the handler.
+3 = Confirm whether sensor state is normally.
+4 = Confirm whether I/O Module is normally.
+
+[220121]
+COUNT = 4
+1 = It is Door4 Open/Close Check On Error.
+2 = Close the door and try the handler.
+3 = Confirm whether sensor state is normally.
+4 = Confirm whether I/O Module is normally.
+
+[220130]
+COUNT = 4
+1 = It is Door5 Open/Close Check Off Error.
+2 = Close the door and try the handler.
+3 = Confirm whether sensor state is normally.
+4 = Confirm whether I/O Module is normally.
+
+[220131]
+COUNT = 4
+1 = It is Door5 Open/Close Check On Error.
+2 = Close the door and try the handler.
+3 = Confirm whether sensor state is normally.
+4 = Confirm whether I/O Module is normally.
+
+[220140]
+COUNT = 4
+1 = It is Door6 Open/Close Check Off Error.
+2 = Close the door and try the handler.
+3 = Confirm whether sensor state is normally.
+4 = Confirm whether I/O Module is normally.
+
+[220141]
+COUNT = 4
+1 = It is Door6 Open/Close Check On Error.
+2 = Close the door and try the handler.
+3 = Confirm whether sensor state is normally.
+4 = Confirm whether I/O Module is normally.
+
+[221080]
+COUNT = 1
+1 = It is MC Check (Emo/Door Safety Check) Off Error.
+
+[221081]
+COUNT = 1
+1 = It is MC Check (Emo/Door Safety Check) On Error.
+
+[221090]
+COUNT = 1
+1 = It is Test-Site Docking Safety Check1 Off Error.
+
+[221091]
+COUNT = 1
+1 = It is Test-Site Docking Safety Check1 On Error.
+
+[221100]
+COUNT = 1
+1 = It is Test-Site Docking Safety Check2 Off Error.
+
+[221101]
+COUNT = 1
+1 = It is Test-Site Docking Safety Check2 On Error.
+
+[221110]
+COUNT = 5
+1 = The 1 Emergency Stop Button is pressed on.
+2 = To Operate again emergency button is Pull.
+3 = Please turn on 24V Power in the rear of the handler.
+4 = Confirm whether sensor state is normally.
+5 = Confirm whether I/O MOdule is normally.
+
+[221111]
+COUNT = 5
+1 = The 1 Emergency Switch Check On Error.
+2 = To Operate again emergency button is Pull.
+3 = Please turn on 24V Power in the rear of the handler.
+4 = Confirm whether sensor state is normally.
+5 = Confirm whether I/O MOdule is normally.
+
+[221120]
+COUNT = 5
+1 = The 2 Emergency Stop Button is pressed on.
+2 = To Operate again emergency button is Pull.
+3 = Please turn on 24V Power in the rear of the handler.
+4 = Confirm whether sensor state is normally.
+5 = Confirm whether I/O MOdule is normally.
+
+[221121]
+COUNT = 5
+1 = The 2 Emergency Switch Check On Error.
+2 = To Operate again emergency button is Pull.
+3 = Please turn on 24V Power in the rear of the handler.
+4 = Confirm whether sensor state is normally.
+5 = Confirm whether I/O MOdule is normally.
+
+[222000]
+COUNT = 3
+1 = It is Front Shuttle Request Signal Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+
+[222001]
+COUNT = 3
+1 = It is Front Shuttle Request Signal On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+
+[222010]
+COUNT = 3
+1 = It is Front Shuttle Complete Signal Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+
+[222011]
+COUNT = 3
+1 = It is Front Shuttle Complete Signal On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+
+[222020]
+COUNT = 3
+1 = It is Rear Shuttle A-Line Transfer Signal Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+
+[222021]
+COUNT = 3
+1 = It is Rear Shuttle A-Line Transfer Signal On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+
+[222030]
+COUNT = 3
+1 = It is Rear Shuttle B-Line Transfer Signal Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+
+[222031]
+COUNT = 3
+1 = It is Rear Shuttle B-Line Transfer Signal On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+
+[222040]
+COUNT = 3
+1 = Rear Shuttle A-Line Flipper Signal Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+
+[222041]
+COUNT = 3
+1 = Rear Shuttle A-Line Flipper Signal On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+
+[222050]
+COUNT = 3
+1 = Rear Shuttle B-Line Flipper Signal Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+
+[222051]
+COUNT = 3
+1 = Rear Shuttle B-Line Flipper Signal On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+
+[222080]
+COUNT = 3
+1 = It is Front Shuttle Transfer Signal Check Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+
+[222081]
+COUNT = 3
+1 = It is Front Shuttle Transfer Signal Check On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+
+[222090]
+COUNT = 3
+1 = It is Rear Shuttle A-Line Request Signal Check Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+
+[222091]
+COUNT = 3
+1 = It is Rear Shuttle A-Line Request Signal Check On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+
+[222100]
+COUNT = 3
+1 = It is Rear Shuttle A-Line Complete Signal Check Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+
+[222101]
+COUNT = 3
+1 = It is Rear Shuttle A-Line Complete Signal Check On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+
+[222110]
+COUNT = 3
+1 = It is Rear Shuttle B-Line Request Signal Check Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+
+[222111]
+COUNT = 3
+1 = It is Rear Shuttle B-Line Request Signal Check On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+
+[222120]
+COUNT = 3
+1 = It is Rear Shuttle B-Line Complete Signal Check Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+
+[222121]
+COUNT = 3
+1 = It is Rear Shuttle B-Line Complete Signal Check On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+
+[222130]
+COUNT = 5
+1 = Front Shuttle Flipper Signal Check Off Error.
+2 = To Operate again emergency button is Pull.
+3 = Please turn on 24V Power in the rear of the handler.
+4 = Confirm whether sensor state is normally.
+5 = Confirm whether I/O MOdule is normally.
+
+[222131]
+COUNT = 5
+1 = Front Shuttle Flipper Signal Check On Error.
+2 = To Operate again emergency button is Pull.
+3 = Please turn on 24V Power in the rear of the handler.
+4 = Confirm whether sensor state is normally.
+5 = Confirm whether I/O MOdule is normally.
+
+[223000]
+COUNT = 3
+1 = Barcode Robot Picker #1 Cylinder Up/Down Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+
+[223001]
+COUNT = 3
+1 = Barcode Robot Picker #1 Cylinder Up/Down On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+
+[223010]
+COUNT = 3
+1 = Barcode Robot Picker #2 Cylinder Up/Down Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+
+[223011]
+COUNT = 3
+1 = Barcode Robot Picker #2 Cylinder Up/Down On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+
+[223020]
+COUNT = 3
+1 = Barcode Robot Picker #3 Cylinder Up/Down Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+
+[223021]
+COUNT = 3
+1 = Barcode Robot Picker #3 Cylinder Up/Down On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+
+[223030]
+COUNT = 3
+1 = Barcode Robot Picker #4 Cylinder Up/Down Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+
+[223031]
+COUNT = 3
+1 = Barcode Robot Picker #4 Cylinder Up/Down On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+
+[223040]
+COUNT = 3
+1 = Barcode Robot Rotator 0 degree Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+
+[223041]
+COUNT = 3
+1 = Barcode Robot Rotator 0 degree On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+
+[223050]
+COUNT = 3
+1 = Barcode Robot Rotator 180 degree Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+
+[223051]
+COUNT = 3
+1 = Barcode Robot Rotator 180 degree On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+
+[223060]
+COUNT = 3
+1 = Barcode Robot Picker #1 Cylinder Up Check Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+
+[223061]
+COUNT = 3
+1 = Barcode Robot Picker #1 Cylinder Up Check On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+
+[223070]
+COUNT = 3
+1 = Barcode Robot Picker #1 Cylinder Down Check Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+
+[223071]
+COUNT = 3
+1 = Barcode Robot Picker #1 Cylinder Down Check On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+
+[223080]
+COUNT = 3
+1 = Barcode Robot Picker #2 Cylinder Up Check Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+
+[223081]
+COUNT = 3
+1 = Barcode Robot Picker #2 Cylinder Up Check On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+
+[223090]
+COUNT = 3
+1 = Barcode Robot Picker #2 Cylinder Down Check Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+
+[223091]
+COUNT = 3
+1 = Barcode Robot Picker #2 Cylinder Down Check On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+
+[223100]
+COUNT = 3
+1 = Barcode Robot Picker #3 Cylinder Up Check Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+
+[223101]
+COUNT = 3
+1 = Barcode Robot Picker #3 Cylinder Up Check On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+
+[223110]
+COUNT = 3
+1 = Barcode Robot Picker #3 Cylinder Down Check Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+
+[223111]
+COUNT = 3
+1 = Barcode Robot Picker #3 Cylinder Down Check On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+
+[223120]
+COUNT = 3
+1 = Barcode Robot Picker #4 Cylinder Up Check Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+
+[223121]
+COUNT = 3
+1 = Barcode Robot Picker #4 Cylinder Up Check On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+
+[223130]
+COUNT = 3
+1 = Barcode Robot Picker #4 Cylinder Down Check Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+
+[223131]
+COUNT = 3
+1 = Barcode Robot Picker #4 Cylinder Down Check On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+
+[223140]
+COUNT = 3
+1 = Barcode Robot Rotator 0 degree Check Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+
+[223141]
+COUNT = 3
+1 = Barcode Robot Rotator 0 degree Check On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+
+[223150]
+COUNT = 3
+1 = Barcode Robot Rotator 180 degree Check Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+
+[223151]
+COUNT = 3
+1 = Barcode Robot Rotator 180 degree Check On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+
+[224000]
+COUNT = 3
+1 = Barcode Robot Picker #1 Vacuum On/Off Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+
+[224001]
+COUNT = 3
+1 = Barcode Robot Picker #1 Vacuum On/Off On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+
+[224010]
+COUNT = 3
+1 = Barcode Robot Picker #2 Vacuum On/Off Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+
+[224011]
+COUNT = 3
+1 = Barcode Robot Picker #2 Vacuum On/Off On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+
+[224020]
+COUNT = 3
+1 = Barcode Robot Picker #3 Vacuum On/Off Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+
+[224021]
+COUNT = 3
+1 = Barcode Robot Picker #3 Vacuum On/Off On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+
+[224030]
+COUNT = 3
+1 = Barcode Robot Picker #4 Vacuum On/Off Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+
+[224031]
+COUNT = 3
+1 = Barcode Robot Picker #4 Vacuum On/Off On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+
+[224040]
+COUNT = 3
+1 = Barcode Robot Picker #1 Reject On/Off Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+
+[224041]
+COUNT = 3
+1 = Barcode Robot Picker #1 Reject On/Off On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+
+[224050]
+COUNT = 3
+1 = Barcode Robot Picker #2 Reject On/Off Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+
+[224051]
+COUNT = 3
+1 = Barcode Robot Picker #2 Reject On/Off On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+
+[224060]
+COUNT = 3
+1 = Barcode Robot Picker #3 Reject On/Off Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+
+[224061]
+COUNT = 3
+1 = Barcode Robot Picker #3 Reject On/Off On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+
+[224070]
+COUNT = 3
+1 = Barcode Robot Picker #4 Reject On/Off Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+
+[224071]
+COUNT = 3
+1 = Barcode Robot Picker #4 Reject On/Off On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+
+[224090]
+COUNT = 3
+1 = Barcode Robot Picker #1 Vacuum Check Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+
+[224091]
+COUNT = 3
+1 = Barcode Robot Picker #1 Vacuum Check On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+
+[224100]
+COUNT = 3
+1 = Barcode Robot Picker #2 Vacuum Check Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+
+[224101]
+COUNT = 3
+1 = Barcode Robot Picker #2 Vacuum Check On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+
+[224110]
+COUNT = 3
+1 = Barcode Robot Picker #3 Vacuum Check Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+
+[224111]
+COUNT = 3
+1 = Barcode Robot Picker #3 Vacuum Check On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+
+[224120]
+COUNT = 3
+1 = Barcode Robot Picker #4 Vacuum Check Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+
+[224121]
+COUNT = 3
+1 = Barcode Robot Picker #4 Vacuum Check On Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+
+[400000]
+COUNT = 2
+1 = Barcode is not received.
+2 = Confirm whether the server is available.
+
+[400001]
+COUNT = 2
+1 = NO Read Barcode.
+2 = Confirm whether the server is available.
+
+[400002]
+COUNT = 2
+1 = Barcode Lot Mixed. Take out wrong barcode lot.
+2 = Bcr lot check.Take out wrong lot.
+
+[450000]
+COUNT = 3
+1 = Robot Z axis is not sensing safety sensor.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+
+[450001]
+COUNT = 3
+1 = NO Read Barcode.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+
+[450002]
+COUNT = 2
+1 = Barcode Lot Mixed. Take out wrong barcode lot.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+
+[450100]
+COUNT = 4
+1 = It is Sorting Robot Picker #1#2#3#4 Vacuum Check Off Error.
+2 = Confirm whether sensor state is normally.
+3 = Confirm whether I/O Module is normally.
+4 = Confirm air is supplied normally.
+
+[500000]
+COUNT = 2
+1 = Received incorrect Barcode#1 from server.
+2 = Confirm whether the server is available.
+
+[500001]
+COUNT = 2
+1 = Received incorrect Barcode#2 from server.
+2 = Confirm whether the server is available.
+
+[500002]
+COUNT = 2
+1 = Received incorrect Barcode#3 from server.
+2 = Confirm whether the server is available.
+
+[500003]
+COUNT = 2
+1 = Received incorrect Barcode#4 from server.
+2 = Confirm whether the server is available.
+
+[900000]
+COUNT = 1
+1 = Retry Error.
+
+[900001]
+COUNT = 3
+1 = Initialize error.
+2 = Confirm whether I/O Module is normally.
+3 = Confirm whether Motor Module is normally.
+
+[900002]
+COUNT = 2
+1 = Motor board initialization Check Error.
+2 = Please check the I/O Device
+
+[900003]
+COUNT = 2
+1 = I/O board initialization Error.
+2 = Please check the I/O Device
+
+[990000]
+COUNT = 3
+1 = This alarm code is not defined and we cannot find it in this alarm code list.
+2 = Please get in touch with AMT engineers.
+3 = All right reserved.
+

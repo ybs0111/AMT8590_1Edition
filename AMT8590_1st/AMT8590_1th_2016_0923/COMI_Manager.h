@@ -1,0 +1,756 @@
+// COMI_Manager.h: interface for the COMI_Manager class.
+//
+//////////////////////////////////////////////////////////////////////
+
+#if !defined(AFX_COMI_MANAGER_H__E5BA7DF5_D6AB_4E96_88E6_6DFCC4FD4B18__INCLUDED_)
+#define AFX_COMI_MANAGER_H__E5BA7DF5_D6AB_4E96_88E6_6DFCC4FD4B18__INCLUDED_
+
+#if _MSC_VER > 1000
+#pragma once
+#endif // _MSC_VER > 1000
+
+class COMI_Manager  
+{
+public:
+	COMI_Manager();
+	virtual ~COMI_Manager();
+
+	int HomeCheck_Mot(int n_Axis, int n_TimeOut);
+	int Get_MotPower(int n_Axis);
+	double Get_MotCurrentPos(int n_Axis);
+
+	long _cmmSxIsDone(long Axis, long *IsDone);
+	long _cmmCfgSetSpeedPattern_T(long Axis, long SpeedMode, double WorkSpeed, double Accel, double Decel);
+	long _cmmSxSetSpeedRatio(long Axis, long SpeedMode, double VelRatio, double AccRatio, double DecRatio);	// check
+	long _cmmSxMoveToStart(long Axis, double Position);
+	long _cmmMsCheckSlaveState(long SlaveAxis, long* SlaveState);
+
+	long _cmmIxIsDone( long MapIndex, long *IsDone );
+	long _cmmIxLineToStart(long MapIndex, double* PosList);
+	
+public:
+	void OnMain_Motor_Setting();
+
+public:
+	void SetMotBoardInit( int nVal ) { m_nMotBoardInit = nVal; }
+	int GetMotBoardInit()	{ return m_nMotBoardInit; }
+
+protected:
+	int m_nMotBoardInit;
+};
+
+extern COMI_Manager g_comiMgr;
+
+enum ENUM_MOTOR
+{
+ 	M_D_FEEDER_1,
+ 	M_D_FEEDER_2,
+	M_D_FEEDER_3,
+	M_D_FEEDER_4,
+	M_D_FEEDER_5,
+	M_D_FEEDER_6,
+// 	M_BCR_FEEDER_1,//2015.0503
+// 	M_BCR_FEEDER_2,//2015.0503
+	M_BCR_ATTACH1_R1,//2015.0511
+	M_BCR_ATTACH1_R2,//2015.0511
+	M_BCR_FEEDER_3,
+	M_BCR_FEEDER_4,
+	M_D_VISION_X,
+	M_D_ATTACH_X,
+	M_D_ATTACH_Y,
+	M_D_ATTACH_Z1,
+	M_D_ATTACH_Z2,
+	M_BCR_VISION_X,
+	M_L_REJECT_X,
+	M_BCR_ATTACH1_X,
+	M_BCR_ATTACH1_Z1,
+// 	M_BCR_ATTACH1_R1,
+	M_BCR_FEEDER_1,
+	M_BCR_ATTACH1_Z2,
+// 	M_BCR_ATTACH1_R2,
+	M_BCR_FEEDER_2,
+	M_BCR_ATTACH2_X,
+	M_BCR_ATTACH2_Z1,
+	M_BCR_ATTACH2_R1,
+	M_BCR_ATTACH2_Z2,
+	M_BCR_ATTACH2_R2,
+	M_TOP_VISION_X,
+	M_BTM_VISION_X,
+	M_ULD_Y,
+	M_ULD_Z,
+	M_ULD_CV_PITCH,
+	M_IDBUFFER_EL,
+	M_TOPID_LD1,
+	M_TOPID_LD2,
+	M_BTMID_ULD2,
+	M_BTMID_ULD1,
+	M_INDEX_X,
+	M_INDEX_ROLLER1,
+	M_INDEX_ROLLER2,
+	M_ULD_ROLLER_PITCH,
+	M_ULD_STACKER_Z,
+	
+	MOTOR_COUNT = 42,
+};
+
+//////////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////
+//2014.0820 패킹장비 라벨기기관련 메인스텝
+//////////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////
+#define MAX_STEP		50   //MAX Site의 step를 50개로 가져간다 
+#define MAX_MOTER		50
+
+enum pIDBufferElv
+{
+	P_BUFFER_SAFETY =				0,
+	P_UPBUFFER,
+	P_DOWNBUFFER,
+};
+
+enum pIDBuffer_TOP1
+{
+	P_LDBUFFER_SAFETY =				0,
+	P_LDBUFFER_PICK,
+	P_LDBUFFER_LAOD,
+	P_LDBUFFER_BCR1,
+	P_LDBUFFER_BCR2,
+};
+//enum pIDBuffer_TOP2
+//{
+//	P_LDBUFFER_SAFETY =				0,
+//	P_LDBUFFER_PICK,
+//	P_LDBUFFER_LAOD,
+//};
+//
+enum pIDBuffer_BTM1
+{
+	P_ULDBUFFER_SAFETY =				0,
+	P_ULDBUFFER_PICK,
+	P_ULDBUFFER_ULD,
+};
+
+//enum pIDBuffer_BTM2
+//{
+//	P_ULDBUFFER_SAFETY =				0,
+//	P_ULDBUFFER_PICK,
+//	P_ULDBUFFER_ULD,
+//};
+
+enum pDensityFeeder
+{
+	P_DEMSITY_READY =				0,
+	P_DEMSITY_OUT,
+};
+
+enum pDensityVision
+{
+	P_DENSITY_SAFETY =				0,
+	P_DENSITY_F1,
+	P_DENSITY_F2,
+	P_DENSITY_F3,
+	P_DENSITY_F4,
+	P_DENSITY_F5,
+	P_DENSITY_F6
+};
+
+enum pDensityRobotXY
+{
+	P_XY_DENSITY_SAFETY =				0,
+	P_XY_DENSITY_F14,
+	P_XY_DENSITY_F25,
+	P_XY_DENSITY_F36,
+	P_XY_PLACE_DENSITY,
+	P_XY_ERROR_POS,
+};
+
+enum pDensityRobotZ//각각 2개 Z축
+{
+	P_Z_DENSITY_SAFETY =				0,
+	P_Z_DENSITY_F14,
+	P_Z_DENSITY_F25,
+	P_Z_DENSITY_F36,
+	P_Z_PLACE_F,
+	P_Z_PLACE_ERR,
+};
+
+
+enum pBcrVision
+{
+	P_BARCODE_SAFETY =				0,
+	P_BARCODE_F1,
+	P_BARCODE_F2,
+	P_BARCODE_F3,
+	P_BARCODE_F4,
+	P_BARCODE_UNLOAD,
+};
+
+enum pBcrFeeder
+{
+	P_BCR_FEEDER_SAFETY =				0,
+	P_BCR_FEEDER_PICK,
+	P_BCR_FEEDER_VISION,
+	P_BCR_FEEDER_WASTE,
+	P_BCR_FEEDER_LOAD,
+};
+
+enum pBcrRejectPos
+{
+	P_REJ_BARCODE_SAFETY =				0,
+	P_REJ_BARCODE_F1,
+	P_REJ_BARCODE_F2,
+	P_REJ_BARCODE_F3,
+	P_REJ_BARCODE_F4,
+};
+
+
+enum pBcrRobotRotate
+{
+	P_R_BCR_SAFETY =				0,
+	P_R_BCR_PICK,
+	P_R_BCR_DOWN,
+	P_R_BCR_PLACE,//붙힐때 움지여야하는지???
+};
+
+
+enum pBcrRobotZ
+{
+	P_Z_BCR_SAFETY =				0,
+	P_Z_BCR_PICK,
+	P_Z_BCR_UP,
+	P_Z_BCR_DOWN,
+	P_Z_BCR_ERROR,
+};
+
+enum pBcrRobotX
+{
+	P_X_BCR_SAFETY =				0,
+	P_X_BCR_PICK,
+	P_X_BCR_DOWN,
+	P_X_BCR_PLACE,//붙힐때 움지여야하는지???
+	P_X_BCR_REJECT,
+};
+
+enum pRollerIndexX
+{
+	P_X_ROLLER_SAGETY =				0,
+	P_X_ROLLER_POS,
+};
+
+
+enum pRollerIndex
+{
+	P_ROLLER_SAGETY =				0,
+	P_ROLLER_POS,
+};
+
+
+enum pTopVison
+{
+	P_VIS_SAFETY =				0,
+	P_VIS1_POS,
+	P_VIS2_POS,
+};
+
+//enum pBtmVison
+//{
+//	P_VIS_SAFETY =				0,
+//	P_VIS1_POS,
+//	P_VIS2_POS,
+//};
+
+enum pUnloadZVison
+{
+	P_ULD_Z_SAFETY =				0,
+	P_ULD_Z_UP,
+	P_ULD_Z_PICK_POS,
+	P_ULD_Z_VIS_POS,
+	P_ULD_Z_CONV_POS,
+	P_ULD_Z_REJ_POS,
+	P_ULD_Z_PICK_READY_POS,
+
+};
+
+enum pUnloadYVison
+{
+	P_ULD_Y_SAFETY =				0,
+	P_ULD_Y_PICK_POS,
+	P_ULD_Y_VIS_POS,
+	P_ULD_Y_CONV_POS,
+	P_ULD_Y_REJ_POS,
+};
+
+enum pConvZStacker
+{
+	P_CONV_Z_SAFETY =				0,
+	P_CONV_Z_PICK_UP,
+	P_CONV_Z_PICK,
+	P_CONV_Z_PICK_DOWN,
+};
+
+enum pConvZPitch
+{
+	P_CONV_PITCH_SAFETY =				0,
+	P_CONV_PITCH_MOVE,
+};
+
+
+
+enum pGuideIndex
+{
+	P_GUIDE_SAGETY =				0,
+	P_GUIDE_LOAD_POS,
+	P_GUIDE_UNLOAD_POS,
+};
+
+
+
+
+enum pLoaderShifter_Z
+{
+	P_LDS_Z_SAFETY =			0,
+	P_LDS_Z_PICK,
+	P_LDS_Z_BUFFER_1_PLACE,
+	P_LDS_Z_BUFFER_2_PLACE,
+	P_LDS_Z_WARPAGE_BOAT,
+	P_LDS_Z_WARPAGE_PCB
+};
+
+enum pUnloaderShifter_X
+{
+	P_ULDS_X_PLACE =			0,
+	P_ULDS_X_BUFFER_1,
+	P_ULDS_X_BUFFER_2
+};
+
+enum pBuffer_X
+{
+	P_BUF_X_IN =				0,
+	P_BUF_X_FLIPPER,
+	P_BUF_X_OUT,
+	P_BUF_X_WARPAGE_1,
+	P_BUF_X_WARPAGE_2,
+	P_BUF_X_WARPAGE_3,
+	P_BUF_X_WARPAGE_4,
+	P_BUF_X_WARPAGE_5,
+	P_BUF_X_WARPAGE_6,
+	P_BUF_X_WARPAGE_7,
+	P_BUF_X_WARPAGE_8
+};
+
+enum pBuffer_R
+{
+	P_BUF_R_0 =				0,
+	P_BUF_R_90,
+	P_BUF_R_180,
+	P_BUF_R_270,
+};
+
+enum pJigStacker
+{
+	P_JIG_STACKER_0 =		0,
+	P_JIG_STACKER_90
+};
+
+enum pFlipper_Z
+{
+	P_FLIPPER_Z_SAFETY =		0,
+	P_FLIPPER_Z_MSTACKER_TOP,
+	P_FLIPPER_Z_MSTACKER_BOTTOM,
+	P_FLIPPER_Z_MSTACKER_SAFETY_GAP,
+	P_FLIPPER_Z_STATION
+};
+
+
+
+enum pRobot_XY
+{
+	P_ROBOT_XY_SAFETY =		0,
+	P_ROBOT_XY_BUF_1_START,
+	P_ROBOT_XY_BUF_1_END,
+	P_ROBOT_XY_BUF_2_START,
+	P_ROBOT_XY_BUF_2_END,
+	P_ROBOT_XY_FLIPPER,
+	P_ROBOT_XY_GOOD_START,
+	P_ROBOT_XY_GOOD_END,
+	P_ROBOT_XY_STAKCER_1_START,
+	P_ROBOT_XY_STAKCER_1_END,
+	P_ROBOT_XY_STAKCER_2_START,
+	P_ROBOT_XY_STAKCER_2_END,
+	P_ROBOT_XY_STAKCER_3_START,
+	P_ROBOT_XY_STAKCER_3_END,
+	P_ROBOT_XY_STAKCER_4_START,
+	P_ROBOT_XY_STAKCER_4_END
+};
+
+enum pRobot_Z
+{
+	P_ROBOT_Z_SAFETY =		0,
+	P_ROBOT_Z_BUF_1_PICK,
+	P_ROBOT_Z_BUF_2_PICK,
+	P_ROBOT_Z_BUF_PLACE,
+	P_ROBOT_Z_FLIPPER_PICK,
+	P_ROBOT_Z_FLIPPER_PLACE,
+	P_ROBOT_Z_STAKCER_PLACE
+};
+
+enum pRobot_Vacuum_Pitch
+{
+	P_ROBOT_VP_CLOSE =		0,
+	P_ROBOT_VP_OPEN
+};
+
+enum pRobot_Gripper_Pitch
+{
+	P_ROBOT_GP_CLOSE =		0,
+	P_ROBOT_GP_OPEN
+};
+
+// SORTER ROBOT_Z
+enum
+{
+	P_Z_SORTER_SAFETY,
+	P_Z_SORTER_CONV_PICK,
+	P_Z_SORTER_LD_PLACE,
+	P_Z_SORTER_ULD_PICK,
+	P_Z_SORTER_AULD_PLACE,
+	P_Z_SORTER_BULD_PLACE,
+	P_Z_SORTER_RETEST_PICK,
+	P_Z_SORTER_RETEST_PLACE,
+	P_Z_SORTER_REJECT1_PLACE,
+	P_Z_SORTER_REJECT2_PLACE,
+};
+
+// SORTER ROBOT_XY
+enum
+{
+	P_XY_SORTER_SAFETY,
+	P_XY_SORTER_CONV_PICK,
+	P_XY_SORTER_LOAD,
+	P_XY_SORTER_UNLOAD,
+	P_XY_SORTER_UNLOAD_ACONV,
+	P_XY_SORTER_UNLOAD_BCONV,
+	P_XY_SORTER_RETEST_START,
+	P_XY_SORTER_RETEST_END,//ybs
+	P_XY_SORTER_RETEST_CALC,
+	P_XY_SORTER_REJ1_START,
+	P_XY_SORTER_REJ1_END,
+	P_XY_SORTER_REJ1_CALC,
+	P_XY_SORTER_REJ2_START,
+	P_XY_SORTER_REJ2_END,
+	P_XY_SORTER_REJ2_CALC,
+};
+
+// LOADBUFFER_Y
+enum
+{
+	P_LDY_BUFFER_CONV_LOAD,
+	P_LDY_BUFFER_BCR,
+	P_LDY_BUFFER_LOAD_WAIT,//20131128 Unload -> Load 변경
+	P_LDY_BUFFER_LOAD,//20131128 Unload -> Load 변경
+	P_LDY_BUFFER_UP_BCR,
+};
+
+// UNLOADBUFFER_Y
+enum
+{
+	P_ULDY_BUFFER_CONV_UNLOAD,
+	P_ULDY_BUFFER_UNLOAD_WAIT,
+	P_ULDY_BUFFER_UNLOAD,
+};
+
+// LOADUNLOAD_BUFFER_Z
+enum
+{
+	P_Z_BUFFER_SAFETY,
+	P_Z_BUFFER_UNLOAD_WAIT,
+	P_Z_BUFFER_UNLOAD_POS,
+	P_Z_BUFFER_UNLOAD_1,
+	P_Z_BUFFER_UNLOAD_2,
+	P_Z_BUFFER_UNLOAD_3,
+	P_Z_BUFFER_UNLOAD_4,
+	P_Z_BUFFER_UNLOAD_5,
+		
+};
+
+// BCR_X
+enum
+{
+	P_LDX_BCR_SAFETY,
+	P_LDX_BCR_READ_1,
+	P_LDX_BCR_READ_2,
+	P_LDX_BCR_READ_3,
+	P_LDX_BCR_READ_4,
+	P_LDX_BCR_UP_READ_1,
+	P_LDX_BCR_UP_READ_2,
+	P_LDX_BCR_UP_READ_3,
+	P_LDX_BCR_UP_READ_4,
+};
+
+// BCR_Z
+enum
+{
+	P_LDZ_BCR_SAFETY,
+	P_LDZ_BCR_PICK,
+	P_LDZ_BCR_PLACE,
+	P_LDZ_BCR_READ,
+};
+
+// ROBOT_XY
+enum
+{
+	P_XY_LD_SAFETY,
+	P_XY_ULD_SAFETY,
+	
+	P_XY_LDELV_PICK,
+	P_XY_ULDELV_PLACE,
+	
+	P_XY_SITE1_START,
+	P_XY_SITE1_MIDDLE,
+	P_XY_SITE1_END,
+	
+	P_XY_SITE2_START,
+	P_XY_SITE2_MIDDLE,
+	P_XY_SITE2_END,
+	
+	P_XY_SITE3_START,
+	P_XY_SITE3_MIDDLE,
+	P_XY_SITE3_END,
+	
+	P_XY_SITE4_START,
+	P_XY_SITE4_MIDDLE,
+	P_XY_SITE4_END,
+	
+	P_XY_SITE5_START,//ybs
+	P_XY_SITE5_MIDDLE,
+	P_XY_SITE5_END,//ybs
+	
+
+
+	P_XY_REJ_START1,
+	P_XY_REJ_END1,
+	P_XY_REJ_START2,
+	P_XY_REJ_END2,
+	P_XY_RETEST_START,
+	P_XY_RETEST_END,
+	
+	P_XY_REJECT1_CALC,
+	P_XY_REJECT2_CALC,//ybs
+	P_XY_RETEST_CALC,
+	P_XY_REJ_CALC,
+	P_XY_JIG,  //2013,0131
+	P_XY_REJ_START,
+	P_XY_REJ_END,
+};
+
+// Picker ROBOT_Z
+enum
+{
+	P_Z_SAFETY,
+		
+	P_Z_ELV_LOAD1,
+	P_Z_ELV_LOAD2,
+	P_Z_ELV_LOAD3,
+	P_Z_ELV_LOAD4,
+	P_Z_ELV_LOAD5,
+	
+	P_Z_SITE1_LOAD_START,
+	P_Z_SITE1_LOAD_END,
+	P_Z_SITE2_LOAD_START,
+	P_Z_SITE2_LOAD_END,
+	P_Z_SITE3_LOAD_START,
+	P_Z_SITE3_LOAD_END,
+	P_Z_SITE4_LOAD_START,
+	P_Z_SITE4_LOAD_END,
+	P_Z_SITE5_LOAD_START,
+	P_Z_SITE5_LOAD_END,
+	
+	P_Z_ELV_UNLOAD1_PLACE,
+	P_Z_ELV_UNLOAD2_PLACE,
+	P_Z_ELV_UNLOAD3_PLACE,
+	P_Z_ELV_UNLOAD4_PLACE,
+	P_Z_ELV_UNLOAD5_PLACE,
+};
+
+
+
+// BIN Z
+enum
+{
+	P_BIN_Z_TOP,
+	P_BIN_Z_WAIT,
+	P_BIN_Z_ROTATE,
+	P_BIN_Z_PUT_ON,
+	P_BIN_Z_BASE,
+};
+
+// BIN R
+enum
+{
+	P_BIN_R_BASE,
+	P_BIN_R_ROTATE,
+};
+
+// TRANSFER_Y
+enum
+{
+	P_TRANSFER_Y_REJ,
+	P_TRANSFER_Y_BIN,
+};
+
+// TRANSFER_CLAMP
+enum
+{
+	P_CLAMP_UNCLAMP,
+	P_CLAMP_CLAMP,
+	P_CLAMP_SAFETY,
+};
+
+// REJ_STACKER
+enum
+{
+	P_REJ_TRAY_1EA,
+	P_REJ_TRAY_5EA,
+	P_REJ_1EA_WORK,
+};
+
+
+
+
+
+
+enum
+{
+	P_Z_S_SAFETY,
+	P_Z_CONV_PICK,
+		
+	P_Z_LOAD_PLACE,
+	P_Z_UNLOAD_PICK,
+	P_Z_RETEST_PICK,
+	P_Z_RETEST_PLACE,
+	P_Z_REJECT1_PLACE,
+	P_Z_REJECT2_PLACE,
+	P_Z_CONV_APLACE,
+	P_Z_CONV_BPLACE,
+
+
+//
+//	P_Z_TRAY1_PICK,
+//	P_Z_TRAY2_PICK,
+//	P_Z_TRAY3_PICK,//ybs
+//	P_Z_REJ_PLACE,
+//	P_Z_COK_SITE1_PICK_START,
+//	P_Z_COK_STACKER_PICK_START,
+//	P_Z_COK_STACKER_PICK_END,
+//
+//	P_Z_SITE1_PLACE_START,
+//	P_Z_TRAY1_PLACE,
+//	P_Z_COK_SITE1_PLACE_START,
+//	P_Z_COK_STACKER_PLACE_START,
+//	P_XY_JIG_PLACE, //2013,0131
+//	P_XY_JIG_PICK,	
+};
+
+// SITE
+enum
+{
+	P_SITE_COK_CHANGE,
+	P_SITE_SOCKET,
+};
+
+
+
+// COK ROBOT Y
+enum
+{
+	P_CY_COK_0,
+	P_CY_COK_5,
+};
+
+// COK ROBOT Z
+enum
+{
+	P_CZ_SAFETY,
+	P_CZ_COK_0,
+	P_CZ_COK_19,
+};
+
+enum COMMON_TEACHING
+{
+	CT_TSITE_1_Z,
+	CT_TSITE_2_Z,
+	CT_ROBOT_PLACE_Z,
+	CT_ROBOT_SITE1_START_X,
+	CT_ROBOT_SITE1_START_Y,
+	CT_ROBOT_SITE1_START_Z,
+	CT_ROBOT_SITE1_END_X,
+	CT_ROBOT_SITE1_END_Y,
+	CT_ROBOT_SITE1_END_Z,
+
+	CT_ROBOT_SITE2_START_X,
+	CT_ROBOT_SITE2_START_Y,
+	CT_ROBOT_SITE2_START_Z,
+	CT_ROBOT_SITE2_END_X,
+	CT_ROBOT_SITE2_END_Y,
+	CT_ROBOT_SITE2_END_Z,
+
+	CT_ROBOT_COK_START_X,
+	CT_ROBOT_COK_START_Y,
+	CT_ROBOT_COK_START_Z,
+	CT_ROBOT_COK_END_X,
+	CT_ROBOT_COK_END_Y,
+	CT_ROBOT_COK_END_Z,
+
+	CT_COK_Y_START,
+	CT_COK_Y_END,
+	
+	CT_COK_Z_SAFETY,
+	CT_COK_Z_0,
+	CT_COK_Z_19,
+
+	COMMON_TEACHING_MAX,
+};
+
+
+enum
+{
+	CRBT_NONE=-1,
+	CRBT_TRAY1=0,
+	CRBT_TRAY2=100,
+	CRBT_TRAY3=200,
+	CRBT_REJECT=300,
+	CRBT_SITE1_INSERT1=400,
+	CRBT_SITE1_INSERT2=410,
+	CRBT_SITE1_INSERT3=420,
+	CRBT_SITE1_INSERT4=430,
+	CRBT_SITE1_INSERT5=440,
+	CRBT_SITE2_INSERT1=500,
+	CRBT_SITE2_INSERT2=510,
+	CRBT_SITE2_INSERT3=520,
+	CRBT_SITE2_INSERT4=530,
+	CRBT_SITE2_INSERT5=540,
+};
+
+enum
+{
+	P_XY_SAFETY,
+	P_XY_TRAY1_START,
+	P_XY_TRAY1_END,
+	P_XY_TRAY2_START,
+	P_XY_TRAY2_END,
+	P_XY_TRAY3_START,//ybs
+	P_XY_TRAY3_END,//ybs
+	P_XY_COK_SITE1_START,
+	P_XY_COK_STACKER_START,
+	P_XY_COK_STACKER_END,
+	
+	
+	P_XY_TRAY1_CALC,
+	P_XY_TRAY2_CALC,
+	P_XY_TRAY3_CALC,//ybs
+};
+
+
+
+
+#endif // !defined(AFX_COMI_MANAGER_H__E5BA7DF5_D6AB_4E96_88E6_6DFCC4FD4B18__INCLUDED_)
